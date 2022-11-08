@@ -1,0 +1,54 @@
+{
+  "Name": "Com Guards",
+  "Faction": "ComStar",
+  "Miniatures": [
+    {
+      "Name": "Battle Cobra Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Black Knight BL-9-KNT",
+      "Painted": true
+    },
+    {
+      "Name": "Crab CRB-27",
+      "Painted": false
+    },
+    {
+      "Name": "Executioner EXT-4D",
+      "Painted": true
+    },
+    {
+      "Name": "Flashman FLS-8K",
+      "Painted": true
+    },
+    {
+      "Name": "Guillotine GLT-3N",
+      "Painted": false
+    },
+    {
+      "Name": "King Crab KGC-000",
+      "Painted": true
+    },
+    {
+      "Name": "Lancelot LNC25-01",
+      "Painted": true
+    },
+    {
+      "Name": "Mercury MCY-99",
+      "Painted": false
+    },
+    {
+      "Name": "Mongoose MON-66",
+      "Painted": false
+    },
+    {
+      "Name": "Sentinel STN-3L",
+      "Painted": false
+    },
+    {
+      "Name": "Thug THG-11E",
+      "Painted": true
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "4th McCarron\u0027s Armored Cavalry",
+  "Faction": "Capellan Confederation",
+  "Miniatures": [
+    {
+      "Name": "Blackjack BJ-1",
+      "Painted": true
+    },
+    {
+      "Name": "Cataphract CTF-1X",
+      "Painted": true
+    },
+    {
+      "Name": "Catapult CPLT-C1",
+      "Painted": true
+    },
+    {
+      "Name": "Catapult CPLT-C3",
+      "Painted": true
+    },
+    {
+      "Name": "Locust LCT-1E",
+      "Painted": true
+    },
+    {
+      "Name": "Marauder MAD-3R",
+      "Painted": true
+    },
+    {
+      "Name": "Phoenix Hawk PXH-1",
+      "Painted": true
+    },
+    {
+      "Name": "Raven RVN-3L",
+      "Painted": true
+    },
+    {
+      "Name": "Thunderbolt TDR-5S",
+      "Painted": true
+    },
+    {
+      "Name": "UrbanMech UM-R60",
+      "Painted": true
+    },
+    {
+      "Name": "Victor VTR-9B",
+      "Painted": true
+    },
+    {
+      "Name": "Vindicator VND-1R",
+      "Painted": true
+    },
+    {
+      "Name": "Wasp WSP-1A",
+      "Painted": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Cloud Rangers",
+  "Faction": "Clan Smoke Jaguar",
+  "Miniatures": [
+    {
+      "Name": "Arctic Cheetah Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Cougar Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Dire Wolf Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Ebon Jaguar Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Grendel Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Hellbringer Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Hunchback IIC",
+      "Painted": false
+    },
+    {
+      "Name": "Mist Lynx Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Stone Rhino",
+      "Painted": false
+    },
+    {
+      "Name": "Stormcrow Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Timber Wolf Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Warhawk Prime",
+      "Painted": true
+    }
+  ]
+}

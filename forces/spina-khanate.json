@@ -1,0 +1,50 @@
+{
+  "Name": "Spina Khanate",
+  "Faction": "Clan Sea Fox",
+  "Miniatures": [
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Gargoyle Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Grendel Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Hammerhead",
+      "Painted": false
+    },
+    {
+      "Name": "Hellion Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Mist Lynx Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Piranha",
+      "Painted": true
+    },
+    {
+      "Name": "Shadow Cat Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Summoner Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Timber Wolf Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Warhammer IIC",
+      "Painted": false
+    }
+  ]
+}

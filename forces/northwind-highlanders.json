@@ -1,0 +1,22 @@
+{
+  "Name": "Northwind Highlanders",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Archer ARC-2R",
+      "Painted": false
+    },
+    {
+      "Name": "BattleMaster BLR-1G",
+      "Painted": false
+    },
+    {
+      "Name": "Hatchetman HCT-3F",
+      "Painted": false
+    },
+    {
+      "Name": "Highlander HGN-732",
+      "Painted": false
+    }
+  ]
+}

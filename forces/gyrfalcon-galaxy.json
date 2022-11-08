@@ -1,0 +1,62 @@
+{
+  "Name": "Gyrfalcon Galaxy",
+  "Faction": "Clan Jade Falcon",
+  "Miniatures": [
+    {
+      "Name": "Black Lanner Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Cougar Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Crossbow Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": true
+    },
+    {
+      "Name": "Executioner Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Fire Falcon Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Hellbringer Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Hierofalcon Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Howler",
+      "Painted": false
+    },
+    {
+      "Name": "Kit Fox Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Night Gyr Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Summoner Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Timber Wolf Pryde",
+      "Painted": false
+    },
+    {
+      "Name": "Turkina Prime",
+      "Painted": true
+    }
+  ]
+}

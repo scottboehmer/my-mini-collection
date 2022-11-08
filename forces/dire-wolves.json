@@ -1,0 +1,46 @@
+{
+  "Name": "Dire Wolves",
+  "Faction": "Clan Wolf-in-Exile",
+  "Miniatures": [
+    {
+      "Name": "Annihilator ANH-1A",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Gargoyle Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Ice Ferret Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Linebacker Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Pack Hunter",
+      "Painted": false
+    },
+    {
+      "Name": "Pack Hunter",
+      "Painted": false
+    },
+    {
+      "Name": "Sojourner Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Timber Wolf Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Wolfhound IIC",
+      "Painted": false
+    }
+  ]
+}

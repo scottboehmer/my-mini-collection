@@ -1,0 +1,70 @@
+{
+  "Name": "Donegal Guards",
+  "Faction": "Lyran Commonwealth",
+  "Miniatures": [
+    {
+      "Name": "Adder Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Archer ARC-2R",
+      "Painted": false
+    },
+    {
+      "Name": "Axman AXM-1N",
+      "Painted": false
+    },
+    {
+      "Name": "Banshee BNC-3S",
+      "Painted": false
+    },
+    {
+      "Name": "Bushwacker BSW-X1",
+      "Painted": true
+    },
+    {
+      "Name": "Commando COM-2D",
+      "Painted": true
+    },
+    {
+      "Name": "Crusader CRD-3R",
+      "Painted": false
+    },
+    {
+      "Name": "Griffin GRF-1N",
+      "Painted": true
+    },
+    {
+      "Name": "Hunchback HBK-4G",
+      "Painted": false
+    },
+    {
+      "Name": "Ice Ferret Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Linebacker Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Nightstar NSR-9J",
+      "Painted": false
+    },
+    {
+      "Name": "Sojourner Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Warhammer WHM-6R",
+      "Painted": false
+    },
+    {
+      "Name": "Wolfhound WLF-1",
+      "Painted": true
+    },
+    {
+      "Name": "Zeus ZEU-6S",
+      "Painted": false
+    }
+  ]
+}

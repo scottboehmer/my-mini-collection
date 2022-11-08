@@ -1,0 +1,54 @@
+{
+  "Name": "Raging Bears",
+  "Faction": "Clan Ghost Bear",
+  "Miniatures": [
+    {
+      "Name": "Elemental Point",
+      "Painted": true
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Executioner Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Fire Moth Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Horned Owl",
+      "Painted": false
+    },
+    {
+      "Name": "Kingfisher Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Kodiak",
+      "Painted": false
+    },
+    {
+      "Name": "Mad Dog Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Nova Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Stormcrow Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Summoner Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Viper Prime",
+      "Painted": true
+    }
+  ]
+}

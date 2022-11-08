@@ -1,0 +1,42 @@
+{
+  "Name": "1st Nova Cat Guards",
+  "Faction": "Clan Nova Cat",
+  "Miniatures": [
+    {
+      "Name": "Arctic Cheetah Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Ebon Jaguar Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Huntsman Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Mist Lynx Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Nova Cat Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Shadow Cat Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Supernova",
+      "Painted": true
+    },
+    {
+      "Name": "Turkina Prime",
+      "Painted": true
+    }
+  ]
+}

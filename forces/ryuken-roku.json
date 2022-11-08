@@ -1,0 +1,70 @@
+{
+  "Name": "Ryuken-roku",
+  "Faction": "Draconis Combine",
+  "Miniatures": [
+    {
+      "Name": "Atlas AS7-D",
+      "Painted": false
+    },
+    {
+      "Name": "BattleMaster BLR-1G",
+      "Painted": false
+    },
+    {
+      "Name": "Catapult CPLT-K2",
+      "Painted": false
+    },
+    {
+      "Name": "Crab CRB-27",
+      "Painted": false
+    },
+    {
+      "Name": "Crockett CRK-5003-1",
+      "Painted": false
+    },
+    {
+      "Name": "Crusader CRD-3R",
+      "Painted": false
+    },
+    {
+      "Name": "Cyclops CP-10-Z",
+      "Painted": false
+    },
+    {
+      "Name": "Dragon DRG-1N",
+      "Painted": true
+    },
+    {
+      "Name": "Grasshopper GHR-5H",
+      "Painted": false
+    },
+    {
+      "Name": "Jenner JR7-D",
+      "Painted": true
+    },
+    {
+      "Name": "Lancelot LNC25-01",
+      "Painted": false
+    },
+    {
+      "Name": "Orion ON1-K",
+      "Painted": false
+    },
+    {
+      "Name": "Panther PNT-9R",
+      "Painted": true
+    },
+    {
+      "Name": "Phoenix Hawk PXH-1",
+      "Painted": false
+    },
+    {
+      "Name": "Spider SDR-5V",
+      "Painted": true
+    },
+    {
+      "Name": "Wolverine WVR-6R",
+      "Painted": false
+    }
+  ]
+}

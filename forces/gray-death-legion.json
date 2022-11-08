@@ -1,0 +1,26 @@
+{
+  "Name": "Gray Death Legion",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Locust LCT-1V",
+      "Painted": false
+    },
+    {
+      "Name": "Marauder MAD-3R Carlyle",
+      "Painted": false
+    },
+    {
+      "Name": "Rifleman RFL-3N",
+      "Painted": false
+    },
+    {
+      "Name": "Shadow Hawk SHD-2H",
+      "Painted": false
+    },
+    {
+      "Name": "Wolverine WVR-6R",
+      "Painted": false
+    }
+  ]
+}

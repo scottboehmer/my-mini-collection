@@ -1,0 +1,58 @@
+{
+  "Name": "Marik Militia",
+  "Faction": "Free Worlds League",
+  "Miniatures": [
+    {
+      "Name": "Awesome AWS-8Q",
+      "Painted": true
+    },
+    {
+      "Name": "Guillotine GLT-3N",
+      "Painted": true
+    },
+    {
+      "Name": "Hunchback HBK-4G",
+      "Painted": false
+    },
+    {
+      "Name": "Locust LCT-1V",
+      "Painted": true
+    },
+    {
+      "Name": "Longbow LGB-7Q",
+      "Painted": true
+    },
+    {
+      "Name": "Orion ON1-K",
+      "Painted": true
+    },
+    {
+      "Name": "Rifleman RFL-3N",
+      "Painted": true
+    },
+    {
+      "Name": "Shadow Hawk SHD-2H",
+      "Painted": true
+    },
+    {
+      "Name": "Stalker STK-3F",
+      "Painted": true
+    },
+    {
+      "Name": "Stinger STG-3R",
+      "Painted": true
+    },
+    {
+      "Name": "Thunderbolt TDR-5S",
+      "Painted": true
+    },
+    {
+      "Name": "Trebuchet TBT-5N",
+      "Painted": true
+    },
+    {
+      "Name": "Wolverine WVR-6R",
+      "Painted": true
+    }
+  ]
+}

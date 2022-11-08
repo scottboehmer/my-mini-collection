@@ -1,0 +1,50 @@
+{
+  "Name": "Wolf\u0027s Dragoons",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Annihilator ANH-1A",
+      "Painted": false
+    },
+    {
+      "Name": "Archer ARC-2W",
+      "Painted": false
+    },
+    {
+      "Name": "Blackjack BJ-2",
+      "Painted": false
+    },
+    {
+      "Name": "Dire Wolf Widowmaker",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Gargoyle Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Marauder II MAD-4A",
+      "Painted": false
+    },
+    {
+      "Name": "Rifleman RFL-3N",
+      "Painted": false
+    },
+    {
+      "Name": "Timber Wolf Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Warhammer WHM-6R",
+      "Painted": false
+    },
+    {
+      "Name": "Wolfhound WLF-1",
+      "Painted": false
+    }
+  ]
+}

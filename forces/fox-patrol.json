@@ -1,0 +1,26 @@
+{
+  "Name": "Fox Patrol",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Griffin GRF-1N",
+      "Painted": false
+    },
+    {
+      "Name": "Kit Fox Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Locust LCT-1V",
+      "Painted": false
+    },
+    {
+      "Name": "Marauder MAD-3R",
+      "Painted": false
+    },
+    {
+      "Name": "Quickdraw QKD-4G",
+      "Painted": false
+    }
+  ]
+}

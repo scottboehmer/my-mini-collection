@@ -1,0 +1,26 @@
+{
+  "Name": "Kell Hounds",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Archer ARC-2R Kell",
+      "Painted": false
+    },
+    {
+      "Name": "Thunderbolt TDR-5S",
+      "Painted": false
+    },
+    {
+      "Name": "Valkyrie VLK-QA",
+      "Painted": false
+    },
+    {
+      "Name": "Wolfhound WLF-1",
+      "Painted": false
+    },
+    {
+      "Name": "Wolverine WVR-6R",
+      "Painted": false
+    }
+  ]
+}

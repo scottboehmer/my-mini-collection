@@ -1,0 +1,66 @@
+{
+  "Name": "Shadow Wolves",
+  "Faction": "Clan Wolf",
+  "Miniatures": [
+    {
+      "Name": "Adder Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Conjurer",
+      "Painted": true
+    },
+    {
+      "Name": "Dire Wolf Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Dominator",
+      "Painted": true
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": true
+    },
+    {
+      "Name": "Executioner Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Gargoyle Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Ice Ferret Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Linebacker Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Nova Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Orion ON1-K",
+      "Painted": true
+    },
+    {
+      "Name": "Stormcrow Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Stormwolf Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Timber Wolf Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Timber Wolf TC",
+      "Painted": false
+    }
+  ]
+}

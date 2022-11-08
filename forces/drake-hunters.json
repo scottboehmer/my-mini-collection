@@ -1,0 +1,34 @@
+{
+  "Name": "Drake Hunters",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Blackjack BJ-1",
+      "Painted": false
+    },
+    {
+      "Name": "Centurion CN9-A",
+      "Painted": false
+    },
+    {
+      "Name": "Locust LCT-1V",
+      "Painted": false
+    },
+    {
+      "Name": "Shadow Hawk SHD-2H",
+      "Painted": false
+    },
+    {
+      "Name": "Spider SDR-5V",
+      "Painted": false
+    },
+    {
+      "Name": "Trebuchet TBT-5N",
+      "Painted": false
+    },
+    {
+      "Name": "Vindicator VND-1R",
+      "Painted": false
+    }
+  ]
+}

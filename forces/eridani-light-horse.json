@@ -1,0 +1,22 @@
+{
+  "Name": "Eridani Light Horse",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Commando COM-2D",
+      "Painted": false
+    },
+    {
+      "Name": "Jenner JR7-D",
+      "Painted": false
+    },
+    {
+      "Name": "Mongoose MON-66",
+      "Painted": false
+    },
+    {
+      "Name": "Phoenix Hawk PXH-1",
+      "Painted": false
+    }
+  ]
+}

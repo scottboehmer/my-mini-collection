@@ -1,0 +1,38 @@
+{
+  "Name": "Steel Viper Galaxy",
+  "Faction": "Clan Steel Viper",
+  "Miniatures": [
+    {
+      "Name": "Adder Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Battle Cobra Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Black Lanner Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Crossbow Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Kingfisher Prime",
+      "Painted": true
+    },
+    {
+      "Name": "Mad Dog Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Viper Prime",
+      "Painted": true
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "FedCom Brigade",
+  "Faction": "Federated Suns",
+  "Miniatures": [
+    {
+      "Name": "Atlas AS7-D",
+      "Painted": true
+    },
+    {
+      "Name": "Awesome AWS-8Q",
+      "Painted": true
+    },
+    {
+      "Name": "Axman AXM-1N",
+      "Painted": true
+    },
+    {
+      "Name": "Bushwacker BSW-X1",
+      "Painted": true
+    },
+    {
+      "Name": "Catapult CPLT-C1",
+      "Painted": true
+    },
+    {
+      "Name": "Centurion CN9-A",
+      "Painted": true
+    },
+    {
+      "Name": "Commando COM-2D",
+      "Painted": true
+    },
+    {
+      "Name": "Enforcer ENF-4R",
+      "Painted": true
+    },
+    {
+      "Name": "Hunchback HBK-4G",
+      "Painted": true
+    },
+    {
+      "Name": "Nightstar NSR-9J",
+      "Painted": false
+    },
+    {
+      "Name": "Raven RVN-3L",
+      "Painted": true
+    },
+    {
+      "Name": "Stinger STG-3R",
+      "Painted": true
+    },
+    {
+      "Name": "Valkyrie VLK-QA",
+      "Painted": true
+    }
+  ]
+}

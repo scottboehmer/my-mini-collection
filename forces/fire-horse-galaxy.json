@@ -1,0 +1,38 @@
+{
+  "Name": "Fire Horse Galaxy",
+  "Faction": "Clan Hell\u0027s Horses",
+  "Miniatures": [
+    {
+      "Name": "Adder Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Elemental Point",
+      "Painted": false
+    },
+    {
+      "Name": "Gargoyle Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Hellbringer Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Ice Ferret Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Mad Dog Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Nova Prime",
+      "Painted": false
+    }
+  ]
+}
