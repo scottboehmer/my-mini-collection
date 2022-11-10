@@ -359,7 +359,7 @@
     {
       "Name": "Linebacker Prime",
       "CountInCollection": 2,
-      "PendingCount": 0
+      "PendingCount": 1
     },
     {
       "Name": "Locust LCT-1E",
@@ -462,6 +462,11 @@
       "PendingCount": 0
     },
     {
+      "Name": "Quickdraw QKD-4G",
+      "CountInCollection": 0,
+      "PendingCount": 1
+    },
+    {
       "Name": "Raven RVN-3L",
       "CountInCollection": 3,
       "PendingCount": 0
@@ -494,7 +499,7 @@
     {
       "Name": "Sojourner Prime",
       "CountInCollection": 1,
-      "PendingCount": 0
+      "PendingCount": 1
     },
     {
       "Name": "Spider SDR-5V",
