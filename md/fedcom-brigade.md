@@ -1,0 +1,17 @@
+# FedCom Brigade
+**Faction:** Federated Suns
+## Current Force
+- Atlas AS7-D
+- Awesome AWS-8Q
+- Axman AXM-1N
+- Bushwacker BSW-X1
+- Catapult CPLT-C1
+- Centurion CN9-A
+- Commando COM-2D
+- Enforcer ENF-4R
+- Hunchback HBK-4G
+- Raven RVN-3L
+- Stinger STG-3R
+- Valkyrie VLK-QA
+## Planned Expansion
+- Nightstar NSR-9J
