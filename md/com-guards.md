@@ -2,7 +2,7 @@
 **Faction:** ComStar
 ## Current Force
 - Black Knight BL-9-KNT
-- Executioner EXT-4D
+- Exterminator EXT-4D
 - Flashman FLS-8K
 - King Crab KGC-000
 - Lancelot LNC25-01

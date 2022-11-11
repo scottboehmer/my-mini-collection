@@ -43,9 +43,8 @@
 | Ebon Jaguar Prime | 2 | 0 | 2 | 2 |
 | Elemental Point | 16 | 0 | 13 | 3 |
 | Enforcer ENF-4R | 3 | 0 | 1 | 1 |
-| Executioner EXT-4D | 1 | 0 | 1 | 1 |
 | Executioner Prime | 3 | 0 | 3 | 2 |
-| Exterminator EXT-4D | 1 | 0 | 0 | 0 |
+| Exterminator EXT-4D | 2 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 1 | 1 |
 | Flashman FLS-8K | 2 | 0 | 1 | 1 |
