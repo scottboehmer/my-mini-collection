@@ -32,6 +32,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Archer ARC-5R",
+      "CountInCollection": 0,
+      "PendingCount": 1,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Arctic Cheetah Prime",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -47,6 +53,12 @@
       "Name": "Atlas AS7-D (damaged)",
       "CountInCollection": 1,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Atlas AS7-S",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -113,6 +125,12 @@
       "Name": "Blackjack BJ-2",
       "CountInCollection": 3,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Blackjack BJ-3",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -263,6 +281,12 @@
       "Name": "Fire Falcon Prime",
       "CountInCollection": 2,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Fire Moth D",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -440,6 +464,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Locust LCT-3M",
+      "CountInCollection": 0,
+      "PendingCount": 1,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Longbow LGB-7Q",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -514,7 +544,7 @@
     {
       "Name": "Nova Prime",
       "CountInCollection": 4,
-      "PendingCount": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -538,13 +568,19 @@
     {
       "Name": "Phoenix Hawk PXH-1",
       "CountInCollection": 3,
-      "PendingCount": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
       "Name": "Piranha",
       "CountInCollection": 1,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Pouncer Prime",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -658,7 +694,7 @@
     {
       "Name": "Timber Wolf Prime",
       "CountInCollection": 7,
-      "PendingCount": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -730,7 +766,13 @@
     {
       "Name": "Warhammer WHM-6R",
       "CountInCollection": 3,
-      "PendingCount": 0,
+      "PendingCount": 1,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Warhawk C",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -743,6 +785,12 @@
       "Name": "Wasp WSP-1A",
       "CountInCollection": 3,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Wasp WSP-3W",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {
@@ -761,6 +809,12 @@
       "Name": "Wolverine WVR-6R",
       "CountInCollection": 8,
       "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Wraith TR1",
+      "CountInCollection": 0,
+      "PendingCount": 1,
       "WishlistCount": 0
     },
     {

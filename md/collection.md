@@ -7,9 +7,11 @@
 | Archer ARC-2R | 3 | 0 | 0 | 2 | 1 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
+| Archer ARC-5R | 0 | 1 | 0 | 0 | 0 |
 | Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 1 |
 | Atlas AS7-D | 3 | 0 | 0 | 2 | 1 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
+| Atlas AS7-S | 0 | 1 | 0 | 0 | 0 |
 | Atlas II AS7-D-H | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
@@ -21,6 +23,7 @@
 | Black Lanner Prime | 2 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
+| Blackjack BJ-3 | 0 | 1 | 0 | 0 | 0 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
 | Cataphract CTF-1X | 2 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
@@ -46,6 +49,7 @@
 | Executioner Prime | 3 | 0 | 0 | 3 | 2 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
+| Fire Moth D | 0 | 1 | 0 | 0 | 0 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Flashman FLS-8K | 2 | 0 | 0 | 1 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
@@ -75,6 +79,7 @@
 | Linebacker Prime | 2 | 0 | 1 | 3 | 1 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
+| Locust LCT-3M | 0 | 1 | 0 | 0 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
 | Mad Dog Prime | 4 | 0 | 0 | 3 | 1 |
 | Marauder II MAD-4A | 4 | 0 | 0 | 2 | 0 |
@@ -87,12 +92,13 @@
 | Night Gyr Prime | 2 | 0 | 0 | 1 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 0 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
-| Nova Prime | 4 | 0 | 0 | 3 | 1 |
+| Nova Prime | 4 | 1 | 0 | 3 | 1 |
 | Orion ON1-K | 4 | 0 | 0 | 3 | 2 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk PXH-1 | 3 | 0 | 0 | 3 | 1 |
+| Phoenix Hawk PXH-1 | 3 | 1 | 0 | 3 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
+| Pouncer Prime | 0 | 1 | 0 | 0 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 6 | 0 | 0 | 3 | 1 |
@@ -111,7 +117,7 @@
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
-| Timber Wolf Prime | 7 | 0 | 0 | 5 | 2 |
+| Timber Wolf Prime | 7 | 1 | 0 | 5 | 2 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
@@ -123,12 +129,15 @@
 | Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
-| Warhammer WHM-6R | 3 | 0 | 0 | 2 | 1 |
+| Warhammer WHM-6R | 3 | 1 | 0 | 2 | 1 |
+| Warhawk C | 0 | 1 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Wasp WSP-1A | 3 | 0 | 0 | 1 | 1 |
+| Wasp WSP-3W | 0 | 1 | 0 | 0 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 3 | 0 | 0 | 3 | 1 |
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
+| Wraith TR1 | 0 | 1 | 0 | 0 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 350 | 0 | 3 | 230 | 105 |
+| TOTAL | 350 | 13 | 3 | 230 | 105 |
 
