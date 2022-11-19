@@ -4,7 +4,7 @@
 | :--- | ---: | ---: | ---: | ---: |
 | Adder Prime | 5 | 0 | 4 | 2 |
 | Annihilator ANH-1A | 3 | 0 | 2 | 0 |
-| Archer ARC-2R | 3 | 0 | 2 | 0 |
+| Archer ARC-2R | 3 | 0 | 2 | 1 |
 | Archer ARC-2R Kell | 2 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 2 | 0 | 2 | 1 |
@@ -33,7 +33,7 @@
 | Crab CRB-27 | 2 | 0 | 2 | 0 |
 | Crockett CRK-5003-1 | 2 | 0 | 1 | 0 |
 | Crossbow Prime | 2 | 0 | 2 | 1 |
-| Crusader CRD-3R | 4 | 0 | 2 | 0 |
+| Crusader CRD-3R | 4 | 0 | 2 | 1 |
 | Cyclops CP-10-Z | 3 | 0 | 1 | 0 |
 | Dire Wolf Prime | 2 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 |
@@ -123,12 +123,12 @@
 | Vindicator VND-1R | 2 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 2 | 2 |
 | Warhammer IIC | 1 | 0 | 1 | 0 |
-| Warhammer WHM-6R | 3 | 0 | 2 | 0 |
+| Warhammer WHM-6R | 3 | 0 | 2 | 1 |
 | Warhawk Prime | 2 | 0 | 1 | 1 |
 | Wasp WSP-1A | 3 | 0 | 1 | 1 |
 | Wolfhound IIC | 1 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 3 | 0 | 3 | 1 |
 | Wolverine WVR-6R | 8 | 0 | 4 | 1 |
-| Zeus ZEU-6S | 2 | 0 | 1 | 0 |
-| TOTAL | 350 | 3 | 230 | 101 |
+| Zeus ZEU-6S | 2 | 0 | 1 | 1 |
+| TOTAL | 350 | 3 | 230 | 105 |
 

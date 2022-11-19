@@ -1,20 +1,20 @@
 # Donegal Guards
 **Faction:** Lyran Commonwealth
 ## Current Force
+- Archer ARC-2R
 - Bushwacker BSW-X1
 - Commando COM-2D
+- Crusader CRD-3R
 - Griffin GRF-1N
+- Warhammer WHM-6R
 - Wolfhound WLF-1
+- Zeus ZEU-6S
 ## Planned Expansion
 - Adder Prime
-- Archer ARC-2R
 - Axman AXM-1N
 - Banshee BNC-3S
-- Crusader CRD-3R
 - Hunchback HBK-4G
 - Ice Ferret Prime
 - Linebacker Prime
 - Nightstar NSR-9J
 - Sojourner Prime
-- Warhammer WHM-6R
-- Zeus ZEU-6S

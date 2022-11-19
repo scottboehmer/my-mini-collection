@@ -8,7 +8,7 @@
     },
     {
       "Name": "Archer ARC-2R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Axman AXM-1N",
@@ -28,7 +28,7 @@
     },
     {
       "Name": "Crusader CRD-3R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Griffin GRF-1N",
@@ -56,7 +56,7 @@
     },
     {
       "Name": "Warhammer WHM-6R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Wolfhound WLF-1",
@@ -64,7 +64,7 @@
     },
     {
       "Name": "Zeus ZEU-6S",
-      "Painted": false
+      "Painted": true
     }
   ]
 }
