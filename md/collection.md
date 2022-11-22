@@ -39,7 +39,7 @@
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
 | Crusader CRD-3R | 4 | 0 | 0 | 2 | 1 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
-| Dire Wolf Prime | 2 | 0 | 0 | 2 | 1 |
+| Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
@@ -141,5 +141,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 0 | 1 | 0 | 0 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 352 | 13 | 3 | 234 | 105 |
+| TOTAL | 353 | 13 | 3 | 234 | 105 |
 
