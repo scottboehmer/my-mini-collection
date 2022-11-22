@@ -1,0 +1,22 @@
+{
+  "Name": "Swift Wings",
+  "Faction": "Raven Alliance",
+  "Miniatures": [
+    {
+      "Name": "Carrion Crow A",
+      "Painted": false
+    },
+    {
+      "Name": "Mad Dog Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Stormcrow Prime",
+      "Painted": false
+    },
+    {
+      "Name": "War Crow Prime",
+      "Painted": false
+    }
+  ]
+}

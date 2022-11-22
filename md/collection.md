@@ -25,6 +25,7 @@
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
 | Blackjack BJ-3 | 0 | 1 | 0 | 0 | 0 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
+| Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 2 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
@@ -81,7 +82,7 @@
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 0 | 1 | 0 | 0 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
-| Mad Dog Prime | 4 | 0 | 0 | 3 | 1 |
+| Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
 | Marauder II MAD-4A | 4 | 0 | 0 | 2 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
@@ -111,7 +112,7 @@
 | Stalker STK-3F | 2 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
-| Stormcrow Prime | 4 | 0 | 0 | 3 | 1 |
+| Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
 | Stormwolf Prime | 1 | 0 | 0 | 1 | 1 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 2 |
 | Supernova | 1 | 0 | 0 | 1 | 1 |
@@ -128,6 +129,7 @@
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
+| War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 3 | 1 | 0 | 2 | 1 |
 | Warhawk C | 0 | 1 | 0 | 0 | 0 |
@@ -139,5 +141,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 0 | 1 | 0 | 0 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 350 | 13 | 3 | 230 | 105 |
+| TOTAL | 352 | 13 | 3 | 234 | 105 |
 
