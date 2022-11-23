@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 0 | 1 | 0 | 0 | 0 |
 | Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 1 |
-| Atlas AS7-D | 3 | 0 | 0 | 2 | 1 |
+| Atlas AS7-D | 4 | 0 | 0 | 2 | 1 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 0 | 1 | 0 | 0 | 0 |
 | Atlas II AS7-D-H | 1 | 0 | 0 | 1 | 0 |
@@ -37,7 +37,7 @@
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 0 |
 | Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 0 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
-| Crusader CRD-3R | 4 | 0 | 0 | 2 | 1 |
+| Crusader CRD-3R | 5 | 0 | 0 | 2 | 1 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@
 | Locust LCT-3M | 0 | 1 | 0 | 0 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
-| Marauder II MAD-4A | 4 | 0 | 0 | 2 | 0 |
+| Marauder II MAD-4A | 5 | 0 | 0 | 2 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
@@ -94,7 +94,7 @@
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 0 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 4 | 1 | 0 | 3 | 1 |
-| Orion ON1-K | 4 | 0 | 0 | 3 | 2 |
+| Orion ON1-K | 5 | 0 | 0 | 3 | 2 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk PXH-1 | 3 | 1 | 0 | 3 | 1 |
@@ -141,5 +141,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 0 | 1 | 0 | 0 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 353 | 13 | 3 | 234 | 105 |
+| TOTAL | 357 | 13 | 3 | 234 | 105 |
 
