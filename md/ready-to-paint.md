@@ -89,5 +89,5 @@
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
-| TOTAL | 126 |
+| TOTAL | 126 | |
 
