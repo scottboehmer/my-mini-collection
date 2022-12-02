@@ -4,6 +4,7 @@ This repo contains data files tracking my collection of BattleTech miniatures.
 
 ## Generated Markdown
 - [My Collection](md/collection.md)
+- [Ready to Paint](md/ready-to-paint.md)
 - Capellan Confederation
   - [4th McCarron's Armored Cavalry](md/4th-mccarrons-armored-cavalry.md)
 - Clan Ghost Bear
