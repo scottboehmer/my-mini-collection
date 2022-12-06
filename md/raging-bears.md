@@ -9,6 +9,7 @@
 - Viper Prime
 ## Planned Expansion
 - Elemental Point
+- Fire Moth D
 - Horned Owl
 - Kingfisher Prime
 - Kodiak

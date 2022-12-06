@@ -6,6 +6,7 @@
 - Panther PNT-9R
 - Spider SDR-5V
 ## Planned Expansion
+- Archer ARC-5R
 - Atlas AS7-D
 - BattleMaster BLR-1G
 - Catapult CPLT-K2

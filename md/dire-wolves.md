@@ -8,6 +8,7 @@
 - Linebacker Prime
 - Pack Hunter
 - Pack Hunter
+- Pouncer Prime
 - Sojourner Prime
 - Timber Wolf Prime
 - Wolfhound IIC

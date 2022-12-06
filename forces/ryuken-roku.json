@@ -3,6 +3,10 @@
   "Faction": "Draconis Combine",
   "Miniatures": [
     {
+      "Name": "Archer ARC-5R",
+      "Painted": false
+    },
+    {
       "Name": "Atlas AS7-D",
       "Painted": false
     },

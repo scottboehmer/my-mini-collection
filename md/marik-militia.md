@@ -14,4 +14,6 @@
 - Trebuchet TBT-5N
 - Wolverine WVR-6R
 ## Planned Expansion
+- Eris ERS-2N
 - Hunchback HBK-4G
+- Wraith TR1

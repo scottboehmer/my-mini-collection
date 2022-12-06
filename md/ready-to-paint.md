@@ -7,8 +7,10 @@
 | Archer ARC-2R | 1 | Northwind Highlanders |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
+| Archer ARC-5R | 1 | Ryuken-roku |
 | Arctic Cheetah Prime | 1 | Cloud Rangers |
 | Atlas AS7-D | 1 | Ryuken-roku |
+| Atlas AS7-S | 1 | Donegal Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
@@ -32,7 +34,9 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 10 | 1st Nova Cat Guards, Cloud Rangers, Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
+| Eris ERS-2N | 1 | Marik Militia |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
+| Fire Moth D | 1 | Raging Bears |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 1 | Cloud Rangers |
@@ -54,6 +58,7 @@
 | Lancelot LNC25-01 | 1 | Ryuken-roku |
 | Linebacker Prime | 1 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
+| Locust LCT-3M | 1 | Eridani Light Horse |
 | Mad Dog Prime | 3 | Fire Horse Galaxy, Steel Viper Galaxy, Swift Wings |
 | Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
@@ -66,7 +71,8 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Orion ON1-K | 1 | Ryuken-roku |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
-| Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
+| Phoenix Hawk PXH-1 | 3 | 1st Canopian Cuirassiers, Eridani Light Horse, Ryuken-roku |
+| Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sentinel STN-3L | 1 | Com Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
@@ -86,8 +92,10 @@
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
+| Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
-| TOTAL | 126 | |
+| Wraith TR1 | 1 | Marik Militia |
+| TOTAL | 135 | |
 

@@ -11,6 +11,7 @@
 - Zeus ZEU-6S
 ## Planned Expansion
 - Adder Prime
+- Atlas AS7-S
 - Axman AXM-1N
 - Banshee BNC-3S
 - Hunchback HBK-4G

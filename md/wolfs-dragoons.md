@@ -11,4 +11,5 @@
 - Rifleman RFL-3N
 - Timber Wolf Prime
 - Warhammer WHM-6R
+- Wasp WSP-3W
 - Wolfhound WLF-1

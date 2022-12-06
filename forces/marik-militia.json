@@ -7,6 +7,10 @@
       "Painted": true
     },
     {
+      "Name": "Eris ERS-2N",
+      "Painted": false
+    },
+    {
       "Name": "Guillotine GLT-3N",
       "Painted": true
     },
@@ -53,6 +57,10 @@
     {
       "Name": "Wolverine WVR-6R",
       "Painted": true
+    },
+    {
+      "Name": "Wraith TR1",
+      "Painted": false
     }
   ]
 }
