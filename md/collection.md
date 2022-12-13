@@ -92,7 +92,7 @@
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 0 |
 | Night Gyr Prime | 2 | 0 | 0 | 1 | 0 |
-| Nightstar NSR-9J | 2 | 0 | 0 | 2 | 0 |
+| Nightstar NSR-9J | 2 | 0 | 0 | 2 | 1 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 5 | 1 | 0 | 3 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 3 | 2 |
@@ -142,5 +142,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 1 | 1 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 372 | 13 | 3 | 243 | 105 |
+| TOTAL | 372 | 13 | 3 | 243 | 106 |
 

@@ -67,7 +67,7 @@
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
-| Nightstar NSR-9J | 2 | Donegal Guards, FedCom Brigade |
+| Nightstar NSR-9J | 1 | Donegal Guards |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Orion ON1-K | 1 | Ryuken-roku |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
@@ -97,5 +97,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 135 | |
+| TOTAL | 134 | |
 

@@ -10,8 +10,7 @@
 - Commando COM-2D
 - Enforcer ENF-4R
 - Hunchback HBK-4G
+- Nightstar NSR-9J
 - Raven RVN-3L
 - Stinger STG-3R
 - Valkyrie VLK-QA
-## Planned Expansion
-- Nightstar NSR-9J
