@@ -9,27 +9,24 @@
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
 | Arctic Cheetah Prime | 1 | Cloud Rangers |
-| Atlas AS7-D | 1 | Ryuken-roku |
 | Atlas AS7-S | 1 | Donegal Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
 | Banshee BNC-3S | 1 | Donegal Guards |
 | Battle Cobra Prime | 1 | Com Guards |
-| BattleMaster BLR-1G | 2 | Northwind Highlanders, Ryuken-roku |
+| BattleMaster BLR-1G | 1 | Northwind Highlanders |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
 | Carrion Crow A | 1 | Swift Wings |
-| Catapult CPLT-K2 | 1 | Ryuken-roku |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
 | Crab CRB-27 | 2 | Com Guards, Ryuken-roku |
 | Crockett CRK-5003-1 | 1 | Ryuken-roku |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
-| Crusader CRD-3R | 1 | Ryuken-roku |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
@@ -97,5 +94,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 134 | |
+| TOTAL | 130 | |
 

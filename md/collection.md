@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 1 |
-| Atlas AS7-D | 4 | 0 | 0 | 2 | 1 |
+| Atlas AS7-D | 4 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 1 | 0 |
 | Atlas II AS7-D-H | 1 | 0 | 0 | 1 | 0 |
@@ -17,7 +17,7 @@
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 3 | 0 | 0 | 1 | 0 |
 | Battle Cobra Prime | 2 | 0 | 0 | 2 | 1 |
-| BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 0 |
+| BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 2 | 0 | 0 | 2 | 1 |
@@ -29,7 +29,7 @@
 | Cataphract CTF-1X | 2 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
-| Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 0 |
+| Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
@@ -37,7 +37,7 @@
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 0 |
 | Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 0 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
-| Crusader CRD-3R | 5 | 0 | 0 | 2 | 1 |
+| Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -142,5 +142,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 385 | 0 | 3 | 243 | 106 |
+| TOTAL | 385 | 0 | 3 | 243 | 110 |
 
