@@ -76,7 +76,7 @@
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
-| Kodiak | 2 | 0 | 0 | 1 | 0 |
+| Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 1 |
 | Linebacker Prime | 2 | 0 | 1 | 3 | 1 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
@@ -142,5 +142,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 385 | 0 | 3 | 243 | 110 |
+| TOTAL | 385 | 0 | 3 | 243 | 111 |
 

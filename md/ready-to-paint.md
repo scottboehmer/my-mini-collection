@@ -51,7 +51,6 @@
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kingfisher Prime | 1 | Raging Bears |
 | Kit Fox Prime | 1 | Fox Patrol |
-| Kodiak | 1 | Raging Bears |
 | Lancelot LNC25-01 | 1 | Ryuken-roku |
 | Linebacker Prime | 1 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
@@ -94,5 +93,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 130 | |
+| TOTAL | 129 | |
 

@@ -4,6 +4,7 @@
 - Elemental Point
 - Executioner Prime
 - Fire Moth Prime
+- Kodiak
 - Mad Dog Prime
 - Stormcrow Prime
 - Viper Prime
@@ -12,6 +13,5 @@
 - Fire Moth D
 - Horned Owl
 - Kingfisher Prime
-- Kodiak
 - Nova Prime
 - Summoner Prime
