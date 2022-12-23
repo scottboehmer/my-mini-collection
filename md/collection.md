@@ -98,12 +98,12 @@
 | Orion ON1-K | 5 | 0 | 0 | 3 | 2 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk PXH-1 | 5 | 0 | 0 | 4 | 1 |
+| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 2 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
-| Rifleman RFL-3N | 6 | 0 | 0 | 3 | 1 |
+| Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Sentinel STN-3L | 2 | 0 | 0 | 1 | 0 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
@@ -132,15 +132,15 @@
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
-| Warhammer WHM-6R | 5 | 0 | 0 | 2 | 1 |
+| Warhammer WHM-6R | 6 | 0 | 0 | 2 | 1 |
 | Warhawk C | 2 | 0 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
-| Wasp WSP-1A | 3 | 0 | 0 | 1 | 1 |
+| Wasp WSP-1A | 4 | 0 | 0 | 2 | 1 |
 | Wasp WSP-3W | 2 | 0 | 0 | 1 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 3 | 0 | 0 | 3 | 1 |
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 385 | 0 | 3 | 243 | 111 |
+| TOTAL | 389 | 0 | 3 | 244 | 111 |
 

@@ -88,10 +88,11 @@
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
+| Wasp WSP-1A | 1 | 1st Canopian Cuirassiers |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 129 | |
+| TOTAL | 130 | |
 
