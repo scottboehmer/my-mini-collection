@@ -47,3 +47,4 @@ This repo contains data files tracking my collection of BattleTech miniatures.
   - [Swift Wings](md/swift-wings.md)
 - Republic of the Sphere
   - [Hastati Sentinels](md/hastati-sentinels.md)
+  - [Stone's Lament](md/stones-lament.md)
