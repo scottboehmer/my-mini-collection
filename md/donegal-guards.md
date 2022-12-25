@@ -12,6 +12,7 @@
 ## Planned Expansion
 - Adder Prime
 - Atlas AS7-S
+- Atlas II AS7-D-H
 - Axman AXM-1N
 - Banshee BNC-3S
 - Hunchback HBK-4G
