@@ -11,6 +11,7 @@
 | Arctic Cheetah Prime | 1 | Cloud Rangers |
 | Atlas AS7-S | 1 | Donegal Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
+| Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
 | Banshee BNC-3S | 1 | Donegal Guards |
@@ -94,5 +95,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 130 | |
+| TOTAL | 131 | |
 

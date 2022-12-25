@@ -13,7 +13,7 @@
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 1 | 0 |
 | Atlas II AS7-D-H | 2 | 0 | 0 | 1 | 0 |
-| Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 0 | 0 |
+| Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 3 | 0 | 0 | 1 | 0 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 244 | 111 |
+| TOTAL | 391 | 0 | 3 | 245 | 111 |
 
