@@ -127,7 +127,7 @@
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
 | UrbanMech UM-R60 | 14 | 0 | 0 | 1 | 1 |
 | Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
-| Vapor Eagle | 1 | 0 | 0 | 0 | 0 |
+| Vapor Eagle | 1 | 0 | 0 | 1 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 246 | 111 |
+| TOTAL | 391 | 0 | 3 | 247 | 111 |
 

@@ -85,6 +85,7 @@
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
+| Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vindicator VND-1R | 1 | Drake Hunters |
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
@@ -95,5 +96,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 132 | |
+| TOTAL | 133 | |
 

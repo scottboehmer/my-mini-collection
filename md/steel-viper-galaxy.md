@@ -10,3 +10,4 @@
 - Black Lanner Prime
 - Elemental Point
 - Mad Dog Prime
+- Vapor Eagle
