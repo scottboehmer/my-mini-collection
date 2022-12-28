@@ -11,3 +11,4 @@
 - Turkina Prime
 ## Planned Expansion
 - Elemental Point
+- Timber Wolf Prime
