@@ -36,7 +36,7 @@
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
-| Grasshopper GHR-5H | 1 | Ryuken-roku |
+| Grasshopper GHR-5H | 2 | 1st Canopian Cuirassiers, Ryuken-roku |
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Guillotine GLT-3N | 1 | Com Guards |
@@ -60,7 +60,7 @@
 | Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
-| Mercury MCY-99 | 1 | Com Guards |
+| Mercury MCY-99 | 2 | Com Guards, Com Guards |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
@@ -96,5 +96,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 134 | |
+| TOTAL | 136 | |
 

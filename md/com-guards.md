@@ -12,5 +12,6 @@
 - Crab CRB-27
 - Guillotine GLT-3N
 - Mercury MCY-99
+- Mercury MCY-99
 - Mongoose MON-66
 - Sentinel STN-3L

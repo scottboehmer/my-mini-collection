@@ -56,7 +56,7 @@
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Flashman FLS-8K | 2 | 0 | 0 | 1 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
-| Grasshopper GHR-5H | 3 | 0 | 0 | 1 | 0 |
+| Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 0 |
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 1 |
@@ -89,7 +89,7 @@
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
-| Mercury MCY-99 | 2 | 0 | 0 | 1 | 0 |
+| Mercury MCY-99 | 2 | 0 | 0 | 2 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 0 |
 | Night Gyr Prime | 2 | 0 | 0 | 1 | 0 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 248 | 111 |
+| TOTAL | 391 | 0 | 3 | 250 | 111 |
 
