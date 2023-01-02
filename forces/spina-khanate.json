@@ -4,7 +4,7 @@
   "Miniatures": [
     {
       "Name": "Elemental Point",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Gargoyle Prime",
@@ -16,7 +16,7 @@
     },
     {
       "Name": "Hammerhead",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hellion Prime",

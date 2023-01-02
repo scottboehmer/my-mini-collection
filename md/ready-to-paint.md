@@ -8,7 +8,6 @@
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
-| Arctic Cheetah Prime | 1 | Cloud Rangers |
 | Atlas AS7-S | 1 | Donegal Guards |
 | Atlas II AS7-D-H | 2 | Donegal Guards, Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
@@ -31,7 +30,7 @@
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
-| Elemental Point | 10 | 1st Nova Cat Guards, Cloud Rangers, Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
+| Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
 | Eris ERS-2N | 1 | Marik Militia |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
@@ -40,13 +39,12 @@
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Guillotine GLT-3N | 1 | Com Guards |
-| Hammerhead | 1 | Spina Khanate |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Highlander HGN-732 | 1 | Northwind Highlanders |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
-| Hunchback HBK-4G | 2 | Donegal Guards, Marik Militia |
+| Hunchback HBK-4G | 1 | Donegal Guards |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
@@ -80,7 +78,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Summoner Prime | 1 | Raging Bears |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
-| Timber Wolf Prime | 4 | 1st Nova Cat Guards, Dire Wolves, Spina Khanate, Wolf's Dragoons |
+| Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
 | Timber Wolf Pryde | 1 | Gyrfalcon Galaxy |
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
@@ -96,5 +94,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 136 | |
+| TOTAL | 128 | |
 

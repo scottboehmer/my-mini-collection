@@ -8,7 +8,7 @@
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
-| Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 1 |
+| Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D | 4 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 1 | 0 |
@@ -46,7 +46,7 @@
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 2 | 0 | 0 | 1 | 1 |
 | Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
-| Elemental Point | 16 | 0 | 0 | 13 | 3 |
+| Elemental Point | 16 | 0 | 0 | 13 | 7 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 0 |
 | Executioner Prime | 3 | 0 | 0 | 3 | 2 |
@@ -60,7 +60,7 @@
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 1 |
-| Hammerhead | 2 | 0 | 0 | 1 | 0 |
+| Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
@@ -68,7 +68,7 @@
 | Highlander HGN-732 | 2 | 0 | 0 | 1 | 0 |
 | Horned Owl | 1 | 0 | 0 | 1 | 0 |
 | Howler | 2 | 0 | 0 | 1 | 0 |
-| Hunchback HBK-4G | 5 | 0 | 0 | 3 | 1 |
+| Hunchback HBK-4G | 5 | 0 | 0 | 3 | 2 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
@@ -120,7 +120,7 @@
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
-| Timber Wolf Prime | 9 | 0 | 0 | 6 | 2 |
+| Timber Wolf Prime | 9 | 0 | 0 | 6 | 3 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 250 | 111 |
+| TOTAL | 391 | 0 | 3 | 250 | 119 |
 

@@ -3,12 +3,11 @@
 ## Current Force
 - Arctic Cheetah Prime
 - Ebon Jaguar Prime
+- Elemental Point
 - Huntsman Prime
 - Mist Lynx Prime
 - Nova Cat Prime
 - Shadow Cat Prime
 - Supernova
-- Turkina Prime
-## Planned Expansion
-- Elemental Point
 - Timber Wolf Prime
+- Turkina Prime

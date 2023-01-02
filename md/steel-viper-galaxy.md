@@ -4,10 +4,10 @@
 - Adder Prime
 - Battle Cobra Prime
 - Crossbow Prime
+- Elemental Point
 - Kingfisher Prime
 - Viper Prime
 ## Planned Expansion
 - Black Lanner Prime
-- Elemental Point
 - Mad Dog Prime
 - Vapor Eagle

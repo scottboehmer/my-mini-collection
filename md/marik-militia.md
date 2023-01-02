@@ -3,6 +3,7 @@
 ## Current Force
 - Awesome AWS-8Q
 - Guillotine GLT-3N
+- Hunchback HBK-4G
 - Locust LCT-1V
 - Longbow LGB-7Q
 - Orion ON1-K
@@ -15,5 +16,4 @@
 - Wolverine WVR-6R
 ## Planned Expansion
 - Eris ERS-2N
-- Hunchback HBK-4G
 - Wraith TR1
