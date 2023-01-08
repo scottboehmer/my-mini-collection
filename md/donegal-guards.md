@@ -2,21 +2,21 @@
 **Faction:** Lyran Commonwealth
 ## Current Force
 - Archer ARC-2R
+- Atlas AS7-S
+- Atlas II AS7-D-H
+- Banshee BNC-3S
 - Bushwacker BSW-X1
 - Commando COM-2D
 - Crusader CRD-3R
 - Griffin GRF-1N
+- Nightstar NSR-9J
 - Warhammer WHM-6R
 - Wolfhound WLF-1
 - Zeus ZEU-6S
 ## Planned Expansion
 - Adder Prime
-- Atlas AS7-S
-- Atlas II AS7-D-H
 - Axman AXM-1N
-- Banshee BNC-3S
 - Hunchback HBK-4G
 - Ice Ferret Prime
 - Linebacker Prime
-- Nightstar NSR-9J
 - Sojourner Prime

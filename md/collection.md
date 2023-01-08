@@ -11,12 +11,12 @@
 | Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D | 4 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
-| Atlas AS7-S | 2 | 0 | 0 | 1 | 0 |
-| Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 0 |
+| Atlas AS7-S | 2 | 0 | 0 | 1 | 1 |
+| Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Banshee BNC-3S | 3 | 0 | 0 | 1 | 0 |
+| Banshee BNC-3S | 3 | 0 | 0 | 1 | 1 |
 | Battle Cobra Prime | 2 | 0 | 0 | 2 | 1 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
@@ -93,7 +93,7 @@
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 0 |
 | Night Gyr Prime | 2 | 0 | 0 | 1 | 0 |
-| Nightstar NSR-9J | 2 | 0 | 0 | 2 | 1 |
+| Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 3 | 2 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 250 | 119 |
+| TOTAL | 391 | 0 | 3 | 250 | 123 |
 

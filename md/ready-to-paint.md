@@ -8,12 +8,10 @@
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
-| Atlas AS7-S | 1 | Donegal Guards |
-| Atlas II AS7-D-H | 2 | Donegal Guards, Hastati Sentinels |
+| Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
-| Banshee BNC-3S | 1 | Donegal Guards |
 | Battle Cobra Prime | 1 | Com Guards |
 | BattleMaster BLR-1G | 1 | Northwind Highlanders |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
@@ -62,7 +60,6 @@
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
-| Nightstar NSR-9J | 1 | Donegal Guards |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Orion ON1-K | 1 | Ryuken-roku |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
@@ -94,5 +91,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 128 | |
+| TOTAL | 124 | |
 

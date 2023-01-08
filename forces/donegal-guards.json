@@ -12,11 +12,11 @@
     },
     {
       "Name": "Atlas AS7-S",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Atlas II AS7-D-H",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Axman AXM-1N",
@@ -24,7 +24,7 @@
     },
     {
       "Name": "Banshee BNC-3S",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Bushwacker BSW-X1",
@@ -56,7 +56,7 @@
     },
     {
       "Name": "Nightstar NSR-9J",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Sojourner Prime",
