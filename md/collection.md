@@ -8,7 +8,7 @@
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
-| Arctic Cheetah Prime | 2 | 0 | 0 | 2 | 2 |
+| Arctic Cheetah Prime | 3 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D | 4 | 0 | 0 | 2 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 1 | 1 |
@@ -17,11 +17,11 @@
 | Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 3 | 0 | 0 | 1 | 1 |
-| Battle Cobra Prime | 2 | 0 | 0 | 2 | 1 |
+| Battle Cobra Prime | 3 | 0 | 0 | 2 | 1 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
-| Black Lanner Prime | 2 | 0 | 0 | 2 | 1 |
+| Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
 | Blackjack BJ-3 | 2 | 0 | 0 | 0 | 0 |
@@ -79,7 +79,7 @@
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 1 |
-| Linebacker Prime | 2 | 0 | 1 | 3 | 1 |
+| Linebacker Prime | 3 | 0 | 0 | 3 | 1 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
@@ -92,7 +92,7 @@
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 0 |
-| Night Gyr Prime | 2 | 0 | 0 | 1 | 0 |
+| Night Gyr Prime | 3 | 0 | 0 | 1 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 391 | 0 | 3 | 250 | 123 |
+| TOTAL | 396 | 0 | 2 | 250 | 123 |
 
