@@ -45,7 +45,7 @@
     },
     {
       "Name": "Atlas AS7-D",
-      "CountInCollection": 4,
+      "CountInCollection": 6,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -278,6 +278,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Enforcer ENF-5D",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Eris ERS-2N",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -358,6 +364,12 @@
     {
       "Name": "Hatchetman HCT-3F",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Hatchetman HCT-6D",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -580,6 +592,12 @@
     {
       "Name": "Panther PNT-9R",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Penetrator PTR-4D",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
