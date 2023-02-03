@@ -35,8 +35,8 @@
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
-| Crab CRB-27 | 2 | 0 | 0 | 2 | 0 |
-| Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 0 |
+| Crab CRB-27 | 2 | 0 | 0 | 2 | 1 |
+| Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
@@ -78,7 +78,7 @@
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
-| Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 1 |
+| Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Linebacker Prime | 3 | 0 | 0 | 3 | 1 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
@@ -96,7 +96,7 @@
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
-| Orion ON1-K | 5 | 0 | 0 | 3 | 2 |
+| Orion ON1-K | 5 | 0 | 0 | 3 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 1 |
@@ -143,5 +143,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 396 | 0 | 2 | 250 | 123 |
+| TOTAL | 396 | 0 | 2 | 250 | 127 |
 

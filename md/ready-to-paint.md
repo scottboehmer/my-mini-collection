@@ -22,8 +22,7 @@
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
-| Crab CRB-27 | 2 | Com Guards, Ryuken-roku |
-| Crockett CRK-5003-1 | 1 | Ryuken-roku |
+| Crab CRB-27 | 1 | Com Guards |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Dire Wolf Prime | 1 | Shadow Wolves |
@@ -48,7 +47,6 @@
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kingfisher Prime | 1 | Raging Bears |
 | Kit Fox Prime | 1 | Fox Patrol |
-| Lancelot LNC25-01 | 1 | Ryuken-roku |
 | Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
@@ -61,7 +59,6 @@
 | Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
-| Orion ON1-K | 1 | Ryuken-roku |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Phoenix Hawk PXH-1 | 3 | 1st Canopian Cuirassiers, Eridani Light Horse, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
@@ -91,5 +88,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 125 | |
+| TOTAL | 121 | |
 
