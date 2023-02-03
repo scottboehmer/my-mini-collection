@@ -8,6 +8,7 @@
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
+| Atlas AS7-D | 1 | 1st Canopian Cuirassiers |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
@@ -37,6 +38,7 @@
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Guillotine GLT-3N | 1 | Com Guards |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
+| Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Highlander HGN-732 | 1 | Northwind Highlanders |
 | Horned Owl | 1 | Raging Bears |
@@ -60,6 +62,7 @@
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
+| Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk PXH-1 | 3 | 1st Canopian Cuirassiers, Eridani Light Horse, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
@@ -88,5 +91,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 121 | |
+| TOTAL | 124 | |
 

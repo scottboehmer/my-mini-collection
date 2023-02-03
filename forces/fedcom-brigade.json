@@ -35,12 +35,20 @@
       "Painted": true
     },
     {
+      "Name": "Hatchetman HCT-6D",
+      "Painted": false
+    },
+    {
       "Name": "Hunchback HBK-4G",
       "Painted": true
     },
     {
       "Name": "Nightstar NSR-9J",
       "Painted": true
+    },
+    {
+      "Name": "Penetrator PTR-4D",
+      "Painted": false
     },
     {
       "Name": "Raven RVN-3L",

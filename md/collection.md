@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 2 | 2 |
-| Atlas AS7-D | 6 | 0 | 0 | 2 | 2 |
+| Atlas AS7-D | 6 | 0 | 0 | 3 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 1 | 1 |
 | Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
@@ -63,7 +63,7 @@
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 1 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 0 |
-| Hatchetman HCT-6D | 2 | 0 | 0 | 0 | 0 |
+| Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
@@ -101,7 +101,7 @@
 | Orion ON1-K | 5 | 0 | 0 | 3 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
-| Penetrator PTR-4D | 2 | 0 | 0 | 0 | 0 |
+| Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 2 | 0 | 0 | 1 | 0 |
@@ -146,5 +146,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 404 | 0 | 2 | 250 | 127 |
+| TOTAL | 404 | 0 | 2 | 253 | 127 |
 

@@ -14,3 +14,6 @@
 - Raven RVN-3L
 - Stinger STG-3R
 - Valkyrie VLK-QA
+## Planned Expansion
+- Hatchetman HCT-6D
+- Penetrator PTR-4D

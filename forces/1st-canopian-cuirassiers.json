@@ -3,6 +3,10 @@
   "Faction": "Magistracy of Canopus",
   "Miniatures": [
     {
+      "Name": "Atlas AS7-D",
+      "Painted": false
+    },
+    {
       "Name": "Grasshopper GHR-5H",
       "Painted": false
     },
