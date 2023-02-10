@@ -17,3 +17,4 @@
 ## Planned Expansion
 - Hatchetman HCT-6D
 - Penetrator PTR-4D
+- Sagittaire SGT-8R

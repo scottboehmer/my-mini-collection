@@ -26,6 +26,7 @@
 | Crab CRB-27 | 1 | Com Guards |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
+| Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
@@ -66,6 +67,7 @@
 | Phoenix Hawk PXH-1 | 3 | 1st Canopian Cuirassiers, Eridani Light Horse, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
+| Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Sentinel STN-3L | 1 | Com Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
@@ -75,6 +77,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Summoner Prime | 1 | Raging Bears |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
+| Thunderbolt TDR-5SE | 1 | Eridani Light Horse |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
 | Timber Wolf Pryde | 1 | Gyrfalcon Galaxy |
 | Timber Wolf TC | 1 | Shadow Wolves |
@@ -91,5 +94,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 124 | |
+| TOTAL | 127 | |
 

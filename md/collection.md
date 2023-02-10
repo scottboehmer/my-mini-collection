@@ -16,7 +16,7 @@
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Banshee BNC-3S | 3 | 0 | 0 | 1 | 1 |
+| Banshee BNC-3S | 5 | 0 | 0 | 1 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 2 | 1 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
@@ -40,6 +40,7 @@
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
+| Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
@@ -108,6 +109,7 @@
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
+| Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 1 | 0 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
@@ -123,6 +125,7 @@
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
+| Thunderbolt TDR-5SE | 2 | 0 | 0 | 1 | 0 |
 | Timber Wolf Prime | 9 | 0 | 0 | 6 | 3 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
@@ -146,5 +149,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 404 | 0 | 2 | 253 | 127 |
+| TOTAL | 412 | 0 | 2 | 256 | 127 |
 

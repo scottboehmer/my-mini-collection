@@ -87,7 +87,7 @@
     },
     {
       "Name": "Banshee BNC-3S",
-      "CountInCollection": 3,
+      "CountInCollection": 5,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -226,6 +226,12 @@
     {
       "Name": "Cyclops CP-10-Z",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Cyclops CP-11-A",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -638,6 +644,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Sagittaire SGT-8R",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Sentinel STN-3L",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -724,6 +736,12 @@
     {
       "Name": "Thunderbolt TDR-5S",
       "CountInCollection": 4,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Thunderbolt TDR-5SE",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
