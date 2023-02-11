@@ -8,3 +8,4 @@
 - Mongoose MON-66
 - Phoenix Hawk PXH-1
 - Thunderbolt TDR-5SE
+- Thunderbolt TDR-5SE

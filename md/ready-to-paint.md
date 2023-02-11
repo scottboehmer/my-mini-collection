@@ -77,7 +77,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Summoner Prime | 1 | Raging Bears |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
-| Thunderbolt TDR-5SE | 1 | Eridani Light Horse |
+| Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
 | Timber Wolf Pryde | 1 | Gyrfalcon Galaxy |
 | Timber Wolf TC | 1 | Shadow Wolves |
@@ -94,5 +94,5 @@
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 127 | |
+| TOTAL | 128 | |
 

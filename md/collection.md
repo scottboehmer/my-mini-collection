@@ -125,7 +125,7 @@
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
-| Thunderbolt TDR-5SE | 2 | 0 | 0 | 1 | 0 |
+| Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 9 | 0 | 0 | 6 | 3 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
@@ -149,5 +149,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 412 | 0 | 2 | 256 | 127 |
+| TOTAL | 412 | 0 | 2 | 257 | 127 |
 
