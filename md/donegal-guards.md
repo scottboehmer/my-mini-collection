@@ -19,4 +19,5 @@
 - Hunchback HBK-4G
 - Ice Ferret Prime
 - Linebacker Prime
+- Nightsky NGS-4S
 - Sojourner Prime

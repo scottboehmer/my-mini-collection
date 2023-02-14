@@ -224,6 +224,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Crusader CRD-5M",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Cyclops CP-10-Z",
       "CountInCollection": 3,
       "PendingCount": 0,
@@ -344,6 +350,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Grasshopper GHR-5J",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Grendel Prime",
       "CountInCollection": 3,
       "PendingCount": 0,
@@ -356,7 +368,19 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Griffin GRF-3M",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Guillotine GLT-3N",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Gunslinger GUN-1ERD",
       "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
@@ -399,7 +423,7 @@
     },
     {
       "Name": "Highlander HGN-732",
-      "CountInCollection": 2,
+      "CountInCollection": 4,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -562,6 +586,12 @@
     {
       "Name": "Night Gyr Prime",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Nightsky NGS-4S",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -830,6 +860,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Warhammer WHM-7S",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Warhawk C",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -861,7 +897,7 @@
     },
     {
       "Name": "Wolfhound WLF-1",
-      "CountInCollection": 3,
+      "CountInCollection": 5,
       "PendingCount": 0,
       "WishlistCount": 0
     },

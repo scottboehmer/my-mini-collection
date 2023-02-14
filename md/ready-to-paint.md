@@ -25,6 +25,7 @@
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
 | Crab CRB-27 | 1 | Com Guards |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
+| Crusader CRD-5M | 1 | Kell Hounds |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Dire Wolf Prime | 1 | Shadow Wolves |
@@ -37,7 +38,9 @@
 | Grasshopper GHR-5H | 2 | 1st Canopian Cuirassiers, Ryuken-roku |
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
+| Griffin GRF-3M | 1 | Kell Hounds |
 | Guillotine GLT-3N | 1 | Com Guards |
+| Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
@@ -61,6 +64,7 @@
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
+| Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
@@ -91,8 +95,8 @@
 | Wasp WSP-1A | 1 | 1st Canopian Cuirassiers |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
-| Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
+| Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 128 | |
+| TOTAL | 134 | |
 

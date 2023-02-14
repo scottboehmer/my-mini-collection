@@ -17,5 +17,6 @@
 - Archer ARC-5R
 - Cyclops CP-10-Z
 - Grasshopper GHR-5H
+- Gunslinger GUN-1ERD
 - Phoenix Hawk PXH-1
 - Wolverine WVR-6R
