@@ -8,7 +8,7 @@
     },
     {
       "Name": "Grasshopper GHR-5H",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Griffin GRF-1N",
@@ -16,11 +16,11 @@
     },
     {
       "Name": "Phoenix Hawk PXH-1",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Wasp WSP-1A",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

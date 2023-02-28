@@ -59,7 +59,7 @@
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Flashman FLS-8K | 2 | 0 | 0 | 1 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
-| Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 0 |
+| Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 2 | 0 | 0 | 0 | 0 |
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
@@ -108,7 +108,7 @@
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
-| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 1 |
+| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 2 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 2 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
@@ -148,12 +148,12 @@
 | Warhammer WHM-7S | 2 | 0 | 0 | 0 | 0 |
 | Warhawk C | 2 | 0 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
-| Wasp WSP-1A | 4 | 0 | 0 | 2 | 1 |
+| Wasp WSP-1A | 4 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 2 | 0 | 0 | 1 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 428 | 0 | 2 | 263 | 127 |
+| TOTAL | 428 | 0 | 2 | 263 | 130 |
 

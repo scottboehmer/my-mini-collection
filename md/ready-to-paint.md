@@ -35,7 +35,7 @@
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
-| Grasshopper GHR-5H | 2 | 1st Canopian Cuirassiers, Ryuken-roku |
+| Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 1 | Kell Hounds |
@@ -68,7 +68,7 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk PXH-1 | 3 | 1st Canopian Cuirassiers, Eridani Light Horse, Ryuken-roku |
+| Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -92,11 +92,10 @@
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
-| Wasp WSP-1A | 1 | 1st Canopian Cuirassiers |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 134 | |
+| TOTAL | 131 | |
 
