@@ -109,6 +109,7 @@
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 2 |
+| Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 2 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
@@ -155,5 +156,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 428 | 0 | 2 | 263 | 130 |
+| TOTAL | 429 | 0 | 2 | 263 | 130 |
 
