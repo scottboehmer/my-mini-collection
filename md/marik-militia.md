@@ -16,4 +16,5 @@
 - Wolverine WVR-6R
 ## Planned Expansion
 - Eris ERS-2N
+- Ontos Heavy Tank
 - Wraith TR1

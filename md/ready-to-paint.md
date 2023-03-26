@@ -66,6 +66,7 @@
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
+| Ontos Heavy Tank | 1 | Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
@@ -97,5 +98,5 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 131 | |
+| TOTAL | 132 | |
 

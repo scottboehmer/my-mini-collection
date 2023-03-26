@@ -27,7 +27,7 @@
 | Blackjack BJ-3 | 2 | 0 | 0 | 0 | 0 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
-| Cataphract CTF-1X | 2 | 0 | 0 | 1 | 1 |
+| Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
@@ -104,6 +104,7 @@
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
+| Ontos Heavy Tank | 1 | 0 | 0 | 1 | 0 |
 | Orion ON1-K | 5 | 0 | 0 | 3 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
@@ -122,7 +123,7 @@
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 2 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
-| Stalker STK-3F | 2 | 0 | 0 | 1 | 1 |
+| Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
@@ -156,5 +157,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 429 | 0 | 2 | 263 | 130 |
+| TOTAL | 432 | 0 | 2 | 264 | 130 |
 
