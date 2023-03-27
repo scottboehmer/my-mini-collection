@@ -17,4 +17,5 @@
 ## Planned Expansion
 - Eris ERS-2N
 - Ontos Heavy Tank
+- Phoenix Hawk PXH-3M (kitbash)
 - Wraith TR1

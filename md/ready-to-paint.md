@@ -70,6 +70,7 @@
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
+| Phoenix Hawk PXH-3M (kitbash) | 1 | Marik Militia |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -98,5 +99,5 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 132 | |
+| TOTAL | 133 | |
 
