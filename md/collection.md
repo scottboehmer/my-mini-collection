@@ -104,7 +104,7 @@
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
-| Ontos Heavy Tank | 1 | 0 | 0 | 1 | 0 |
+| Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 3 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
@@ -158,5 +158,5 @@
 | Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 433 | 0 | 2 | 265 | 130 |
+| TOTAL | 433 | 0 | 2 | 265 | 131 |
 

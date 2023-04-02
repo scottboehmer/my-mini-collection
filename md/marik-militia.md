@@ -6,6 +6,7 @@
 - Hunchback HBK-4G
 - Locust LCT-1V
 - Longbow LGB-7Q
+- Ontos Heavy Tank
 - Orion ON1-K
 - Rifleman RFL-3N
 - Shadow Hawk SHD-2H
@@ -16,6 +17,5 @@
 - Wolverine WVR-6R
 ## Planned Expansion
 - Eris ERS-2N
-- Ontos Heavy Tank
 - Phoenix Hawk PXH-3M (kitbash)
 - Wraith TR1
