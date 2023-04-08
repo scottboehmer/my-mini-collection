@@ -113,7 +113,7 @@
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 0 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
-| Pouncer Prime | 2 | 0 | 0 | 1 | 0 |
+| Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
@@ -155,7 +155,7 @@
 | Wasp WSP-3W | 2 | 0 | 0 | 1 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
-| Wolverine WVR-6R | 8 | 0 | 0 | 4 | 1 |
+| Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
 | TOTAL | 433 | 0 | 2 | 265 | 131 |
