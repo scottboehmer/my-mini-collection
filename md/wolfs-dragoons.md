@@ -1,6 +1,7 @@
 # Wolf's Dragoons
 **Faction:** Mercenaries
 ## Planned Expansion
+- Adder Prime
 - Annihilator ANH-1A
 - Archer ARC-2W
 - Blackjack BJ-2

@@ -2,18 +2,21 @@
 
 | Miniature | Ready to Paint | Forces |
 | :--- | ---: | :--- |
-| Adder Prime | 2 | Donegal Guards, Fire Horse Galaxy |
+| Adder Prime | 3 | Donegal Guards, Fire Horse Galaxy, Wolf's Dragoons |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R | 1 | Northwind Highlanders |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
-| Atlas AS7-D | 1 | 1st Canopian Cuirassiers |
+| Arctic Cheetah Prime | 1 | Ryuken-roku |
+| Atlas AS7-D | 3 | 1st Canopian Cuirassiers, Com Guards, Marik Militia |
+| Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
-| Awesome AWS-8Q | 1 | Hastati Sentinels |
+| Awesome AWS-8Q | 2 | 1st Canopian Cuirassiers, Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
-| Battle Cobra Prime | 1 | Com Guards |
+| Banshee BNC-3S | 1 | Hesperus Guards |
+| Battle Cobra Prime | 2 | Com Guards, Kell Hounds |
 | BattleMaster BLR-1G | 1 | Northwind Highlanders |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
@@ -34,13 +37,14 @@
 | Eris ERS-2N | 1 | Marik Militia |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
+| Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Guillotine GLT-3N | 1 | Com Guards |
-| Gunslinger GUN-1ERD | 1 | Ryuken-roku |
+| Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
@@ -57,7 +61,7 @@
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | Mad Dog Prime | 3 | Fire Horse Galaxy, Steel Viper Galaxy, Swift Wings |
-| Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
+| Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mercury MCY-99 | 2 | Com Guards, Com Guards |
@@ -73,7 +77,7 @@
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
-| Sentinel STN-3L | 1 | Com Guards |
+| Sentinel STN-3L | 2 | Com Guards, Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner Prime | 1 | Dire Wolves, Donegal Guards |
@@ -98,5 +102,6 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
-| TOTAL | 132 | |
+| Zeus ZEU-6S | 1 | Hesperus Guards |
+| TOTAL | 145 | |
 

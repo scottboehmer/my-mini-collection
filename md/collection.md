@@ -2,22 +2,22 @@
 
 | Miniature | In Collection | Pending Order | Wishlist | Allocated | Painted |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Adder Prime | 5 | 0 | 0 | 4 | 2 |
+| Adder Prime | 5 | 0 | 0 | 5 | 2 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
 | Archer ARC-2R | 3 | 0 | 0 | 2 | 1 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
-| Arctic Cheetah Prime | 3 | 0 | 0 | 2 | 2 |
-| Atlas AS7-D | 6 | 0 | 0 | 3 | 2 |
+| Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
+| Atlas AS7-D | 6 | 0 | 0 | 5 | 2 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
-| Atlas AS7-S | 2 | 0 | 0 | 1 | 1 |
+| Atlas AS7-S | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
-| Awesome AWS-8Q | 4 | 0 | 0 | 3 | 2 |
+| Awesome AWS-8Q | 4 | 0 | 0 | 4 | 2 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Banshee BNC-3S | 5 | 0 | 0 | 1 | 1 |
-| Battle Cobra Prime | 3 | 0 | 0 | 2 | 1 |
+| Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
+| Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
@@ -57,7 +57,7 @@
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 0 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
-| Flashman FLS-8K | 2 | 0 | 0 | 1 | 1 |
+| Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 2 | 0 | 0 | 0 | 0 |
@@ -65,7 +65,7 @@
 | Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 1 |
-| Gunslinger GUN-1ERD | 2 | 0 | 0 | 1 | 0 |
+| Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 0 |
@@ -92,7 +92,7 @@
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
-| Marauder II MAD-4A | 5 | 0 | 0 | 2 | 0 |
+| Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
@@ -118,7 +118,7 @@
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
-| Sentinel STN-3L | 2 | 0 | 0 | 1 | 0 |
+| Sentinel STN-3L | 2 | 0 | 0 | 2 | 0 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -157,6 +157,6 @@
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
-| Zeus ZEU-6S | 2 | 0 | 0 | 1 | 1 |
-| TOTAL | 433 | 0 | 2 | 265 | 131 |
+| Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
+| TOTAL | 433 | 0 | 2 | 278 | 131 |
 

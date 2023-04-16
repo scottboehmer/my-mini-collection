@@ -3,6 +3,10 @@
   "Faction": "Mercenaries",
   "Miniatures": [
     {
+      "Name": "Adder Prime",
+      "Painted": false
+    },
+    {
       "Name": "Annihilator ANH-1A",
       "Painted": false
     },

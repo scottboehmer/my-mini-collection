@@ -7,3 +7,4 @@
 - Wasp WSP-1A
 ## Planned Expansion
 - Atlas AS7-D
+- Awesome AWS-8Q

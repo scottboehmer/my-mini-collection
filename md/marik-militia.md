@@ -16,6 +16,7 @@
 - Trebuchet TBT-5N
 - Wolverine WVR-6R
 ## Planned Expansion
+- Atlas AS7-D
 - Eris ERS-2N
 - Phoenix Hawk PXH-3M (kitbash)
 - Wraith TR1

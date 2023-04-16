@@ -50,3 +50,5 @@ This repo contains data files tracking my collection of BattleTech miniatures.
 - Republic of the Sphere
   - [Hastati Sentinels](md/hastati-sentinels.md)
   - [Stone's Lament](md/stones-lament.md)
+- Vesper Marches
+  - [Hesperus Guards](md/hesperus-guards.md)

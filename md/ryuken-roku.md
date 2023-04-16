@@ -15,8 +15,10 @@
 - Spider SDR-5V
 ## Planned Expansion
 - Archer ARC-5R
+- Arctic Cheetah Prime
 - Cyclops CP-10-Z
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
+- Marauder II MAD-4A
 - Phoenix Hawk PXH-1
 - Wolverine WVR-6R

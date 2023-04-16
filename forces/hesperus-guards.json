@@ -1,0 +1,26 @@
+{
+  "Name": "Hesperus Guards",
+  "Faction": "Vesper Marches",
+  "Miniatures": [
+    {
+      "Name": "Atlas AS7-S",
+      "Painted": false
+    },
+    {
+      "Name": "Banshee BNC-3S",
+      "Painted": false
+    },
+    {
+      "Name": "Flashman FLS-8K",
+      "Painted": false
+    },
+    {
+      "Name": "Sentinel STN-3L",
+      "Painted": false
+    },
+    {
+      "Name": "Zeus ZEU-6S",
+      "Painted": false
+    }
+  ]
+}

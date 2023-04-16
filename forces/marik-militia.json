@@ -3,6 +3,10 @@
   "Faction": "Free Worlds League",
   "Miniatures": [
     {
+      "Name": "Atlas AS7-D",
+      "Painted": false
+    },
+    {
       "Name": "Awesome AWS-8Q",
       "Painted": true
     },

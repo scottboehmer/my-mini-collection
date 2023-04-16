@@ -3,6 +3,10 @@
   "Faction": "ComStar",
   "Miniatures": [
     {
+      "Name": "Atlas AS7-D",
+      "Painted": false
+    },
+    {
       "Name": "Battle Cobra Prime",
       "Painted": false
     },

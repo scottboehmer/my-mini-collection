@@ -2,6 +2,7 @@
 **Faction:** Mercenaries
 ## Planned Expansion
 - Archer ARC-2R Kell
+- Battle Cobra Prime
 - Crusader CRD-5M
 - Griffin GRF-3M
 - Nightsky NGS-4S
