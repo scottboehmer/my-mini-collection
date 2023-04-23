@@ -26,7 +26,6 @@
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
-| Crab CRB-27 | 1 | Com Guards |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
 | Crusader CRD-5M | 1 | Kell Hounds |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
@@ -43,7 +42,6 @@
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 1 | Kell Hounds |
-| Guillotine GLT-3N | 1 | Com Guards |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
@@ -64,9 +62,8 @@
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
-| Mercury MCY-99 | 2 | Com Guards, Com Guards |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
-| Mongoose MON-66 | 2 | Com Guards, Eridani Light Horse |
+| Mongoose MON-66 | 1 | Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
@@ -77,7 +74,7 @@
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
-| Sentinel STN-3L | 2 | Com Guards, Hesperus Guards |
+| Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner Prime | 1 | Dire Wolves, Donegal Guards |
@@ -103,5 +100,5 @@
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Marik Militia |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 145 | |
+| TOTAL | 139 | |
 

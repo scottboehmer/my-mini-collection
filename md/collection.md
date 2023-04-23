@@ -35,7 +35,7 @@
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
-| Crab CRB-27 | 2 | 0 | 0 | 2 | 1 |
+| Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
@@ -64,7 +64,7 @@
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
-| Guillotine GLT-3N | 2 | 0 | 0 | 2 | 1 |
+| Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 0 |
@@ -96,9 +96,9 @@
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
-| Mercury MCY-99 | 2 | 0 | 0 | 2 | 0 |
+| Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
-| Mongoose MON-66 | 2 | 0 | 0 | 2 | 0 |
+| Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
 | Night Gyr Prime | 3 | 0 | 0 | 1 | 0 |
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
@@ -118,7 +118,7 @@
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
-| Sentinel STN-3L | 2 | 0 | 0 | 2 | 0 |
+| Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -158,5 +158,5 @@
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 278 | 131 |
+| TOTAL | 433 | 0 | 2 | 278 | 137 |
 
