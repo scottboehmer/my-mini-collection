@@ -12,7 +12,7 @@
     },
     {
       "Name": "Eris ERS-2N",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Guillotine GLT-3N",
@@ -40,7 +40,7 @@
     },
     {
       "Name": "Phoenix Hawk PXH-3M (kitbash)",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Rifleman RFL-3N",
@@ -72,7 +72,7 @@
     },
     {
       "Name": "Wraith TR1",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

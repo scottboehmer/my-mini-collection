@@ -33,7 +33,6 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
-| Eris ERS-2N | 1 | Marik Militia |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Flashman FLS-8K | 1 | Hesperus Guards |
@@ -70,7 +69,6 @@
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
-| Phoenix Hawk PXH-3M (kitbash) | 1 | Marik Militia |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -98,7 +96,6 @@
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
-| Wraith TR1 | 1 | Marik Militia |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 139 | |
+| TOTAL | 136 | |
 

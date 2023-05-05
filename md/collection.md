@@ -51,7 +51,7 @@
 | Elemental Point | 16 | 0 | 0 | 13 | 7 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 0 | 0 |
-| Eris ERS-2N | 2 | 0 | 0 | 1 | 0 |
+| Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 3 | 0 | 0 | 3 | 2 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
@@ -111,7 +111,7 @@
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 2 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
-| Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 0 |
+| Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
@@ -156,7 +156,7 @@
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
-| Wraith TR1 | 2 | 0 | 0 | 1 | 0 |
+| Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 278 | 137 |
+| TOTAL | 433 | 0 | 2 | 278 | 140 |
 
