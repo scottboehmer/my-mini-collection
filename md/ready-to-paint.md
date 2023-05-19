@@ -38,8 +38,9 @@
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
+| Grasshopper GHR-5J | 1 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers |
-| Griffin GRF-1N | 1 | Fox Patrol |
+| Griffin GRF-1N | 2 | Fox Patrol, Northwind Highlanders |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
@@ -92,10 +93,11 @@
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
+| Warhammer WHM-7S | 1 | Northwind Highlanders |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 136 | |
+| TOTAL | 139 | |
 

@@ -60,9 +60,9 @@
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
-| Grasshopper GHR-5J | 2 | 0 | 0 | 0 | 0 |
+| Grasshopper GHR-5J | 2 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
-| Griffin GRF-1N | 6 | 0 | 0 | 3 | 2 |
+| Griffin GRF-1N | 6 | 0 | 0 | 4 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
@@ -148,7 +148,7 @@
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 6 | 0 | 0 | 2 | 1 |
-| Warhammer WHM-7S | 2 | 0 | 0 | 0 | 0 |
+| Warhammer WHM-7S | 2 | 0 | 0 | 1 | 0 |
 | Warhawk C | 2 | 0 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Wasp WSP-1A | 4 | 0 | 0 | 2 | 2 |
@@ -158,5 +158,5 @@
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 278 | 140 |
+| TOTAL | 433 | 0 | 2 | 281 | 140 |
 
