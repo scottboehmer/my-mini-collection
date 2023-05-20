@@ -50,5 +50,11 @@ This repo contains data files tracking my collection of BattleTech miniatures.
 - Republic of the Sphere
   - [Hastati Sentinels](md/hastati-sentinels.md)
   - [Stone's Lament](md/stones-lament.md)
+- Solaris VII
+  - [Galahad Stables](md/galahad-stables.md)
+  - [Lion City Stables](md/lion-city-stables.md)
+  - [Silver Dragons Stables](md/silver-dragons-stables.md)
+  - [Starlight Stables](md/starlight-stables.md)
+  - [Tandrek Stables](md/tandrek-stables.md)
 - Vesper Marches
   - [Hesperus Guards](md/hesperus-guards.md)

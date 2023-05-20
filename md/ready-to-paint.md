@@ -22,6 +22,7 @@
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
+| Blackjack BJ-3 | 1 | Tandrek Stables |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
@@ -33,6 +34,7 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
+| Enforcer ENF-5D | 1 | Starlight Stables |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Flashman FLS-8K | 1 | Hesperus Guards |
@@ -40,7 +42,7 @@
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grasshopper GHR-5J | 1 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers |
-| Griffin GRF-1N | 2 | Fox Patrol, Northwind Highlanders |
+| Griffin GRF-1N | 3 | Fox Patrol, Lion City Stables, Northwind Highlanders |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hatchetman HCT-3F | 1 | Northwind Highlanders |
@@ -49,7 +51,7 @@
 | Highlander HGN-732 | 1 | Northwind Highlanders |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
-| Hunchback HBK-4G | 1 | Donegal Guards |
+| Hunchback HBK-4G | 2 | Donegal Guards, Galahad Stables |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
@@ -69,7 +71,7 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk PXH-1 | 2 | Eridani Light Horse, Ryuken-roku |
+| Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Ryuken-roku, Silver Dragons Stables |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -99,5 +101,5 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 139 | |
+| TOTAL | 144 | |
 

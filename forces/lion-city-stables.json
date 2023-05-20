@@ -1,0 +1,10 @@
+{
+  "Name": "Lion City Stables",
+  "Faction": "Solaris VII",
+  "Miniatures": [
+    {
+      "Name": "Griffin GRF-1N",
+      "Painted": false
+    }
+  ]
+}

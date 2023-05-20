@@ -1,0 +1,10 @@
+{
+  "Name": "Starlight Stables",
+  "Faction": "Solaris VII",
+  "Miniatures": [
+    {
+      "Name": "Enforcer ENF-5D",
+      "Painted": false
+    }
+  ]
+}

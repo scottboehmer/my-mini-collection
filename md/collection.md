@@ -24,7 +24,7 @@
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
-| Blackjack BJ-3 | 2 | 0 | 0 | 0 | 0 |
+| Blackjack BJ-3 | 2 | 0 | 0 | 1 | 0 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
@@ -50,7 +50,7 @@
 | Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
 | Elemental Point | 16 | 0 | 0 | 13 | 7 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
-| Enforcer ENF-5D | 2 | 0 | 0 | 0 | 0 |
+| Enforcer ENF-5D | 2 | 0 | 0 | 1 | 0 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 3 | 0 | 0 | 3 | 2 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
@@ -62,7 +62,7 @@
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 2 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
-| Griffin GRF-1N | 6 | 0 | 0 | 4 | 2 |
+| Griffin GRF-1N | 6 | 0 | 0 | 5 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
@@ -75,7 +75,7 @@
 | Highlander HGN-732 | 4 | 0 | 0 | 1 | 0 |
 | Horned Owl | 1 | 0 | 0 | 1 | 0 |
 | Howler | 2 | 0 | 0 | 1 | 0 |
-| Hunchback HBK-4G | 5 | 0 | 0 | 3 | 2 |
+| Hunchback HBK-4G | 5 | 0 | 0 | 4 | 2 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
@@ -109,7 +109,7 @@
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
-| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 4 | 2 |
+| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 5 | 2 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
@@ -158,5 +158,5 @@
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 281 | 140 |
+| TOTAL | 433 | 0 | 2 | 286 | 140 |
 
