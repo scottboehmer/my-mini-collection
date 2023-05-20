@@ -4,7 +4,7 @@
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | Adder Prime | 5 | 0 | 0 | 5 | 2 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
-| Archer ARC-2R | 3 | 0 | 0 | 2 | 1 |
+| Archer ARC-2R | 3 | 0 | 0 | 2 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
@@ -18,7 +18,7 @@
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
-| BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 1 |
+| BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
 | Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
@@ -67,12 +67,12 @@
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
-| Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 0 |
+| Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
-| Highlander HGN-732 | 4 | 0 | 0 | 1 | 0 |
+| Highlander HGN-732 | 4 | 0 | 0 | 1 | 1 |
 | Horned Owl | 1 | 0 | 0 | 1 | 0 |
 | Howler | 2 | 0 | 0 | 1 | 0 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 4 | 2 |
@@ -158,5 +158,5 @@
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 286 | 140 |
+| TOTAL | 433 | 0 | 2 | 286 | 144 |
 

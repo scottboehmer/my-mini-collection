@@ -4,7 +4,6 @@
 | :--- | ---: | :--- |
 | Adder Prime | 3 | Donegal Guards, Fire Horse Galaxy, Wolf's Dragoons |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
-| Archer ARC-2R | 1 | Northwind Highlanders |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
@@ -17,7 +16,6 @@
 | Axman AXM-1N | 1 | Donegal Guards |
 | Banshee BNC-3S | 1 | Hesperus Guards |
 | Battle Cobra Prime | 2 | Com Guards, Kell Hounds |
-| BattleMaster BLR-1G | 1 | Northwind Highlanders |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
@@ -45,10 +43,8 @@
 | Griffin GRF-1N | 3 | Fox Patrol, Lion City Stables, Northwind Highlanders |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
-| Hatchetman HCT-3F | 1 | Northwind Highlanders |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
-| Highlander HGN-732 | 1 | Northwind Highlanders |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
 | Hunchback HBK-4G | 2 | Donegal Guards, Galahad Stables |
@@ -101,5 +97,5 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 144 | |
+| TOTAL | 140 | |
 

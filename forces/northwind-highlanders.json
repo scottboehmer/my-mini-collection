@@ -4,11 +4,11 @@
   "Miniatures": [
     {
       "Name": "Archer ARC-2R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "BattleMaster BLR-1G",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Grasshopper GHR-5J",
@@ -24,11 +24,11 @@
     },
     {
       "Name": "Hatchetman HCT-3F",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Highlander HGN-732",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Warhammer WHM-7S",
