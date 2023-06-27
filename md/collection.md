@@ -19,7 +19,7 @@
 | Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
-| Black Knight BL-6-KNT | 2 | 0 | 0 | 1 | 0 |
+| Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
@@ -32,6 +32,7 @@
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
+| Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 0 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
@@ -80,7 +81,7 @@
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
-| Jenner JR7-D | 3 | 0 | 0 | 2 | 1 |
+| Jenner JR7-D | 4 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
@@ -117,6 +118,7 @@
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
+| Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 0 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
@@ -158,5 +160,5 @@
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 433 | 0 | 2 | 286 | 144 |
+| TOTAL | 439 | 0 | 2 | 286 | 144 |
 
