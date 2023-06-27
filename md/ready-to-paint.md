@@ -23,6 +23,7 @@
 | Blackjack BJ-3 | 1 | Tandrek Stables |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
+| Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
@@ -70,6 +71,7 @@
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Ryuken-roku, Silver Dragons Stables |
 | Pouncer Prime | 1 | Dire Wolves |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
+| Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
@@ -97,5 +99,5 @@
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 140 | |
+| TOTAL | 142 | |
 
