@@ -18,6 +18,7 @@
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
+| BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
@@ -36,6 +37,7 @@
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
+| Coyotl Prime | 1 | 0 | 0 | 0 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
@@ -58,14 +60,17 @@
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 0 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
+| Firebee FRB-2E | 1 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
+| Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 2 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 3 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 5 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
+| Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 0 | 0 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
@@ -73,12 +78,15 @@
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
+| Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 4 | 0 | 0 | 1 | 1 |
 | Horned Owl | 1 | 0 | 0 | 1 | 0 |
 | Howler | 2 | 0 | 0 | 1 | 0 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 4 | 2 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
+| Hybrid Rifleman | 1 | 0 | 0 | 0 | 0 |
+| Icarus II ICR-1S | 1 | 0 | 0 | 0 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
 | Jenner JR7-D | 4 | 0 | 0 | 2 | 1 |
@@ -92,6 +100,7 @@
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
+| Mackie MSK-5S | 1 | 0 | 0 | 0 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
@@ -125,6 +134,7 @@
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 2 | 0 |
+| Spartan SPT-N2 | 1 | 0 | 0 | 0 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
@@ -141,7 +151,11 @@
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
+| UrbanMech UM-R27 | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R60 | 14 | 0 | 0 | 1 | 1 |
+| UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech UM-R60L | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
 | Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 1 | 0 | 0 | 1 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
@@ -159,6 +173,7 @@
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
+| Ymir BWP-2B | 1 | 0 | 0 | 0 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 439 | 0 | 2 | 288 | 144 |
+| TOTAL | 454 | 0 | 2 | 288 | 144 |
 
