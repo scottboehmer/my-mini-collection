@@ -3,6 +3,10 @@
   "Faction": "Clan Sea Fox",
   "Miniatures": [
     {
+      "Name": "Coyotl Prime",
+      "Painted": false
+    },
+    {
       "Name": "Elemental Point",
       "Painted": true
     },

@@ -9,6 +9,7 @@
 - Piranha
 - Summoner Prime
 ## Planned Expansion
+- Coyotl Prime
 - Mist Lynx Prime
 - Shadow Cat Prime
 - Timber Wolf Prime

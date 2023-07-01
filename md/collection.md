@@ -25,7 +25,7 @@
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
-| Blackjack BJ-3 | 2 | 0 | 0 | 1 | 0 |
+| Blackjack BJ-3 | 2 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
@@ -37,7 +37,7 @@
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
-| Coyotl Prime | 1 | 0 | 0 | 0 | 0 |
+| Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
@@ -60,7 +60,7 @@
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 0 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
-| Firebee FRB-2E | 1 | 0 | 0 | 0 | 0 |
+| Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
@@ -70,7 +70,7 @@
 | Griffin GRF-1N | 6 | 0 | 0 | 5 | 2 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
-| Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 0 | 0 |
+| Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
@@ -86,7 +86,7 @@
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 1 | 0 | 0 | 0 | 0 |
-| Icarus II ICR-1S | 1 | 0 | 0 | 0 | 0 |
+| Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
 | Jenner JR7-D | 4 | 0 | 0 | 2 | 1 |
@@ -100,7 +100,7 @@
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
-| Mackie MSK-5S | 1 | 0 | 0 | 0 | 0 |
+| Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
@@ -115,17 +115,17 @@
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
 | Nova Prime | 6 | 0 | 0 | 3 | 1 |
 | Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
-| Orion ON1-K | 5 | 0 | 0 | 3 | 3 |
+| Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
-| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 5 | 2 |
+| Phoenix Hawk PXH-1 | 6 | 0 | 0 | 6 | 2 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
-| Raven RVN-3L | 3 | 0 | 0 | 2 | 2 |
+| Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
@@ -151,10 +151,10 @@
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
-| UrbanMech UM-R27 | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech UM-R27 | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R60 | 14 | 0 | 0 | 1 | 1 |
 | UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
-| UrbanMech UM-R60L | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech UM-R60L | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
 | Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 1 | 0 | 0 | 1 | 0 |
@@ -172,8 +172,8 @@
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
 | Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
-| Wraith TR1 | 2 | 0 | 0 | 1 | 1 |
-| Ymir BWP-2B | 1 | 0 | 0 | 0 | 0 |
+| Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
+| Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 454 | 0 | 2 | 288 | 144 |
+| TOTAL | 454 | 0 | 2 | 301 | 144 |
 

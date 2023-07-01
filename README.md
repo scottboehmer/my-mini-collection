@@ -7,6 +7,7 @@ This repo contains data files tracking my collection of BattleTech miniatures.
 - [Ready to Paint](md/ready-to-paint.md)
 - Capellan Confederation
   - [4th McCarron's Armored Cavalry](md/4th-mccarrons-armored-cavalry.md)
+  - [Death Commandos](md/death-commandos.md)
 - Clan Ghost Bear
   - [Raging Bears](md/raging-bears.md)
 - Clan Hell's Horses
@@ -32,6 +33,7 @@ This repo contains data files tracking my collection of BattleTech miniatures.
 - Federated Suns
   - [FedCom Brigade](md/fedcom-brigade.md)
 - Free Worlds League
+  - [Knights of the Inner Sphere](md/knights-of-the-inner-sphere.md)
   - [Marik Militia](md/marik-militia.md)
 - Lyran Commonwealth
   - [Donegal Guards](md/donegal-guards.md)
@@ -52,9 +54,13 @@ This repo contains data files tracking my collection of BattleTech miniatures.
   - [Stone's Lament](md/stones-lament.md)
 - Solaris VII
   - [Galahad Stables](md/galahad-stables.md)
+  - [Independents](md/independents.md)
   - [Lion City Stables](md/lion-city-stables.md)
   - [Silver Dragons Stables](md/silver-dragons-stables.md)
   - [Starlight Stables](md/starlight-stables.md)
   - [Tandrek Stables](md/tandrek-stables.md)
+  - [Teng Stables](md/teng-stables.md)
+- Terran Hegemony
+  - [Hegemony Armed Forces](md/hegemony-armed-forces.md)
 - Vesper Marches
   - [Hesperus Guards](md/hesperus-guards.md)

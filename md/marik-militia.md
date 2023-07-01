@@ -20,3 +20,4 @@
 - Wraith TR1
 ## Planned Expansion
 - Atlas AS7-D
+- Icarus II ICR-1S

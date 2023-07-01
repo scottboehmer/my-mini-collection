@@ -7,6 +7,7 @@
 - Griffin GRF-3M
 - Nightsky NGS-4S
 - Thunderbolt TDR-5S
+- UrbanMech UM-R27
 - Valkyrie VLK-QA
 - Wolfhound WLF-1
 - Wolfhound WLF-1

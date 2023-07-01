@@ -14,3 +14,5 @@
 - Victor VTR-9B
 - Vindicator VND-1R
 - Wasp WSP-1A
+## Planned Expansion
+- UrbanMech UM-R60L

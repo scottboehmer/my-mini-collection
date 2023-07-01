@@ -1,0 +1,18 @@
+{
+  "Name": "Knights of the Inner Sphere",
+  "Faction": "Free Worlds League",
+  "Miniatures": [
+    {
+      "Name": "Guillotine GLT-3N (jumping)",
+      "Painted": false
+    },
+    {
+      "Name": "Orion ON1-K",
+      "Painted": false
+    },
+    {
+      "Name": "Phoenix Hawk PXH-1",
+      "Painted": false
+    }
+  ]
+}

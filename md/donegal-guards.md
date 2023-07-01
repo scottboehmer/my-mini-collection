@@ -21,3 +21,4 @@
 - Linebacker Prime
 - Nightsky NGS-4S
 - Sojourner Prime
+- Ymir BWP-2B

@@ -1,0 +1,10 @@
+{
+  "Name": "Hegemony Armed Forces",
+  "Faction": "Terran Hegemony",
+  "Miniatures": [
+    {
+      "Name": "Mackie MSK-5S",
+      "Painted": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Death Commandos",
+  "Faction": "Capellan Confederation",
+  "Miniatures": [
+    {
+      "Name": "Blackjack BJ-3",
+      "Painted": false
+    },
+    {
+      "Name": "Firebee FRB-2E",
+      "Painted": false
+    },
+    {
+      "Name": "Raven RVN-3L",
+      "Painted": false
+    },
+    {
+      "Name": "Wraith TR1",
+      "Painted": false
+    }
+  ]
+}

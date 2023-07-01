@@ -20,12 +20,13 @@
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
-| Blackjack BJ-3 | 1 | Tandrek Stables |
+| Blackjack BJ-3 | 2 | Death Commandos, Tandrek Stables |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
+| Coyotl Prime | 1 | Spina Khanate |
 | Crossbow Prime | 1 | Gyrfalcon Galaxy |
 | Crusader CRD-5M | 1 | Kell Hounds |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
@@ -36,6 +37,7 @@
 | Enforcer ENF-5D | 1 | Starlight Stables |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
+| Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
@@ -43,6 +45,7 @@
 | Grendel Prime | 1 | Cloud Rangers |
 | Griffin GRF-1N | 3 | Fox Patrol, Lion City Stables, Northwind Highlanders |
 | Griffin GRF-3M | 1 | Kell Hounds |
+| Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
@@ -50,6 +53,7 @@
 | Howler | 1 | Gyrfalcon Galaxy |
 | Hunchback HBK-4G | 2 | Donegal Guards, Galahad Stables |
 | Hunchback IIC | 1 | Cloud Rangers |
+| Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kingfisher Prime | 1 | Raging Bears |
@@ -57,6 +61,7 @@
 | Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
+| Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 3 | Fire Horse Galaxy, Steel Viper Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
@@ -66,10 +71,12 @@
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
+| Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Ryuken-roku, Silver Dragons Stables |
+| Phoenix Hawk PXH-1 | 4 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku, Silver Dragons Stables |
 | Pouncer Prime | 1 | Dire Wolves |
+| Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -87,6 +94,8 @@
 | Timber Wolf Pryde | 1 | Gyrfalcon Galaxy |
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
+| UrbanMech UM-R27 | 1 | Kell Hounds |
+| UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
 | Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vindicator VND-1R | 1 | Drake Hunters |
@@ -98,6 +107,8 @@
 | Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 3 | Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
+| Wraith TR1 | 1 | Death Commandos |
+| Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 142 | |
+| TOTAL | 155 | |
 
