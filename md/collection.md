@@ -32,6 +32,7 @@
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
+| Catapult CPLT-K2K | 2 | 0 | 0 | 0 | 0 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
@@ -62,6 +63,7 @@
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
+| Gargoyle C | 2 | 0 | 0 | 0 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
@@ -126,12 +128,14 @@
 | Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
+| Regent Prime | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
+| Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 2 | 0 |
 | Spartan SPT-N2 | 1 | 0 | 0 | 0 | 0 |
@@ -175,5 +179,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 454 | 0 | 2 | 301 | 144 |
+| TOTAL | 462 | 0 | 2 | 301 | 144 |
 
