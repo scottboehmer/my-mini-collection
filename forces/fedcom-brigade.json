@@ -36,7 +36,7 @@
     },
     {
       "Name": "Hatchetman HCT-6D",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hunchback HBK-4G",
@@ -48,7 +48,7 @@
     },
     {
       "Name": "Penetrator PTR-4D",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Raven RVN-3L",
@@ -56,7 +56,7 @@
     },
     {
       "Name": "Sagittaire SGT-8R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Stinger STG-3R",

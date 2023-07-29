@@ -47,7 +47,6 @@
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
-| Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
@@ -73,13 +72,11 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
-| Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk PXH-1 | 4 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku, Silver Dragons Stables |
 | Pouncer Prime | 1 | Dire Wolves |
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
-| Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
@@ -110,5 +107,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 155 | |
+| TOTAL | 152 | |
 

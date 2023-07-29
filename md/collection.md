@@ -76,7 +76,7 @@
 | Gunslinger GUN-1ERD | 2 | 0 | 0 | 2 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
-| Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 0 |
+| Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
@@ -120,7 +120,7 @@
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
-| Penetrator PTR-4D | 2 | 0 | 0 | 1 | 0 |
+| Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 6 | 2 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
@@ -131,7 +131,7 @@
 | Regent Prime | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 0 |
-| Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 0 |
+| Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
@@ -179,5 +179,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 462 | 0 | 2 | 301 | 144 |
+| TOTAL | 462 | 0 | 2 | 301 | 147 |
 

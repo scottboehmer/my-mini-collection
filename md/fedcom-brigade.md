@@ -9,12 +9,11 @@
 - Centurion CN9-A
 - Commando COM-2D
 - Enforcer ENF-4R
+- Hatchetman HCT-6D
 - Hunchback HBK-4G
 - Nightstar NSR-9J
+- Penetrator PTR-4D
 - Raven RVN-3L
+- Sagittaire SGT-8R
 - Stinger STG-3R
 - Valkyrie VLK-QA
-## Planned Expansion
-- Hatchetman HCT-6D
-- Penetrator PTR-4D
-- Sagittaire SGT-8R
