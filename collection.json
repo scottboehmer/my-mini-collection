@@ -231,7 +231,7 @@
     },
     {
       "Name": "Crockett CRK-5003-1",
-      "CountInCollection": 2,
+      "CountInCollection": 3,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -291,7 +291,7 @@
     },
     {
       "Name": "Dragon DRG-1N",
-      "CountInCollection": 2,
+      "CountInCollection": 3,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -513,7 +513,7 @@
     },
     {
       "Name": "Hybrid Rifleman",
-      "CountInCollection": 1,
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -536,8 +536,14 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Jade Phoenix Prime",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Jenner JR7-D",
-      "CountInCollection": 4,
+      "CountInCollection": 5,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -634,6 +640,12 @@
     {
       "Name": "Marauder MAD-3R Carlyle",
       "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Mastadon Prime",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -819,7 +831,7 @@
     },
     {
       "Name": "Spartan SPT-N2",
-      "CountInCollection": 1,
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -916,6 +928,12 @@
     {
       "Name": "Turkina Prime",
       "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "UrbanMech UM-AIV",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -1017,7 +1035,7 @@
     },
     {
       "Name": "Wasp WSP-1A",
-      "CountInCollection": 4,
+      "CountInCollection": 5,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -1035,7 +1053,7 @@
     },
     {
       "Name": "Wolfhound WLF-1",
-      "CountInCollection": 5,
+      "CountInCollection": 6,
       "PendingCount": 0,
       "WishlistCount": 0
     },

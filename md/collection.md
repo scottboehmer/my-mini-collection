@@ -40,7 +40,7 @@
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
 | Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
-| Crockett CRK-5003-1 | 2 | 0 | 0 | 1 | 1 |
+| Crockett CRK-5003-1 | 3 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
 | Crusader CRD-5M | 2 | 0 | 0 | 1 | 0 |
@@ -50,7 +50,7 @@
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
-| Dragon DRG-1N | 2 | 0 | 0 | 1 | 1 |
+| Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
 | Elemental Point | 16 | 0 | 0 | 13 | 7 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
@@ -87,11 +87,12 @@
 | Hunchback HBK-4G | 5 | 0 | 0 | 4 | 2 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
-| Hybrid Rifleman | 1 | 0 | 0 | 0 | 0 |
+| Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
-| Jenner JR7-D | 4 | 0 | 0 | 2 | 1 |
+| Jade Phoenix Prime | 1 | 0 | 0 | 1 | 0 |
+| Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
@@ -108,6 +109,7 @@
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
+| Mastadon Prime | 1 | 0 | 0 | 1 | 0 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
@@ -138,7 +140,7 @@
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 2 | 0 |
-| Spartan SPT-N2 | 1 | 0 | 0 | 0 | 0 |
+| Spartan SPT-N2 | 2 | 0 | 0 | 0 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
@@ -155,6 +157,7 @@
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
+| UrbanMech UM-AIV | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R27 | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R60 | 14 | 0 | 0 | 1 | 1 |
 | UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
@@ -171,13 +174,13 @@
 | Warhammer WHM-7S | 2 | 0 | 0 | 1 | 0 |
 | Warhawk C | 2 | 0 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
-| Wasp WSP-1A | 4 | 0 | 0 | 2 | 2 |
+| Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 2 | 0 | 0 | 1 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
-| Wolfhound WLF-1 | 5 | 0 | 0 | 4 | 1 |
+| Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 2 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 462 | 0 | 2 | 301 | 147 |
+| TOTAL | 472 | 0 | 2 | 304 | 148 |
 

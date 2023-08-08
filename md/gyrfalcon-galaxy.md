@@ -14,5 +14,6 @@
 - Crossbow Prime
 - Executioner Prime
 - Howler
+- Jade Phoenix Prime
 - Night Gyr Prime
 - Timber Wolf Pryde

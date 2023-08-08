@@ -1,5 +1,7 @@
 # Kell Hounds
 **Faction:** Mercenaries
+## Current Force
+- Wolfhound WLF-1
 ## Planned Expansion
 - Archer ARC-2R Kell
 - Battle Cobra Prime

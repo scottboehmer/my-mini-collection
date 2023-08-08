@@ -13,5 +13,6 @@
 - Fire Moth D
 - Horned Owl
 - Kingfisher Prime
+- Mastadon Prime
 - Nova Prime
 - Summoner Prime

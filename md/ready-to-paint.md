@@ -54,6 +54,7 @@
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
+| Jade Phoenix Prime | 1 | Gyrfalcon Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kingfisher Prime | 1 | Raging Bears |
 | Kit Fox Prime | 1 | Fox Patrol |
@@ -65,6 +66,7 @@
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
+| Mastadon Prime | 1 | Raging Bears |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy |
@@ -107,5 +109,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 152 | |
+| TOTAL | 154 | |
 
