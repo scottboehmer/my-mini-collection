@@ -20,7 +20,6 @@
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
-| Blackjack BJ-3 | 2 | Death Commandos, Tandrek Stables |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
@@ -34,7 +33,6 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
-| Enforcer ENF-5D | 1 | Starlight Stables |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Firebee FRB-2E | 1 | Death Commandos |
@@ -43,14 +41,14 @@
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grasshopper GHR-5J | 1 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers |
-| Griffin GRF-1N | 3 | Fox Patrol, Lion City Stables, Northwind Highlanders |
+| Griffin GRF-1N | 2 | Fox Patrol, Northwind Highlanders |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 2 | Northwind Highlanders, Ryuken-roku |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
-| Hunchback HBK-4G | 2 | Donegal Guards, Galahad Stables |
+| Hunchback HBK-4G | 1 | Donegal Guards |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
@@ -74,7 +72,7 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
-| Phoenix Hawk PXH-1 | 4 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku, Silver Dragons Stables |
+| Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
@@ -109,5 +107,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 154 | |
+| TOTAL | 148 | |
 

@@ -1,4 +1,4 @@
 # Silver Dragons Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Phoenix Hawk PXH-1

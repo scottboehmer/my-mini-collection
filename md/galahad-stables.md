@@ -1,4 +1,4 @@
 # Galahad Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Hunchback HBK-4G

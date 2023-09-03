@@ -1,4 +1,4 @@
 # Lion City Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Griffin GRF-1N

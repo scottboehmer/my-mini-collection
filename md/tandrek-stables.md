@@ -1,4 +1,4 @@
 # Tandrek Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Blackjack BJ-3

@@ -1,4 +1,4 @@
 # Starlight Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Enforcer ENF-5D
