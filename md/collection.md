@@ -34,7 +34,7 @@
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2K | 2 | 0 | 0 | 0 | 0 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
-| Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 0 |
+| Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 1 |
@@ -132,7 +132,7 @@
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
-| Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 0 |
+| Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
@@ -182,5 +182,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 472 | 0 | 2 | 303 | 153 |
+| TOTAL | 472 | 0 | 2 | 303 | 155 |
 

@@ -1,4 +1,4 @@
 # Teng Stables
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Centurion CN9-YLW Yen-Lo-Wang

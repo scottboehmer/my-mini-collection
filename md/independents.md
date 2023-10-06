@@ -1,4 +1,4 @@
 # Independents
 **Faction:** Solaris VII
-## Planned Expansion
+## Current Force
 - Rifleman RFL-3N Legend-Killer

@@ -22,7 +22,6 @@
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
-| Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Commando COM-2D | 1 | Eridani Light Horse |
 | Cougar Prime | 1 | Gyrfalcon Galaxy |
 | Coyotl Prime | 1 | Spina Khanate |
@@ -76,7 +75,6 @@
 | Pouncer Prime | 1 | Dire Wolves |
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
-| Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
@@ -107,5 +105,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 148 | |
+| TOTAL | 146 | |
 
