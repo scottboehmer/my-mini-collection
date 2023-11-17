@@ -83,7 +83,7 @@
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 4 | 0 | 0 | 1 | 1 |
 | Horned Owl | 1 | 0 | 0 | 1 | 0 |
-| Howler | 2 | 0 | 0 | 1 | 0 |
+| Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 4 | 3 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
@@ -91,7 +91,7 @@
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
-| Jade Phoenix Prime | 1 | 0 | 0 | 1 | 0 |
+| Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
@@ -113,7 +113,7 @@
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
-| Night Gyr Prime | 3 | 0 | 0 | 1 | 0 |
+| Night Gyr Prime | 3 | 0 | 0 | 1 | 1 |
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
@@ -182,5 +182,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 472 | 0 | 2 | 303 | 155 |
+| TOTAL | 472 | 0 | 2 | 303 | 158 |
 

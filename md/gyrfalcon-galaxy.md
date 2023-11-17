@@ -6,14 +6,14 @@
 - Fire Falcon Prime
 - Hellbringer Prime
 - Hierofalcon Prime
+- Howler
+- Jade Phoenix Prime
 - Kit Fox Prime
+- Night Gyr Prime
 - Summoner Prime
 - Turkina Prime
 ## Planned Expansion
 - Cougar Prime
 - Crossbow Prime
 - Executioner Prime
-- Howler
-- Jade Phoenix Prime
-- Night Gyr Prime
 - Timber Wolf Pryde
