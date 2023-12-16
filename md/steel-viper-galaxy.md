@@ -9,5 +9,6 @@
 - Viper Prime
 ## Planned Expansion
 - Black Lanner Prime
+- Executioner Prime
 - Mad Dog Prime
 - Vapor Eagle

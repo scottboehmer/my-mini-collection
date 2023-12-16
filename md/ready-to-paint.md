@@ -32,7 +32,7 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
-| Executioner Prime | 1 | Gyrfalcon Galaxy |
+| Executioner Prime | 2 | Gyrfalcon Galaxy, Steel Viper Galaxy |
 | Fire Moth D | 1 | Raging Bears |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
@@ -102,5 +102,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 143 | |
+| TOTAL | 144 | |
 

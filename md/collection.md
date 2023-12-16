@@ -2,7 +2,7 @@
 
 | Miniature | In Collection | Pending Order | Wishlist | Allocated | Painted |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Adder Prime | 5 | 0 | 0 | 5 | 2 |
+| Adder Prime | 6 | 0 | 0 | 5 | 2 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
 | Archer ARC-2R | 3 | 0 | 0 | 2 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
@@ -52,11 +52,11 @@
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
-| Elemental Point | 16 | 0 | 0 | 13 | 7 |
+| Elemental Point | 18 | 0 | 0 | 13 | 7 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
-| Executioner Prime | 3 | 0 | 0 | 3 | 2 |
+| Executioner Prime | 4 | 0 | 0 | 4 | 2 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 0 |
@@ -68,7 +68,7 @@
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 0 |
-| Grendel Prime | 3 | 0 | 0 | 2 | 1 |
+| Grendel Prime | 4 | 0 | 0 | 2 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 5 | 3 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
@@ -117,7 +117,7 @@
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
-| Nova Prime | 6 | 0 | 0 | 3 | 1 |
+| Nova Prime | 7 | 0 | 0 | 3 | 1 |
 | Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
@@ -152,7 +152,7 @@
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
-| Timber Wolf Prime | 9 | 0 | 0 | 6 | 3 |
+| Timber Wolf Prime | 10 | 0 | 0 | 6 | 3 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
@@ -182,5 +182,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 476 | 0 | 2 | 303 | 158 |
+| TOTAL | 483 | 0 | 2 | 304 | 158 |
 
