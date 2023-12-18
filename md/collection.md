@@ -153,7 +153,7 @@
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 10 | 0 | 0 | 6 | 3 |
-| Timber Wolf Pryde | 1 | 0 | 0 | 1 | 0 |
+| Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
@@ -182,5 +182,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 483 | 0 | 2 | 304 | 158 |
+| TOTAL | 483 | 0 | 2 | 304 | 159 |
 

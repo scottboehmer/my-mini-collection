@@ -83,7 +83,6 @@
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
-| Timber Wolf Pryde | 1 | Gyrfalcon Galaxy |
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
 | UrbanMech UM-R27 | 1 | Kell Hounds |
@@ -102,5 +101,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 144 | |
+| TOTAL | 143 | |
 

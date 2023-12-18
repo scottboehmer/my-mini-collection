@@ -11,9 +11,9 @@
 - Kit Fox Prime
 - Night Gyr Prime
 - Summoner Prime
+- Timber Wolf Pryde
 - Turkina Prime
 ## Planned Expansion
 - Cougar Prime
 - Crossbow Prime
 - Executioner Prime
-- Timber Wolf Pryde
