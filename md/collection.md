@@ -15,6 +15,7 @@
 | Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 4 | 2 |
+| Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
@@ -139,7 +140,8 @@
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
-| Sojourner Prime | 1 | 0 | 1 | 2 | 0 |
+| Sojourner B | 1 | 0 | 0 | 1 | 0 |
+| Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 0 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
@@ -182,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 483 | 0 | 2 | 304 | 159 |
+| TOTAL | 485 | 0 | 2 | 304 | 159 |
 

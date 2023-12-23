@@ -75,7 +75,8 @@
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
-| Sojourner Prime | 1 | Dire Wolves, Donegal Guards |
+| Sojourner B | 1 | Dire Wolves |
+| Sojourner Prime | 1 | Donegal Guards |
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
@@ -101,5 +102,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 143 | |
+| TOTAL | 144 | |
 

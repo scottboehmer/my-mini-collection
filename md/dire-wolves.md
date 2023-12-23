@@ -9,6 +9,6 @@
 - Pack Hunter
 - Pack Hunter
 - Pouncer Prime
-- Sojourner Prime
+- Sojourner B
 - Timber Wolf Prime
 - Wolfhound IIC
