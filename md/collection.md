@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
-| Atlas AS7-D | 6 | 0 | 0 | 5 | 2 |
+| Atlas AS7-D | 6 | 0 | 0 | 5 | 3 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
@@ -103,7 +103,7 @@
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
-| Longbow LGB-7Q | 2 | 0 | 0 | 1 | 1 |
+| Longbow LGB-7Q | 2 | 0 | 0 | 2 | 1 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 304 | 159 |
+| TOTAL | 485 | 0 | 2 | 305 | 160 |
 

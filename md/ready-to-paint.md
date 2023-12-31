@@ -8,7 +8,7 @@
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
 | Arctic Cheetah Prime | 1 | Ryuken-roku |
-| Atlas AS7-D | 3 | 1st Canopian Cuirassiers, Com Guards, Marik Militia |
+| Atlas AS7-D | 2 | Com Guards, Marik Militia |
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
@@ -56,6 +56,7 @@
 | Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
+| Longbow LGB-7Q | 1 | 1st Canopian Cuirassiers |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 3 | Fire Horse Galaxy, Steel Viper Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |

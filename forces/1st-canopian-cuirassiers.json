@@ -4,7 +4,7 @@
   "Miniatures": [
     {
       "Name": "Atlas AS7-D",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Awesome AWS-8Q",
@@ -17,6 +17,10 @@
     {
       "Name": "Griffin GRF-1N",
       "Painted": true
+    },
+    {
+      "Name": "Longbow LGB-7Q",
+      "Painted": false
     },
     {
       "Name": "Phoenix Hawk PXH-1",
