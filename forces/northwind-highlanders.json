@@ -12,15 +12,15 @@
     },
     {
       "Name": "Grasshopper GHR-5J",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Griffin GRF-1N",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Gunslinger GUN-1ERD",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hatchetman HCT-3F",
@@ -32,7 +32,7 @@
     },
     {
       "Name": "Warhammer WHM-7S",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

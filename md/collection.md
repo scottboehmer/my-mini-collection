@@ -68,13 +68,13 @@
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
-| Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 0 |
+| Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 2 | 1 |
-| Griffin GRF-1N | 6 | 0 | 0 | 5 | 3 |
+| Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
 | Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
-| Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 0 |
+| Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
@@ -173,7 +173,7 @@
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 6 | 0 | 0 | 2 | 1 |
-| Warhammer WHM-7S | 3 | 0 | 0 | 1 | 0 |
+| Warhammer WHM-7S | 3 | 0 | 0 | 1 | 1 |
 | Warhawk C | 2 | 0 | 0 | 0 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 305 | 160 |
+| TOTAL | 485 | 0 | 2 | 305 | 164 |
 
