@@ -161,7 +161,7 @@
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
 | UrbanMech UM-AIV | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R27 | 1 | 0 | 0 | 1 | 0 |
-| UrbanMech UM-R60 | 14 | 0 | 0 | 1 | 1 |
+| UrbanMech UM-R60 | 14 | 0 | 0 | 5 | 5 |
 | UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R60L | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 305 | 164 |
+| TOTAL | 485 | 0 | 2 | 309 | 168 |
 
