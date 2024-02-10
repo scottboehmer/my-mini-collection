@@ -1,0 +1,26 @@
+{
+  "Name": "Old Blood and Guts",
+  "Faction": "Clan Star Adder",
+  "Miniatures": [
+    {
+      "Name": "Adder Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Blood Asp Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Grendel Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Night Gyr Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Nova Prime",
+      "Painted": false
+    }
+  ]
+}

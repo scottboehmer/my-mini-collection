@@ -2,7 +2,7 @@
 
 | Miniature | Ready to Paint | Forces |
 | :--- | ---: | :--- |
-| Adder Prime | 3 | Donegal Guards, Fire Horse Galaxy, Wolf's Dragoons |
+| Adder Prime | 4 | Donegal Guards, Fire Horse Galaxy, Old Blood and Guts, Wolf's Dragoons |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
@@ -38,7 +38,7 @@
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
-| Grendel Prime | 1 | Cloud Rangers |
+| Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 1 | Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
@@ -64,8 +64,9 @@
 | Mastadon Prime | 1 | Raging Bears |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
+| Night Gyr Prime | 1 | Old Blood and Guts |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
-| Nova Prime | 2 | Fire Horse Galaxy, Raging Bears |
+| Nova Prime | 3 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
@@ -101,5 +102,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 140 | |
+| TOTAL | 144 | |
 

@@ -20,6 +20,8 @@ This repo contains data files tracking my collection of BattleTech miniatures.
   - [Spina Khanate](md/spina-khanate.md)
 - Clan Smoke Jaguar
   - [Cloud Rangers](md/cloud-rangers.md)
+- Clan Star Adder
+  - [Old Blood and Guts](md/old-blood-and-guts.md)
 - Clan Steel Viper
   - [Steel Viper Galaxy](md/steel-viper-galaxy.md)
 - Clan Wolf
