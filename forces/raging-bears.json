@@ -8,7 +8,7 @@
     },
     {
       "Name": "Elemental Point",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Executioner Prime",
@@ -16,7 +16,7 @@
     },
     {
       "Name": "Fire Moth D",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Fire Moth Prime",
@@ -24,7 +24,7 @@
     },
     {
       "Name": "Horned Owl",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Kingfisher Prime",
@@ -39,12 +39,12 @@
       "Painted": true
     },
     {
-      "Name": "Mastadon Prime",
-      "Painted": false
+      "Name": "Mastodon D",
+      "Painted": true
     },
     {
       "Name": "Nova Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Stormcrow Prime",
@@ -52,7 +52,7 @@
     },
     {
       "Name": "Summoner Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Viper Prime",

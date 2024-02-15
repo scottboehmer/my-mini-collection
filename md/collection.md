@@ -53,14 +53,14 @@
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
-| Elemental Point | 18 | 0 | 0 | 13 | 7 |
+| Elemental Point | 18 | 0 | 0 | 13 | 8 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 2 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
-| Fire Moth D | 2 | 0 | 0 | 1 | 0 |
+| Fire Moth D | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
@@ -83,7 +83,7 @@
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
-| Horned Owl | 1 | 0 | 0 | 1 | 0 |
+| Horned Owl | 1 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 4 | 3 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
@@ -110,7 +110,7 @@
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
-| Mastadon Prime | 1 | 0 | 0 | 1 | 0 |
+| Mastodon D | 1 | 0 | 0 | 1 | 1 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
@@ -118,7 +118,7 @@
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
-| Nova Prime | 7 | 0 | 0 | 4 | 1 |
+| Nova Prime | 7 | 0 | 0 | 4 | 2 |
 | Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
@@ -149,7 +149,7 @@
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
 | Stormwolf Prime | 1 | 0 | 0 | 1 | 1 |
-| Summoner Prime | 7 | 0 | 0 | 3 | 2 |
+| Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 313 | 168 |
+| TOTAL | 485 | 0 | 2 | 313 | 174 |
 

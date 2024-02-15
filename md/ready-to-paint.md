@@ -31,9 +31,8 @@
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
-| Elemental Point | 6 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Raging Bears, Wolf's Dragoons |
+| Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Executioner Prime | 2 | Gyrfalcon Galaxy, Steel Viper Galaxy |
-| Fire Moth D | 1 | Raging Bears |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
@@ -44,7 +43,6 @@
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
-| Horned Owl | 1 | Raging Bears |
 | Hunchback HBK-4G | 1 | Donegal Guards |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
@@ -61,12 +59,11 @@
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
-| Mastadon Prime | 1 | Raging Bears |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
 | Night Gyr Prime | 1 | Old Blood and Guts |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
-| Nova Prime | 3 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears |
+| Nova Prime | 2 | Fire Horse Galaxy, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
@@ -81,7 +78,6 @@
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
-| Summoner Prime | 1 | Raging Bears |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
@@ -102,5 +98,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 144 | |
+| TOTAL | 138 | |
 
