@@ -14,7 +14,7 @@
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 2 | 1st Canopian Cuirassiers, Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
-| Banshee BNC-3S | 1 | Hesperus Guards |
+| Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Hesperus Guards |
 | Battle Cobra Prime | 2 | Com Guards, Kell Hounds |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Black Lanner Prime | 1 | Steel Viper Galaxy |
@@ -75,12 +75,13 @@
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner B | 1 | Dire Wolves |
 | Sojourner Prime | 1 | Donegal Guards |
+| Spartan SPT-N2 | 1 | Com Guards |
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
-| Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
+| Timber Wolf Prime | 4 | Dire Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
 | UrbanMech UM-R27 | 1 | Kell Hounds |
@@ -98,5 +99,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 138 | |
+| TOTAL | 141 | |
 

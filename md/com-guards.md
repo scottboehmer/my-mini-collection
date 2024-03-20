@@ -16,3 +16,4 @@
 ## Planned Expansion
 - Atlas AS7-D
 - Battle Cobra Prime
+- Spartan SPT-N2

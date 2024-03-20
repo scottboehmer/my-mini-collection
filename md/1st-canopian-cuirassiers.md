@@ -8,4 +8,5 @@
 - Wasp WSP-1A
 ## Planned Expansion
 - Awesome AWS-8Q
+- Banshee BNC-3S
 - Longbow LGB-7Q

@@ -17,7 +17,7 @@
 | Awesome AWS-8Q | 4 | 0 | 0 | 4 | 2 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Banshee BNC-3S | 5 | 0 | 0 | 2 | 1 |
+| Banshee BNC-3S | 5 | 0 | 0 | 3 | 1 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
@@ -142,7 +142,7 @@
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
-| Spartan SPT-N2 | 2 | 0 | 0 | 0 | 0 |
+| Spartan SPT-N2 | 2 | 0 | 0 | 1 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
@@ -154,7 +154,7 @@
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
-| Timber Wolf Prime | 10 | 0 | 0 | 6 | 3 |
+| Timber Wolf Prime | 10 | 0 | 0 | 7 | 3 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 313 | 174 |
+| TOTAL | 485 | 0 | 2 | 316 | 174 |
 

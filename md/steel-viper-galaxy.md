@@ -11,4 +11,5 @@
 - Black Lanner Prime
 - Executioner Prime
 - Mad Dog Prime
+- Timber Wolf Prime
 - Vapor Eagle
