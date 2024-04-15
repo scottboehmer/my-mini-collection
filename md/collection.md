@@ -23,7 +23,7 @@
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
-| Black Lanner Prime | 3 | 0 | 0 | 2 | 1 |
+| Black Lanner Prime | 3 | 0 | 0 | 2 | 2 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
 | Blackjack BJ-3 | 2 | 0 | 0 | 1 | 1 |
@@ -57,7 +57,7 @@
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
-| Executioner Prime | 4 | 0 | 0 | 4 | 2 |
+| Executioner Prime | 4 | 0 | 0 | 4 | 3 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 1 |
@@ -105,7 +105,7 @@
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 1 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
-| Mad Dog Prime | 4 | 0 | 0 | 4 | 1 |
+| Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
@@ -154,7 +154,7 @@
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
-| Timber Wolf Prime | 10 | 0 | 0 | 7 | 3 |
+| Timber Wolf Prime | 10 | 0 | 0 | 7 | 4 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
@@ -166,7 +166,7 @@
 | UrbanMech UM-R60L | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
 | Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
-| Vapor Eagle | 1 | 0 | 0 | 1 | 0 |
+| Vapor Eagle | 1 | 0 | 0 | 1 | 1 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 316 | 174 |
+| TOTAL | 485 | 0 | 2 | 316 | 179 |
 

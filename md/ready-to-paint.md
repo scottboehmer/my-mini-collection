@@ -17,7 +17,6 @@
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Hesperus Guards |
 | Battle Cobra Prime | 2 | Com Guards, Kell Hounds |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
-| Black Lanner Prime | 1 | Steel Viper Galaxy |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
 | Carrion Crow A | 1 | Swift Wings |
@@ -32,7 +31,7 @@
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
-| Executioner Prime | 2 | Gyrfalcon Galaxy, Steel Viper Galaxy |
+| Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
@@ -55,7 +54,7 @@
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | Longbow LGB-7Q | 1 | 1st Canopian Cuirassiers |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
-| Mad Dog Prime | 3 | Fire Horse Galaxy, Steel Viper Galaxy, Swift Wings |
+| Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
@@ -81,13 +80,12 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
-| Timber Wolf Prime | 4 | Dire Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
+| Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
 | Timber Wolf TC | 1 | Shadow Wolves |
 | Trebuchet TBT-5N | 1 | Drake Hunters |
 | UrbanMech UM-R27 | 1 | Kell Hounds |
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
-| Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vindicator VND-1R | 1 | Drake Hunters |
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer IIC | 1 | Spina Khanate |
@@ -99,5 +97,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 141 | |
+| TOTAL | 136 | |
 

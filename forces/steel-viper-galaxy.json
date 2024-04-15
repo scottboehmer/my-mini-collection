@@ -12,7 +12,7 @@
     },
     {
       "Name": "Black Lanner Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Crossbow Prime",
@@ -24,7 +24,7 @@
     },
     {
       "Name": "Executioner Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Kingfisher Prime",
@@ -32,15 +32,15 @@
     },
     {
       "Name": "Mad Dog Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Timber Wolf Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Vapor Eagle",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Viper Prime",

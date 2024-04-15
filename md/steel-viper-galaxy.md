@@ -3,13 +3,12 @@
 ## Current Force
 - Adder Prime
 - Battle Cobra Prime
+- Black Lanner Prime
 - Crossbow Prime
 - Elemental Point
-- Kingfisher Prime
-- Viper Prime
-## Planned Expansion
-- Black Lanner Prime
 - Executioner Prime
+- Kingfisher Prime
 - Mad Dog Prime
 - Timber Wolf Prime
 - Vapor Eagle
+- Viper Prime
