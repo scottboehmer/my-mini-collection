@@ -8,14 +8,14 @@
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
 | Arctic Cheetah Prime | 1 | Ryuken-roku |
-| Atlas AS7-D | 2 | Com Guards, Marik Militia |
+| Atlas AS7-D | 1 | Marik Militia |
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 2 | 1st Canopian Cuirassiers, Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Hesperus Guards |
-| Battle Cobra Prime | 2 | Com Guards, Kell Hounds |
+| Battle Cobra Prime | 1 | Kell Hounds |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
@@ -74,7 +74,6 @@
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner B | 1 | Dire Wolves |
 | Sojourner Prime | 1 | Donegal Guards |
-| Spartan SPT-N2 | 1 | Com Guards |
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
@@ -97,5 +96,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 136 | |
+| TOTAL | 133 | |
 

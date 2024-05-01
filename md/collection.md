@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
-| Atlas AS7-D | 6 | 0 | 0 | 5 | 3 |
+| Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
@@ -18,7 +18,7 @@
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 1 |
-| Battle Cobra Prime | 3 | 0 | 0 | 3 | 1 |
+| Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
@@ -142,7 +142,7 @@
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
-| Spartan SPT-N2 | 2 | 0 | 0 | 1 | 0 |
+| Spartan SPT-N2 | 2 | 0 | 0 | 1 | 1 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
@@ -184,5 +184,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 316 | 179 |
+| TOTAL | 485 | 0 | 2 | 316 | 182 |
 

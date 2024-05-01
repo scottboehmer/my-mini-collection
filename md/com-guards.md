@@ -1,6 +1,8 @@
 # Com Guards
 **Faction:** ComStar
 ## Current Force
+- Atlas AS7-D
+- Battle Cobra Prime
 - Black Knight BL-9-KNT
 - Crab CRB-27
 - Exterminator EXT-4D
@@ -12,8 +14,5 @@
 - Mercury MCY-99
 - Mongoose MON-66
 - Sentinel STN-3L
-- Thug THG-11E
-## Planned Expansion
-- Atlas AS7-D
-- Battle Cobra Prime
 - Spartan SPT-N2
+- Thug THG-11E

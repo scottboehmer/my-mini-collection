@@ -4,11 +4,11 @@
   "Miniatures": [
     {
       "Name": "Atlas AS7-D",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Battle Cobra Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Black Knight BL-9-KNT",
@@ -56,7 +56,7 @@
     },
     {
       "Name": "Spartan SPT-N2",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Thug THG-11E",
