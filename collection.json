@@ -63,7 +63,7 @@
     },
     {
       "Name": "Atlas II AS7-D-H",
-      "CountInCollection": 2,
+      "CountInCollection": 3,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -716,6 +716,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Orion ON1-Kb",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Pack Hunter",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -730,6 +736,12 @@
     {
       "Name": "Penetrator PTR-4D",
       "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Phoenix Hawk PHX-1b",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -902,6 +914,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Thunder Hawk TDK-7X",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Thunderbolt TDR-5S",
       "CountInCollection": 4,
       "PendingCount": 0,
@@ -940,6 +958,24 @@
     {
       "Name": "Turkina Prime",
       "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "UrbanMech LAM UM-A07 (AirMech)",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "UrbanMech LAM UM-A07 (Fighter)",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "UrbanMech LAM UM-A07 (Mech)",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },

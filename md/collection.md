@@ -12,7 +12,7 @@
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 2 | 0 | 0 | 2 | 1 |
-| Atlas II AS7-D-H | 2 | 0 | 0 | 2 | 1 |
+| Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 4 | 2 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
@@ -121,9 +121,11 @@
 | Nova Prime | 7 | 0 | 0 | 4 | 2 |
 | Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
+| Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
+| Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 6 | 3 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
@@ -152,6 +154,7 @@
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 1 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
+| Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 0 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 10 | 0 | 0 | 7 | 4 |
@@ -159,6 +162,9 @@
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
+| UrbanMech LAM UM-A07 (AirMech) | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech LAM UM-A07 (Fighter) | 1 | 0 | 0 | 0 | 0 |
+| UrbanMech LAM UM-A07 (Mech) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-AIV | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R27 | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R60 | 14 | 0 | 0 | 5 | 5 |
@@ -184,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 485 | 0 | 2 | 316 | 182 |
+| TOTAL | 492 | 0 | 2 | 318 | 183 |
 

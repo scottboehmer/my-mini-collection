@@ -62,6 +62,8 @@ This repo contains data files tracking my collection of BattleTech miniatures.
   - [Starlight Stables](md/starlight-stables.md)
   - [Tandrek Stables](md/tandrek-stables.md)
   - [Teng Stables](md/teng-stables.md)
+- Star League
+  - [SLDF](md/sldf.md)
 - Terran Hegemony
   - [Hegemony Armed Forces](md/hegemony-armed-forces.md)
 - Vesper Marches
