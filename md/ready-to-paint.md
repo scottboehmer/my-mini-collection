@@ -12,9 +12,9 @@
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
-| Awesome AWS-8Q | 2 | 1st Canopian Cuirassiers, Hastati Sentinels |
+| Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | Donegal Guards |
-| Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Hesperus Guards |
+| Banshee BNC-3S | 1 | Hesperus Guards |
 | Battle Cobra Prime | 1 | Kell Hounds |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Blackjack BJ-1 | 1 | Drake Hunters |
@@ -52,7 +52,6 @@
 | Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
-| Longbow LGB-7Q | 1 | 1st Canopian Cuirassiers |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
@@ -97,5 +96,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 134 | |
+| TOTAL | 131 | |
 

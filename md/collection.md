@@ -14,10 +14,10 @@
 | Atlas AS7-S | 2 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
-| Awesome AWS-8Q | 4 | 0 | 0 | 4 | 2 |
+| Awesome AWS-8Q | 4 | 0 | 0 | 4 | 3 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Banshee BNC-3S | 5 | 0 | 0 | 3 | 1 |
+| Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
@@ -103,7 +103,7 @@
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
-| Longbow LGB-7Q | 2 | 0 | 0 | 2 | 1 |
+| Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 492 | 0 | 2 | 318 | 183 |
+| TOTAL | 492 | 0 | 2 | 318 | 186 |
 
