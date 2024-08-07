@@ -3,7 +3,6 @@
 | Miniature | Unallocated |
 | :--- | ---: |
 | Annihilator ANH-1A | 1 |
-| Archer ARC-2R | 1 |
 | Archer ARC-2R Kell | 1 |
 | Archer ARC-2W | 2 |
 | Archer ARC-5R | 1 |
@@ -48,10 +47,9 @@
 | Grasshopper GHR-5J | 2 |
 | Grendel Prime | 1 |
 | Griffin GRF-1N | 1 |
-| Griffin GRF-3M | 1 |
 | Gunslinger GUN-1ERD | 1 |
 | Hammerhead | 1 |
-| Hatchetman HCT-3F | 2 |
+| Hatchetman HCT-3F | 1 |
 | Hatchetman HCT-6D | 1 |
 | Hellbringer Prime | 2 |
 | Hellion Prime | 2 |
@@ -113,5 +111,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 176 |
+| TOTAL | 173 |
 

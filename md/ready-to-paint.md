@@ -4,6 +4,7 @@
 | :--- | ---: | :--- |
 | Adder Prime | 4 | Donegal Guards, Fire Horse Galaxy, Old Blood and Guts, Wolf's Dragoons |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
+| Archer ARC-2R | 1 | Marik Militia |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
@@ -38,9 +39,10 @@
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
-| Griffin GRF-3M | 1 | Kell Hounds |
+| Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
+| Hatchetman HCT-3F | 1 | Hesperus Guards |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hunchback HBK-4G | 1 | Donegal Guards |
 | Hunchback IIC | 1 | Cloud Rangers |
@@ -96,5 +98,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 131 | |
+| TOTAL | 134 | |
 

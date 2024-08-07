@@ -4,5 +4,7 @@
 - Atlas AS7-S
 - Banshee BNC-3S
 - Flashman FLS-8K
+- Griffin GRF-3M
+- Hatchetman HCT-3F
 - Sentinel STN-3L
 - Zeus ZEU-6S

@@ -4,7 +4,7 @@
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | Adder Prime | 6 | 0 | 0 | 6 | 2 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
-| Archer ARC-2R | 3 | 0 | 0 | 2 | 2 |
+| Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 2 | 0 | 0 | 1 | 0 |
@@ -71,12 +71,12 @@
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
-| Griffin GRF-3M | 2 | 0 | 0 | 1 | 0 |
+| Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
-| Hatchetman HCT-3F | 3 | 0 | 0 | 1 | 1 |
+| Hatchetman HCT-3F | 3 | 0 | 0 | 2 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 318 | 186 |
+| TOTAL | 493 | 0 | 2 | 321 | 186 |
 

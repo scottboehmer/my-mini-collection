@@ -19,5 +19,6 @@
 - Wolverine WVR-6R
 - Wraith TR1
 ## Planned Expansion
+- Archer ARC-2R
 - Atlas AS7-D
 - Icarus II ICR-1S

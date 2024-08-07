@@ -3,6 +3,10 @@
   "Faction": "Free Worlds League",
   "Miniatures": [
     {
+      "Name": "Archer ARC-2R",
+      "Painted": false
+    },
+    {
       "Name": "Atlas AS7-D",
       "Painted": false
     },
