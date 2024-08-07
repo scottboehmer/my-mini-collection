@@ -118,7 +118,7 @@
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
-| Nova Prime | 7 | 0 | 0 | 4 | 2 |
+| Nova Prime | 8 | 0 | 0 | 4 | 2 |
 | Ontos Heavy Tank | 1 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 492 | 0 | 2 | 318 | 186 |
+| TOTAL | 493 | 0 | 2 | 318 | 186 |
 
