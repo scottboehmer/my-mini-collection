@@ -17,6 +17,7 @@
 - Archer ARC-5R
 - Arctic Cheetah Prime
 - Cyclops CP-10-Z
+- Ebon Jaguar Prime
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
 - Marauder II MAD-4A

@@ -46,7 +46,6 @@
 | Grasshopper GHR-5H | 1 |
 | Grasshopper GHR-5J | 2 |
 | Grendel Prime | 1 |
-| Griffin GRF-1N | 1 |
 | Gunslinger GUN-1ERD | 1 |
 | Hammerhead | 1 |
 | Hatchetman HCT-3F | 1 |
@@ -111,5 +110,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 173 |
+| TOTAL | 172 |
 

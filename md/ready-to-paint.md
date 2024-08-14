@@ -31,6 +31,7 @@
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
+| Ebon Jaguar Prime | 1 | Ryuken-roku |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Firebee FRB-2E | 1 | Death Commandos |
@@ -98,5 +99,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 134 | |
+| TOTAL | 135 | |
 

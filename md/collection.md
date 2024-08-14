@@ -52,7 +52,7 @@
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
-| Ebon Jaguar Prime | 2 | 0 | 0 | 2 | 2 |
+| Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
 | Elemental Point | 18 | 0 | 0 | 13 | 8 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
@@ -70,7 +70,7 @@
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
-| Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
+| Griffin GRF-1N | 5 | 0 | 0 | 5 | 4 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 321 | 186 |
+| TOTAL | 493 | 0 | 2 | 322 | 186 |
 
