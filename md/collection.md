@@ -95,7 +95,7 @@
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
-| Kingfisher Prime | 2 | 0 | 0 | 2 | 1 |
+| Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 322 | 186 |
+| TOTAL | 493 | 0 | 2 | 322 | 187 |
 

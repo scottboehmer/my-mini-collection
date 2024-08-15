@@ -7,6 +7,7 @@
 - Fire Moth D
 - Fire Moth Prime
 - Horned Owl
+- Kingfisher Prime
 - Kodiak
 - Mad Dog Prime
 - Mastodon D
@@ -14,5 +15,3 @@
 - Stormcrow Prime
 - Summoner Prime
 - Viper Prime
-## Planned Expansion
-- Kingfisher Prime

@@ -50,7 +50,6 @@
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
-| Kingfisher Prime | 1 | Raging Bears |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
@@ -99,5 +98,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 135 | |
+| TOTAL | 134 | |
 
