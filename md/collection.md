@@ -38,11 +38,11 @@
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Conjurer | 1 | 0 | 0 | 1 | 1 |
-| Cougar Prime | 2 | 0 | 0 | 2 | 1 |
+| Cougar Prime | 2 | 0 | 0 | 2 | 2 |
 | Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 3 | 0 | 0 | 1 | 1 |
-| Crossbow Prime | 2 | 0 | 0 | 2 | 1 |
+| Crossbow Prime | 2 | 0 | 0 | 2 | 2 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
 | Crusader CRD-5M | 2 | 0 | 0 | 1 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
@@ -57,7 +57,7 @@
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
-| Executioner Prime | 4 | 0 | 0 | 4 | 3 |
+| Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
 | Fire Moth D | 2 | 0 | 0 | 1 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 322 | 187 |
+| TOTAL | 493 | 0 | 2 | 322 | 190 |
 

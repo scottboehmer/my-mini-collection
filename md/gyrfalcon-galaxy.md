@@ -2,7 +2,10 @@
 **Faction:** Clan Jade Falcon
 ## Current Force
 - Black Lanner Prime
+- Cougar Prime
+- Crossbow Prime
 - Elemental Point
+- Executioner Prime
 - Fire Falcon Prime
 - Hellbringer Prime
 - Hierofalcon Prime
@@ -13,7 +16,3 @@
 - Summoner Prime
 - Timber Wolf Pryde
 - Turkina Prime
-## Planned Expansion
-- Cougar Prime
-- Crossbow Prime
-- Executioner Prime

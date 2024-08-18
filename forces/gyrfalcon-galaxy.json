@@ -8,11 +8,11 @@
     },
     {
       "Name": "Cougar Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Crossbow Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Elemental Point",
@@ -20,7 +20,7 @@
     },
     {
       "Name": "Executioner Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Fire Falcon Prime",

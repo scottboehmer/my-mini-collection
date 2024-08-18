@@ -23,9 +23,7 @@
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
-| Cougar Prime | 1 | Gyrfalcon Galaxy |
 | Coyotl Prime | 1 | Spina Khanate |
-| Crossbow Prime | 1 | Gyrfalcon Galaxy |
 | Crusader CRD-5M | 1 | Kell Hounds |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
@@ -33,7 +31,6 @@
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Ebon Jaguar Prime | 1 | Ryuken-roku |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
-| Executioner Prime | 1 | Gyrfalcon Galaxy |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
@@ -98,5 +95,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 134 | |
+| TOTAL | 131 | |
 
