@@ -65,7 +65,6 @@
 | Locust LCT-3M | 1 |
 | Marauder II MAD-4A | 2 |
 | Marauder IIC | 1 |
-| Marauder MAD-3R | 1 |
 | Marauder MAD-3R Carlyle | 1 |
 | Night Gyr Prime | 1 |
 | Nova Cat Prime | 1 |
@@ -110,5 +109,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 172 |
+| TOTAL | 171 |
 

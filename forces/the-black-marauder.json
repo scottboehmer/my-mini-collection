@@ -1,0 +1,10 @@
+{
+    "Name": "The Black Marauder",
+    "Faction": "Horrors beyond the Stars",
+    "Miniatures": [
+      {
+        "Name": "Marauder MAD-3R",
+        "Painted": false
+      }
+    ]
+  }

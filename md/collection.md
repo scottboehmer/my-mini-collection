@@ -108,7 +108,7 @@
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
-| Marauder MAD-3R | 3 | 0 | 0 | 2 | 1 |
+| Marauder MAD-3R | 3 | 0 | 0 | 3 | 1 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
 | Mastodon D | 1 | 0 | 0 | 1 | 1 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 322 | 190 |
+| TOTAL | 493 | 0 | 2 | 323 | 190 |
 
