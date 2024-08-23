@@ -15,5 +15,6 @@
 - Timber Wolf Prime
 ## Planned Expansion
 - Dire Wolf Prime
+- Pouncer Prime
 - Stormcrow Prime
 - Timber Wolf TC

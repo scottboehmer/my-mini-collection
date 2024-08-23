@@ -3,6 +3,10 @@
   "Faction": "Free Worlds League",
   "Miniatures": [
     {
+      "Name": "Crusader CRD-5M",
+      "Painted": false
+    },
+    {
       "Name": "Guillotine GLT-3N (jumping)",
       "Painted": false
     },

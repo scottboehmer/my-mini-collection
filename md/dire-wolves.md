@@ -11,4 +11,5 @@
 - Pouncer Prime
 - Sojourner B
 - Timber Wolf Prime
+- Warhawk C
 - Wolfhound IIC

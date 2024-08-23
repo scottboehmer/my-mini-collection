@@ -26,7 +26,6 @@
 | Commando COM-2D | 1 |
 | Crockett CRK-5003-1 | 2 |
 | Crusader CRD-3R | 3 |
-| Crusader CRD-5M | 1 |
 | Cyclops CP-10-Z | 2 |
 | Cyclops CP-11-A | 1 |
 | Dire Wolf Prime | 1 |
@@ -72,7 +71,7 @@
 | Penetrator PTR-4D | 1 |
 | Phoenix Hawk PHX-1b | 1 |
 | Phoenix Hawk PXH-1 (premium) | 1 |
-| Pouncer Prime | 2 |
+| Pouncer Prime | 1 |
 | Regent Prime | 1 |
 | Rifleman RFL-3N | 4 |
 | Rifleman RFL-3N Legend-Killer | 1 |
@@ -100,11 +99,11 @@
 | Viper Prime | 1 |
 | Warhammer WHM-6R | 4 |
 | Warhammer WHM-7S | 2 |
-| Warhawk C | 2 |
+| Warhawk C | 1 |
 | Warhawk Prime | 1 |
 | Wasp WSP-1A | 3 |
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 165 |
+| TOTAL | 162 |
 

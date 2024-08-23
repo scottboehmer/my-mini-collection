@@ -44,7 +44,7 @@
 | Crockett CRK-5003-1 | 3 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 2 |
 | Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
-| Crusader CRD-5M | 2 | 0 | 0 | 1 | 0 |
+| Crusader CRD-5M | 2 | 0 | 0 | 2 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
@@ -130,7 +130,7 @@
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Piranha | 1 | 0 | 0 | 1 | 1 |
-| Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
+| Pouncer Prime | 3 | 0 | 0 | 2 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 0 |
@@ -180,7 +180,7 @@
 | Warhammer IIC | 1 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 6 | 0 | 0 | 2 | 1 |
 | Warhammer WHM-7S | 3 | 0 | 0 | 1 | 1 |
-| Warhawk C | 2 | 0 | 0 | 0 | 0 |
+| Warhawk C | 2 | 0 | 0 | 1 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 2 | 0 | 0 | 1 | 0 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 329 | 190 |
+| TOTAL | 493 | 0 | 2 | 332 | 190 |
 
