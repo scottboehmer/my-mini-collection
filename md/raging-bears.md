@@ -15,3 +15,5 @@
 - Stormcrow Prime
 - Summoner Prime
 - Viper Prime
+## Planned Expansion
+- Hunchback HBK-4G

@@ -40,7 +40,7 @@
 | Fire Falcon Prime | 1 |
 | Fire Moth D | 1 |
 | Fire Moth Prime | 1 |
-| Gargoyle C | 2 |
+| Gargoyle C | 1 |
 | Gargoyle Prime | 1 |
 | Gladiator GLD-1R | 1 |
 | Grasshopper GHR-5H | 1 |
@@ -48,14 +48,12 @@
 | Grendel Prime | 1 |
 | Gunslinger GUN-1ERD | 1 |
 | Hammerhead | 1 |
-| Hatchetman HCT-3F | 1 |
 | Hatchetman HCT-6D | 1 |
 | Hellbringer Prime | 2 |
 | Hellion Prime | 2 |
 | Highlander HGN-694 | 1 |
 | Highlander HGN-732 | 4 |
 | Howler | 1 |
-| Hunchback HBK-4G | 1 |
 | Huntsman Prime | 1 |
 | Hybrid Rifleman | 2 |
 | Incubus | 1 |
@@ -75,7 +73,7 @@
 | Phoenix Hawk PHX-1b | 1 |
 | Phoenix Hawk PXH-1 (premium) | 1 |
 | Pouncer Prime | 2 |
-| Regent Prime | 2 |
+| Regent Prime | 1 |
 | Rifleman RFL-3N | 4 |
 | Rifleman RFL-3N Legend-Killer | 1 |
 | Sagittaire SGT-8R | 1 |
@@ -83,8 +81,7 @@
 | Shadow Hawk SHD-2H | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 |
 | Shilone SL-17 | 2 |
-| Spartan SPT-N2 | 1 |
-| Stalker STK-3F | 2 |
+| Stalker STK-3F | 1 |
 | Stinger STG-3R | 1 |
 | Summoner Prime | 4 |
 | Thug THG-11E | 1 |
@@ -109,5 +106,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 171 |
+| TOTAL | 165 |
 

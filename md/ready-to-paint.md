@@ -33,6 +33,7 @@
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Flashman FLS-8K | 1 | Hesperus Guards |
+| Gargoyle C | 1 | Gray Death Legion |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
@@ -40,9 +41,9 @@
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
-| Hatchetman HCT-3F | 1 | Hesperus Guards |
+| Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
-| Hunchback HBK-4G | 1 | Donegal Guards |
+| Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
@@ -66,13 +67,16 @@
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pouncer Prime | 1 | Dire Wolves |
 | Raven RVN-3L | 1 | Death Commandos |
+| Regent Prime | 1 | Spina Khanate |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner B | 1 | Dire Wolves |
 | Sojourner Prime | 1 | Donegal Guards |
+| Spartan SPT-N2 | 1 | Wolf's Dragoons |
 | Spider SDR-5V | 1 | Drake Hunters |
+| Stalker STK-3F | 1 | Wolf's Dragoons |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Thunder Hawk TDK-7X | 1 | Donegal Guards |
@@ -95,5 +99,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 132 | |
+| TOTAL | 138 | |
 

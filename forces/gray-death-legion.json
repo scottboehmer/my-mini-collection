@@ -3,6 +3,14 @@
   "Faction": "Mercenaries",
   "Miniatures": [
     {
+      "Name": "Gargoyle C",
+      "Painted": false
+    },
+    {
+      "Name": "Hatchetman HCT-3F",
+      "Painted": false
+    },
+    {
       "Name": "Locust LCT-1V",
       "Painted": false
     },

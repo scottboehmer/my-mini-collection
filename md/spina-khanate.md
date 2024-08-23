@@ -11,6 +11,7 @@
 ## Planned Expansion
 - Coyotl Prime
 - Mist Lynx Prime
+- Regent Prime
 - Shadow Cat Prime
 - Timber Wolf Prime
 - Warhammer IIC

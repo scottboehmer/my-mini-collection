@@ -64,7 +64,7 @@
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
-| Gargoyle C | 2 | 0 | 0 | 0 | 0 |
+| Gargoyle C | 2 | 0 | 0 | 1 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
@@ -76,7 +76,7 @@
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
-| Hatchetman HCT-3F | 3 | 0 | 0 | 2 | 1 |
+| Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
@@ -85,7 +85,7 @@
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
 | Horned Owl | 1 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
-| Hunchback HBK-4G | 5 | 0 | 0 | 4 | 3 |
+| Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
 | Hunchback IIC | 1 | 0 | 0 | 1 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
@@ -133,7 +133,7 @@
 | Pouncer Prime | 3 | 0 | 0 | 1 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
-| Regent Prime | 2 | 0 | 0 | 0 | 0 |
+| Regent Prime | 2 | 0 | 0 | 1 | 0 |
 | Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
@@ -144,9 +144,9 @@
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
-| Spartan SPT-N2 | 2 | 0 | 0 | 1 | 1 |
+| Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
-| Stalker STK-3F | 3 | 0 | 0 | 1 | 1 |
+| Stalker STK-3F | 3 | 0 | 0 | 2 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 323 | 190 |
+| TOTAL | 493 | 0 | 2 | 329 | 190 |
 
