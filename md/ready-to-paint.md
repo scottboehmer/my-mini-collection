@@ -19,7 +19,7 @@
 | Battle Cobra Prime | 1 | Kell Hounds |
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Blackjack BJ-1 | 1 | Drake Hunters |
-| Blackjack BJ-2 | 1 | Wolf's Dragoons |
+| Blackjack BJ-2 | 2 | Pirates, Wolf's Dragoons |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
@@ -55,7 +55,7 @@
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
-| Marauder MAD-3R | 2 | Fox Patrol, The Black Marauder |
+| Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
@@ -70,7 +70,7 @@
 | Regent Prime | 1 | Spina Khanate |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
 | Sentinel STN-3L | 1 | Hesperus Guards |
-| Shadow Cat Prime | 1 | Spina Khanate |
+| Shadow Cat Prime | 2 | Pirates, Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner B | 1 | Dire Wolves |
 | Sojourner Prime | 1 | Donegal Guards |
@@ -100,5 +100,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 141 | |
+| TOTAL | 142 | |
 

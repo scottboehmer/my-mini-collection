@@ -5,4 +5,3 @@
 - UrbanMech UM-R60
 - UrbanMech UM-R60
 - UrbanMech UM-R60
-- UrbanMech UM-R60

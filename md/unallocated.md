@@ -16,7 +16,7 @@
 | Black Knight BL-6-KNT | 2 |
 | Black Lanner Prime | 1 |
 | Blackjack BJ-1 | 1 |
-| Blackjack BJ-2 | 2 |
+| Blackjack BJ-2 | 1 |
 | Blackjack BJ-3 | 1 |
 | Cataphract CTF-1X | 2 |
 | Catapult CPLT-C1 | 2 |
@@ -76,7 +76,6 @@
 | Rifleman RFL-3N | 4 |
 | Rifleman RFL-3N Legend-Killer | 1 |
 | Sagittaire SGT-8R | 1 |
-| Shadow Cat Prime | 1 |
 | Shadow Hawk SHD-2H | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 |
 | Shilone SL-17 | 2 |
@@ -105,5 +104,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 162 |
+| TOTAL | 160 |
 

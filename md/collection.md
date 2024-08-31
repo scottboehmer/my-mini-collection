@@ -25,7 +25,7 @@
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 2 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
-| Blackjack BJ-2 | 3 | 0 | 0 | 1 | 0 |
+| Blackjack BJ-2 | 3 | 0 | 0 | 2 | 0 |
 | Blackjack BJ-3 | 2 | 0 | 0 | 1 | 1 |
 | Bushwacker BSW-X1 | 2 | 0 | 0 | 2 | 2 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
@@ -108,7 +108,7 @@
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
-| Marauder MAD-3R | 3 | 0 | 0 | 3 | 1 |
+| Marauder MAD-3R | 3 | 0 | 0 | 3 | 2 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
 | Mastodon D | 1 | 0 | 0 | 1 | 1 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
@@ -138,7 +138,7 @@
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
-| Shadow Cat Prime | 3 | 0 | 0 | 2 | 1 |
+| Shadow Cat Prime | 3 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 332 | 190 |
+| TOTAL | 493 | 0 | 2 | 334 | 191 |
 
