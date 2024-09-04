@@ -33,7 +33,7 @@
 | Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
-| Catapult CPLT-K2K | 2 | 0 | 0 | 0 | 0 |
+| Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
@@ -99,7 +99,7 @@
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
-| Linebacker Prime | 3 | 0 | 0 | 3 | 1 |
+| Linebacker Prime | 4 | 0 | 0 | 3 | 1 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |

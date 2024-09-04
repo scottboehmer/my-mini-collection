@@ -20,7 +20,7 @@
 | Blackjack BJ-3 | 1 |
 | Cataphract CTF-1X | 2 |
 | Catapult CPLT-C1 | 2 |
-| Catapult CPLT-K2K | 2 |
+| Catapult CPLT-K2K | 1 |
 | Centurion CN9-A | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 |
 | Commando COM-2D | 1 |
@@ -59,6 +59,7 @@
 | Jenner JR7-D | 3 |
 | King Crab KGC-000 | 1 |
 | Kodiak | 1 |
+| Linebacker Prime | 1 |
 | Locust LCT-3M | 1 |
 | Marauder II MAD-4A | 2 |
 | Marauder IIC | 1 |
