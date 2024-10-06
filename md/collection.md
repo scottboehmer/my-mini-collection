@@ -134,11 +134,11 @@
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 0 |
-| Rifleman RFL-3N | 7 | 0 | 0 | 3 | 1 |
+| Rifleman RFL-3N | 8 | 0 | 0 | 3 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
-| Shadow Cat Prime | 3 | 0 | 0 | 3 | 2 |
+| Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -146,7 +146,7 @@
 | Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
-| Stalker STK-3F | 3 | 0 | 0 | 2 | 1 |
+| Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 493 | 0 | 2 | 334 | 193 |
+| TOTAL | 496 | 0 | 2 | 334 | 193 |
 
