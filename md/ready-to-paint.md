@@ -79,7 +79,6 @@
 | Stalker STK-3F | 1 | Wolf's Dragoons |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
-| Thunder Hawk TDK-7X | 1 | Donegal Guards |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
@@ -100,5 +99,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 141 | |
+| TOTAL | 140 | |
 

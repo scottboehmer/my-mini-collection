@@ -10,6 +10,7 @@
 - Crusader CRD-3R
 - Griffin GRF-1N
 - Nightstar NSR-9J
+- Thunder Hawk TDK-7X
 - Warhammer WHM-6R
 - Wolfhound WLF-1
 - Zeus ZEU-6S
@@ -21,5 +22,4 @@
 - Linebacker Prime
 - Nightsky NGS-4S
 - Sojourner Prime
-- Thunder Hawk TDK-7X
 - Ymir BWP-2B
