@@ -55,7 +55,7 @@
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
-| Marauder MAD-3R | 2 | Fox Patrol, The Black Marauder |
+| Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
@@ -99,5 +99,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 140 | |
+| TOTAL | 139 | |
 

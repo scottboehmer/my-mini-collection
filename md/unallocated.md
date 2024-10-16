@@ -16,11 +16,11 @@
 | Black Knight BL-6-KNT | 2 |
 | Black Lanner Prime | 1 |
 | Blackjack BJ-1 | 1 |
-| Blackjack BJ-2 | 2 |
+| Blackjack BJ-2 | 1 |
 | Blackjack BJ-3 | 1 |
 | Cataphract CTF-1X | 2 |
 | Catapult CPLT-C1 | 2 |
-| Catapult CPLT-K2K | 2 |
+| Catapult CPLT-K2K | 1 |
 | Centurion CN9-A | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 |
 | Commando COM-2D | 1 |
@@ -59,6 +59,7 @@
 | Jenner JR7-D | 3 |
 | King Crab KGC-000 | 1 |
 | Kodiak | 1 |
+| Linebacker Prime | 1 |
 | Locust LCT-3M | 1 |
 | Marauder II MAD-4A | 2 |
 | Marauder IIC | 1 |
@@ -73,14 +74,14 @@
 | Phoenix Hawk PXH-1 (premium) | 1 |
 | Pouncer Prime | 1 |
 | Regent Prime | 1 |
-| Rifleman RFL-3N | 4 |
+| Rifleman RFL-3N | 5 |
 | Rifleman RFL-3N Legend-Killer | 1 |
 | Sagittaire SGT-8R | 1 |
 | Shadow Cat Prime | 1 |
 | Shadow Hawk SHD-2H | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 |
 | Shilone SL-17 | 2 |
-| Stalker STK-3F | 1 |
+| Stalker STK-3F | 2 |
 | Stinger STG-3R | 1 |
 | Summoner Prime | 4 |
 | Thug THG-11E | 1 |
@@ -105,5 +106,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 162 |
+| TOTAL | 163 |
 

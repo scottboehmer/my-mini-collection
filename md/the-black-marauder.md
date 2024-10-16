@@ -1,4 +1,4 @@
 # The Black Marauder
 **Faction:** Horrors beyond the Stars
-## Planned Expansion
+## Current Force
 - Marauder MAD-3R

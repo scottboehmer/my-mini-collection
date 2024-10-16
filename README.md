@@ -50,6 +50,8 @@ This repo contains data files tracking my collection of BattleTech miniatures.
   - [Kell Hounds](md/kell-hounds.md)
   - [Northwind Highlanders](md/northwind-highlanders.md)
   - [Wolf's Dragoons](md/wolfs-dragoons.md)
+- Pirates
+  - [Pirates](md/pirates.md)
 - Raven Alliance
   - [Swift Wings](md/swift-wings.md)
 - Republic of the Sphere
