@@ -2,7 +2,7 @@
 
 | Miniature | In Collection | Pending Order | Wishlist | Allocated | Painted |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Adder Prime | 6 | 0 | 0 | 6 | 2 |
+| Adder Prime | 6 | 0 | 0 | 6 | 3 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
 | Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
@@ -90,7 +90,7 @@
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
-| Ice Ferret Prime | 4 | 0 | 0 | 4 | 1 |
+| Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
@@ -99,7 +99,7 @@
 | Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
-| Linebacker Prime | 4 | 0 | 0 | 3 | 1 |
+| Linebacker Prime | 4 | 0 | 0 | 3 | 2 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
@@ -143,7 +143,7 @@
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
-| Sojourner Prime | 1 | 0 | 1 | 1 | 0 |
+| Sojourner Prime | 1 | 0 | 1 | 1 | 1 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
@@ -190,5 +190,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 496 | 0 | 2 | 334 | 194 |
+| TOTAL | 496 | 0 | 2 | 334 | 198 |
 

@@ -2,7 +2,7 @@
 
 | Miniature | Ready to Paint | Forces |
 | :--- | ---: | :--- |
-| Adder Prime | 4 | Donegal Guards, Fire Horse Galaxy, Old Blood and Guts, Wolf's Dragoons |
+| Adder Prime | 3 | Fire Horse Galaxy, Old Blood and Guts, Wolf's Dragoons |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R | 1 | Marik Militia |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
@@ -46,10 +46,10 @@
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
-| Ice Ferret Prime | 3 | Dire Wolves, Donegal Guards, Fire Horse Galaxy |
+| Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
-| Linebacker Prime | 2 | Dire Wolves, Donegal Guards |
+| Linebacker Prime | 1 | Dire Wolves |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
@@ -73,7 +73,6 @@
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Sojourner B | 1 | Dire Wolves |
-| Sojourner Prime | 1 | Donegal Guards |
 | Spartan SPT-N2 | 1 | Wolf's Dragoons |
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stalker STK-3F | 1 | Wolf's Dragoons |
@@ -99,5 +98,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 139 | |
+| TOTAL | 135 | |
 

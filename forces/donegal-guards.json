@@ -4,7 +4,7 @@
   "Miniatures": [
     {
       "Name": "Adder Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Archer ARC-2R",
@@ -48,11 +48,11 @@
     },
     {
       "Name": "Ice Ferret Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Linebacker Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Nightsky NGS-4S",
@@ -64,7 +64,7 @@
     },
     {
       "Name": "Sojourner Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Thunder Hawk TDK-7X",
