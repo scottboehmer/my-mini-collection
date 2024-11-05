@@ -47,11 +47,13 @@
 | Hunchback IIC | 1 | Cloud Rangers |
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
+| J. Edgar Light Hover Tank | 2 | Ryuken-roku, Ryuken-roku |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Linebacker Prime | 1 | Dire Wolves |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
+| LRM Carrier | 2 | Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
 | Marauder II MAD-4A | 3 | Hastati Sentinels, Ryuken-roku, Wolf's Dragoons |
@@ -64,7 +66,9 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
+| Patton Tank | 2 | FedCom Brigade, FedCom Brigade |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
+| Pike Support Vehicle | 2 | Com Guards, Com Guards |
 | Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
 | Raven RVN-3L | 1 | Death Commandos |
 | Regent Prime | 1 | Spina Khanate |
@@ -98,5 +102,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 135 | |
+| TOTAL | 143 | |
 

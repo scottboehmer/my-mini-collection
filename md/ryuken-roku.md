@@ -20,6 +20,8 @@
 - Ebon Jaguar Prime
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
+- J. Edgar Light Hover Tank
+- J. Edgar Light Hover Tank
 - Marauder II MAD-4A
 - Phoenix Hawk PXH-1
 - Wolverine WVR-6R

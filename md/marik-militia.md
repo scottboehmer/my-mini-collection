@@ -22,3 +22,5 @@
 - Archer ARC-2R
 - Atlas AS7-D
 - Icarus II ICR-1S
+- LRM Carrier
+- LRM Carrier

@@ -16,3 +16,6 @@
 - Sentinel STN-3L
 - Spartan SPT-N2
 - Thug THG-11E
+## Planned Expansion
+- Pike Support Vehicle
+- Pike Support Vehicle

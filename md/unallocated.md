@@ -31,6 +31,7 @@
 | Dire Wolf Prime | 1 |
 | Dire Wolf Prime (damaged) | 1 |
 | Dragon DRG-1N | 2 |
+| Drillson Heavy Hover Tank | 2 |
 | Elemental Point | 5 |
 | Enforcer ENF-4R | 2 |
 | Enforcer ENF-5D | 1 |
@@ -61,6 +62,7 @@
 | Kodiak | 1 |
 | Linebacker Prime | 1 |
 | Locust LCT-3M | 1 |
+| Manticore Heavy Tank | 2 |
 | Marauder II MAD-4A | 2 |
 | Marauder IIC | 1 |
 | Marauder MAD-3R Carlyle | 1 |
@@ -72,6 +74,7 @@
 | Penetrator PTR-4D | 1 |
 | Phoenix Hawk PHX-1b | 1 |
 | Phoenix Hawk PXH-1 (premium) | 1 |
+| Piranha | 1 |
 | Pouncer Prime | 1 |
 | Regent Prime | 1 |
 | Rifleman RFL-3N | 5 |
@@ -81,6 +84,7 @@
 | Shadow Hawk SHD-2H | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 |
 | Shilone SL-17 | 2 |
+| SRM Carrier | 2 |
 | Stalker STK-3F | 2 |
 | Stinger STG-3R | 1 |
 | Summoner Prime | 4 |
@@ -96,6 +100,7 @@
 | UrbanMech UM-R60 (running) | 1 |
 | UrbanMech UM-R68 | 1 |
 | Valkyrie VLK-QA | 1 |
+| Vedette Medium Tank | 2 |
 | Victor VTR-9B | 2 |
 | Viper Prime | 1 |
 | Warhammer WHM-6R | 4 |
@@ -106,5 +111,5 @@
 | Wasp WSP-3W | 1 |
 | Wolfhound WLF-1 | 1 |
 | Wolverine WVR-6R | 3 |
-| TOTAL | 163 |
+| TOTAL | 172 |
 

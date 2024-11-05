@@ -52,6 +52,7 @@
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
+| Drillson Heavy Hover Tank | 2 | 0 | 0 | 0 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
 | Elemental Point | 18 | 0 | 0 | 13 | 8 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
@@ -92,6 +93,7 @@
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
 | Incubus | 1 | 0 | 0 | 0 | 0 |
+| J. Edgar Light Hover Tank | 2 | 0 | 0 | 2 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
@@ -104,8 +106,10 @@
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 2 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
+| LRM Carrier | 2 | 0 | 0 | 2 | 0 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
+| Manticore Heavy Tank | 2 | 0 | 0 | 0 | 0 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
 | Marauder IIC | 1 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 3 | 2 |
@@ -124,12 +128,14 @@
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
+| Patton Tank | 2 | 0 | 0 | 2 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 6 | 0 | 0 | 6 | 3 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
-| Piranha | 1 | 0 | 0 | 1 | 1 |
+| Pike Support Vehicle | 2 | 0 | 0 | 2 | 0 |
+| Piranha | 2 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 3 | 0 | 0 | 2 | 0 |
 | Quickdraw QKD-4G | 0 | 0 | 1 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
@@ -146,6 +152,7 @@
 | Sojourner Prime | 1 | 0 | 1 | 1 | 1 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
+| SRM Carrier | 2 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 1 | 0 | 0 | 1 | 0 |
@@ -173,6 +180,7 @@
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
 | Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 1 | 0 | 0 | 1 | 1 |
+| Vedette Medium Tank | 2 | 0 | 0 | 0 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
@@ -190,5 +198,5 @@
 | Wraith TR1 | 2 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 496 | 0 | 2 | 334 | 198 |
+| TOTAL | 513 | 0 | 2 | 342 | 198 |
 

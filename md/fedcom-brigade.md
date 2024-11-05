@@ -17,3 +17,6 @@
 - Sagittaire SGT-8R
 - Stinger STG-3R
 - Valkyrie VLK-QA
+## Planned Expansion
+- Patton Tank
+- Patton Tank
