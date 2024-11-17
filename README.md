@@ -2,6 +2,8 @@
 
 This repo contains data files tracking my collection of BattleTech miniatures.
 
+The simple command line tool I use for managing this repo is in [`scottboehmer/mini-collection`](https://github.com/scottboehmer/mini-collection).
+
 ## Generated Markdown
 - [My Collection](md/collection.md)
 - [Ready to Paint](md/ready-to-paint.md)
