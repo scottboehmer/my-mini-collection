@@ -70,6 +70,7 @@
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 2 | Com Guards, Com Guards |
 | Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
+| Quickdraw QKD-4G | 1 | Fox Patrol |
 | Raven RVN-3L | 1 | Death Commandos |
 | Regent Prime | 1 | Spina Khanate |
 | Rifleman RFL-3N | 2 | Gray Death Legion, Wolf's Dragoons |
@@ -102,5 +103,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 143 | |
+| TOTAL | 144 | |
 
