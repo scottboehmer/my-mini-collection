@@ -20,13 +20,13 @@
 | Behemoth Heavy Tank | 5 |
 | Black Knight BL-6-KNT | 2 |
 | Black Lanner Prime | 1 |
-| Black Python | 2 |
+| Black Python | 3 |
 | Blackjack BJ-1 | 1 |
 | Blackjack BJ-2 | 1 |
 | Blackjack BJ-3 | 2 |
 | Bulldog Medium Tank | 6 |
 | Bushwacker BSW-X1 | 2 |
-| Caesar CES-3R | 3 |
+| Caesar CES-3R | 4 |
 | Caesar CES-3R Archangel | 1 |
 | Cataphract CTF-1X | 2 |
 | Catapult CPLT-C1 | 2 |
@@ -36,8 +36,8 @@
 | Chameleon CLN-7V | 3 |
 | Charger CGR-1A1 | 1 |
 | Charger CGR-3K | 1 |
-| Cicada CDA-2A | 1 |
-| Clint CLNT-2-3T | 1 |
+| Cicada CDA-2A | 2 |
+| Clint CLNT-2-3T | 2 |
 | Commando COM-2D | 1 |
 | Condor Heavy Hover Tank | 6 |
 | Conjurer | 1 |
@@ -62,12 +62,12 @@
 | Fire Moth Prime | 1 |
 | Firefly FFL-4C | 3 |
 | Firestarter FS9-H | 2 |
-| Flea FLE-17 | 3 |
+| Flea FLE-17 | 4 |
 | Galleon Light Tank GAL-100 | 7 |
 | Gargoyle C | 1 |
 | Gargoyle Prime | 1 |
 | Gladiator GLD-1R | 1 |
-| Goliath GOL-1H | 1 |
+| Goliath GOL-1H | 2 |
 | Grasshopper GHR-5H | 1 |
 | Grasshopper GHR-5J | 2 |
 | Grendel Prime | 1 |
@@ -131,7 +131,7 @@
 | Patton Tank | 5 |
 | Pegasus Scout Hover Tank | 4 |
 | Penetrator PTR-4D | 1 |
-| Phoenix Hawk IIC | 1 |
+| Phoenix Hawk IIC | 2 |
 | Phoenix Hawk PHX-1b | 1 |
 | Phoenix Hawk PXH-1 | 1 |
 | Phoenix Hawk PXH-1 (premium) | 1 |
@@ -184,7 +184,7 @@
 | Viper Prime | 1 |
 | Visigoth Prime | 2 |
 | Von Luckner Heavy Tank VNL-K65N | 5 |
-| Vulcan VL-2T | 1 |
+| Vulcan VL-2T | 2 |
 | Warhammer IIC | 1 |
 | Warhammer WHM-6R | 5 |
 | Warhammer WHM-7S | 2 |
@@ -199,5 +199,5 @@
 | Wolfhound WLF-2 (kneeling) | 2 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 430 |
+| TOTAL | 438 |
 

@@ -28,13 +28,13 @@
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 2 |
-| Black Python | 2 | 0 | 0 | 0 | 0 |
+| Black Python | 3 | 0 | 0 | 0 | 0 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 0 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
-| Caesar CES-3R | 3 | 0 | 0 | 0 | 0 |
+| Caesar CES-3R | 4 | 0 | 0 | 0 | 0 |
 | Caesar CES-3R Archangel | 1 | 0 | 0 | 0 | 0 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
@@ -47,8 +47,8 @@
 | Chameleon CLN-7V | 3 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 0 | 0 |
-| Cicada CDA-2A | 1 | 0 | 0 | 0 | 0 |
-| Clint CLNT-2-3T | 1 | 0 | 0 | 0 | 0 |
+| Cicada CDA-2A | 2 | 0 | 0 | 0 | 0 |
+| Clint CLNT-2-3T | 2 | 0 | 0 | 0 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Condor Heavy Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
@@ -84,12 +84,12 @@
 | Firefly FFL-4C | 3 | 0 | 0 | 0 | 0 |
 | Firestarter FS9-H | 2 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
-| Flea FLE-17 | 3 | 0 | 0 | 0 | 0 |
+| Flea FLE-17 | 4 | 0 | 0 | 0 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 0 | 0 |
 | Gargoyle C | 2 | 0 | 0 | 1 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
-| Goliath GOL-1H | 1 | 0 | 0 | 0 | 0 |
+| Goliath GOL-1H | 2 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
@@ -180,7 +180,7 @@
 | Patton Tank | 7 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 4 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk IIC | 1 | 0 | 0 | 0 | 0 |
+| Phoenix Hawk IIC | 2 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 6 | 3 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
@@ -250,7 +250,7 @@
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
 | Visigoth Prime | 2 | 0 | 0 | 0 | 0 |
 | Von Luckner Heavy Tank VNL-K65N | 5 | 0 | 0 | 0 | 0 |
-| Vulcan VL-2T | 1 | 0 | 0 | 0 | 0 |
+| Vulcan VL-2T | 2 | 0 | 0 | 0 | 0 |
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 2 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 7 | 0 | 0 | 2 | 1 |
@@ -269,5 +269,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 772 | 0 | 1 | 342 | 198 |
+| TOTAL | 780 | 0 | 1 | 342 | 198 |
 
