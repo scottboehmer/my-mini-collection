@@ -32,6 +32,7 @@
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
+| Blood Asp Prime | 4 | 0 | 0 | 1 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 0 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
 | Caesar CES-3R | 4 | 0 | 0 | 0 | 0 |
@@ -269,5 +270,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 780 | 0 | 1 | 342 | 198 |
+| TOTAL | 784 | 0 | 1 | 343 | 198 |
 

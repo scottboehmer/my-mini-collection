@@ -24,6 +24,7 @@
 | Blackjack BJ-1 | 1 |
 | Blackjack BJ-2 | 1 |
 | Blackjack BJ-3 | 2 |
+| Blood Asp Prime | 3 |
 | Bulldog Medium Tank | 6 |
 | Bushwacker BSW-X1 | 2 |
 | Caesar CES-3R | 4 |
@@ -199,5 +200,5 @@
 | Wolfhound WLF-2 (kneeling) | 2 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 438 |
+| TOTAL | 441 |
 

@@ -20,6 +20,7 @@
 | Black Knight BL-6-KNT | 1 | Hastati Sentinels |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
+| Blood Asp Prime | 1 | Old Blood and Guts |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | Drake Hunters |
 | Commando COM-2D | 1 | Eridani Light Horse |
@@ -103,5 +104,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 144 | |
+| TOTAL | 145 | |
 
