@@ -17,4 +17,5 @@
 - Timber Wolf Pryde
 - Turkina Prime
 ## Planned Expansion
+- Bane
 - Hel Prime

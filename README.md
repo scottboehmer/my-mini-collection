@@ -49,6 +49,7 @@ The simple command line tool I use for managing this repo is in [`scottboehmer/m
   - [Eridani Light Horse](md/eridani-light-horse.md)
   - [Fox Patrol](md/fox-patrol.md)
   - [Gray Death Legion](md/gray-death-legion.md)
+  - [Jade Tigers](md/jade-tigers.md)
   - [Kell Hounds](md/kell-hounds.md)
   - [Northwind Highlanders](md/northwind-highlanders.md)
   - [Wolf's Dragoons](md/wolfs-dragoons.md)
@@ -71,6 +72,8 @@ The simple command line tool I use for managing this repo is in [`scottboehmer/m
   - [The Black Marauder](md/the-black-marauder.md)
 - Star League
   - [SLDF](md/sldf.md)
+- Tamar Pact
+  - [Tamar Jaegers](md/tamar-jaegers.md)
 - Terran Hegemony
   - [Hegemony Armed Forces](md/hegemony-armed-forces.md)
 - Vesper Marches

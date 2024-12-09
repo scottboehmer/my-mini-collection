@@ -14,10 +14,9 @@
 | Awesome AWS-8R | 1 |
 | Axman AXM-1N | 1 |
 | Axman AXM-2N | 1 |
-| Bane | 1 |
 | Banshee BNC-3S | 2 |
 | BattleAxe BKX-7K | 1 |
-| BattleMaster BLR-1G | 2 |
+| BattleMaster BLR-1G | 1 |
 | Behemoth Heavy Tank | 3 |
 | Black Knight BL-6-KNT | 2 |
 | Black Lanner Prime | 1 |
@@ -40,10 +39,10 @@
 | Cicada CDA-2A | 1 |
 | Clint CLNT-2-3T | 1 |
 | Commando COM-2D | 1 |
-| Condor Heavy Hover Tank | 6 |
+| Condor Heavy Hover Tank | 4 |
 | Conjurer | 1 |
 | Crockett CRK-5003-1 | 2 |
-| Crusader CRD-3R | 3 |
+| Crusader CRD-3R | 2 |
 | Cyclops CP-10-Z | 2 |
 | Cyclops CP-11-A | 1 |
 | Demolisher Heavy Tank | 5 |
@@ -58,13 +57,12 @@
 | Enforcer ENF-5D | 1 |
 | Eris ERS-2N | 1 |
 | Exterminator EXT-4D | 1 |
-| Fire Falcon Prime | 1 |
 | Fire Moth D | 2 |
 | Fire Moth Prime | 1 |
 | Firefly FFL-4C | 1 |
 | Firestarter FS9-H | 1 |
 | Flea FLE-17 | 2 |
-| Galleon Light Tank GAL-100 | 7 |
+| Galleon Light Tank GAL-100 | 6 |
 | Gargoyle C | 1 |
 | Gargoyle Prime | 1 |
 | Gladiator GLD-1R | 1 |
@@ -86,22 +84,20 @@
 | Highlander IIC | 1 |
 | Horned Owl | 1 |
 | Howler | 1 |
-| Hunchback IIC | 1 |
 | Huntsman Prime | 1 |
 | Hybrid Rifleman | 2 |
 | Incubus | 2 |
 | IS Standard Battle Armor Squad | 7 |
 | J. Edgar Light Hover Tank | 5 |
-| Javelin JVN-10N | 2 |
+| Javelin JVN-10N | 1 |
 | Jenner IIC | 1 |
 | Jenner JR7-D | 3 |
 | King Crab KGC-000 | 1 |
 | Kodiak | 1 |
-| Linebacker Prime | 1 |
 | Locust IIC | 2 |
 | Locust LCT-3M | 2 |
 | LRM Carrier | 5 |
-| Manticore Heavy Tank | 6 |
+| Manticore Heavy Tank | 4 |
 | Marauder (Red Hunter 3146) | 1 |
 | Marauder Bounty Hunter | 1 |
 | Marauder Bounty Hunter (damaged) | 1 |
@@ -130,13 +126,13 @@
 | Phoenix Hawk PHX-1b | 1 |
 | Phoenix Hawk PXH-1 | 1 |
 | Phoenix Hawk PXH-1 (premium) | 1 |
-| Pike Support Vehicle | 5 |
+| Pike Support Vehicle | 3 |
 | Piranha | 2 |
 | Pouncer Prime | 2 |
 | Quickdraw QKD-4G | 2 |
 | Regent Prime | 1 |
 | Rifleman IIC | 1 |
-| Rifleman RFL-3N | 5 |
+| Rifleman RFL-3N | 4 |
 | Rifleman RFL-3N Legend-Killer | 1 |
 | Sagittaire SGT-8R | 1 |
 | Savannah Master Hovercraft | 4 |
@@ -190,5 +186,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 385 |
+| TOTAL | 370 |
 

@@ -3,6 +3,10 @@
   "Faction": "Clan Jade Falcon",
   "Miniatures": [
     {
+      "Name": "Bane",
+      "Painted": false
+    },
+    {
       "Name": "Black Lanner Prime",
       "Painted": true
     },

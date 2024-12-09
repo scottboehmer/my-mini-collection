@@ -25,6 +25,7 @@
 - Firestarter FS9-H
 - IS Standard Battle Armor Squad
 - JagerMech JM6-S
+- Javelin JVN-10N
 - Mobile Headquarters
 - Patton Tank
 - Patton Tank

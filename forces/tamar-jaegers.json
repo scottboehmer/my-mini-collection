@@ -1,0 +1,30 @@
+{
+  "Name": "Tamar Jaegers",
+  "Faction": "Tamar Pact",
+  "Miniatures": [
+    {
+      "Name": "BattleMaster BLR-1G",
+      "Painted": false
+    },
+    {
+      "Name": "Condor Heavy Hover Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Condor Heavy Hover Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Crusader CRD-3R",
+      "Painted": false
+    },
+    {
+      "Name": "Hunchback IIC",
+      "Painted": false
+    },
+    {
+      "Name": "Rifleman RFL-3N",
+      "Painted": false
+    }
+  ]
+}

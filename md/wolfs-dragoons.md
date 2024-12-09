@@ -11,6 +11,7 @@
 - Flea FLE-17
 - Gargoyle Prime
 - Hoplite HOP-4D
+- Linebacker Prime
 - Marauder II MAD-4A
 - Rifleman RFL-3N
 - Shogun SHG-2F

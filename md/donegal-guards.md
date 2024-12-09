@@ -22,6 +22,8 @@
 - Axman AXM-2N
 - Hunchback HBK-4G
 - IS Standard Battle Armor Squad
+- Manticore Heavy Tank
+- Manticore Heavy Tank
 - Nightsky NGS-4S
 - Starslayer STY-3C
 - Sturmfeur Heavy Tank

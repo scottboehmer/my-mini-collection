@@ -1,0 +1,18 @@
+{
+  "Name": "Jade Tigers",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Fire Falcon Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Galleon Light Tank GAL-100",
+      "Painted": false
+    },
+    {
+      "Name": "Kit Fox Prime",
+      "Painted": false
+    }
+  ]
+}

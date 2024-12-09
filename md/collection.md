@@ -19,11 +19,11 @@
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
-| Bane | 1 | 0 | 0 | 0 | 0 |
+| Bane | 1 | 0 | 0 | 1 | 0 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
-| BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
+| BattleMaster BLR-1G | 4 | 0 | 0 | 3 | 2 |
 | Behemoth Heavy Tank | 5 | 0 | 0 | 2 | 0 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
@@ -51,14 +51,14 @@
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
 | Clint CLNT-2-3T | 2 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
-| Condor Heavy Hover Tank | 6 | 0 | 0 | 0 | 0 |
+| Condor Heavy Hover Tank | 6 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 2 |
 | Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 3 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 2 |
-| Crusader CRD-3R | 5 | 0 | 0 | 2 | 2 |
+| Crusader CRD-3R | 5 | 0 | 0 | 3 | 2 |
 | Crusader CRD-5M | 2 | 0 | 0 | 2 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
@@ -78,7 +78,7 @@
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
-| Fire Falcon Prime | 2 | 0 | 0 | 1 | 1 |
+| Fire Falcon Prime | 2 | 0 | 0 | 2 | 1 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
@@ -86,7 +86,7 @@
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
-| Galleon Light Tank GAL-100 | 7 | 0 | 0 | 0 | 0 |
+| Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 0 |
 | Gargoyle C | 2 | 0 | 0 | 1 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
@@ -119,7 +119,7 @@
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
-| Hunchback IIC | 2 | 0 | 0 | 1 | 0 |
+| Hunchback IIC | 2 | 0 | 0 | 2 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
@@ -129,15 +129,15 @@
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 1 | 0 | 0 | 1 | 0 |
-| Javelin JVN-10N | 2 | 0 | 0 | 0 | 0 |
+| Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
 | Jenner IIC | 2 | 0 | 0 | 1 | 0 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
-| Kit Fox Prime | 2 | 0 | 0 | 2 | 1 |
+| Kit Fox Prime | 2 | 0 | 0 | 3 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
-| Linebacker Prime | 4 | 0 | 0 | 3 | 2 |
+| Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
 | Locust IIC | 2 | 0 | 0 | 0 | 0 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
@@ -146,7 +146,7 @@
 | LRM Carrier | 7 | 0 | 0 | 2 | 0 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
-| Manticore Heavy Tank | 6 | 0 | 0 | 0 | 0 |
+| Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
 | Marauder (Red Hunter 3146) | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -186,7 +186,7 @@
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 6 | 3 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
-| Pike Support Vehicle | 7 | 0 | 0 | 2 | 0 |
+| Pike Support Vehicle | 7 | 0 | 0 | 4 | 0 |
 | Pillager PLG-3Z | 1 | 0 | 0 | 1 | 0 |
 | Piranha | 3 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 4 | 0 | 0 | 2 | 0 |
@@ -194,7 +194,7 @@
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 0 |
 | Rifleman IIC | 1 | 0 | 0 | 0 | 0 |
-| Rifleman RFL-3N | 8 | 0 | 0 | 3 | 1 |
+| Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savannah Master Hovercraft | 4 | 0 | 0 | 0 | 0 |
@@ -270,5 +270,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 784 | 0 | 1 | 399 | 198 |
+| TOTAL | 784 | 0 | 1 | 415 | 198 |
 

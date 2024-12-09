@@ -13,4 +13,6 @@
 - Blood Asp Prime
 - Firefly FFL-4C
 - Merlin MLN-1A
+- Pike Support Vehicle
+- Pike Support Vehicle
 - Scorpion SCP-1N
