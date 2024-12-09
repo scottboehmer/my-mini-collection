@@ -19,6 +19,10 @@
       "Painted": true
     },
     {
+      "Name": "IS Standard Battle Armor Squad",
+      "Painted": false
+    },
+    {
       "Name": "Locust LCT-1E",
       "Painted": true
     },
@@ -31,8 +35,16 @@
       "Painted": true
     },
     {
+      "Name": "Pillager PLG-3Z",
+      "Painted": false
+    },
+    {
       "Name": "Raven RVN-3L",
       "Painted": true
+    },
+    {
+      "Name": "Spector SPR-5F",
+      "Painted": false
     },
     {
       "Name": "Thunderbolt TDR-5S",

@@ -17,25 +17,25 @@
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 4 | 3 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
-| Axman AXM-1N | 2 | 0 | 0 | 2 | 1 |
-| Axman AXM-2N | 2 | 0 | 0 | 0 | 0 |
+| Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
+| Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 1 | 0 | 0 | 0 | 0 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 2 | 2 |
-| Behemoth Heavy Tank | 5 | 0 | 0 | 0 | 0 |
+| Behemoth Heavy Tank | 5 | 0 | 0 | 2 | 0 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 2 |
-| Black Python | 3 | 0 | 0 | 0 | 0 |
+| Black Python | 3 | 0 | 0 | 2 | 0 |
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
-| Blood Asp Prime | 4 | 0 | 0 | 1 | 0 |
-| Bulldog Medium Tank | 6 | 0 | 0 | 0 | 0 |
+| Blood Asp Prime | 4 | 0 | 0 | 3 | 0 |
+| Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
-| Caesar CES-3R | 4 | 0 | 0 | 0 | 0 |
+| Caesar CES-3R | 4 | 0 | 0 | 1 | 0 |
 | Caesar CES-3R Archangel | 1 | 0 | 0 | 0 | 0 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
@@ -47,9 +47,9 @@
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 3 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
-| Charger CGR-3K | 1 | 0 | 0 | 0 | 0 |
-| Cicada CDA-2A | 2 | 0 | 0 | 0 | 0 |
-| Clint CLNT-2-3T | 2 | 0 | 0 | 0 | 0 |
+| Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
+| Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
+| Clint CLNT-2-3T | 2 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Condor Heavy Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
@@ -64,13 +64,13 @@
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
-| Devastator DVS-2 | 4 | 0 | 0 | 0 | 0 |
+| Devastator DVS-2 | 4 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
-| Drillson Heavy Hover Tank | 7 | 0 | 0 | 0 | 0 |
+| Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
 | Elemental Point | 18 | 0 | 0 | 13 | 8 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
@@ -82,40 +82,40 @@
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
-| Firefly FFL-4C | 3 | 0 | 0 | 0 | 0 |
-| Firestarter FS9-H | 2 | 0 | 0 | 0 | 0 |
+| Firefly FFL-4C | 3 | 0 | 0 | 2 | 0 |
+| Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
-| Flea FLE-17 | 4 | 0 | 0 | 0 | 0 |
+| Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 0 | 0 |
 | Gargoyle C | 2 | 0 | 0 | 1 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
-| Goliath GOL-1H | 2 | 0 | 0 | 0 | 0 |
+| Goliath GOL-1H | 2 | 0 | 0 | 1 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
 | Griffin GRF-1N | 5 | 0 | 0 | 5 | 4 |
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
-| Griffin IIC | 2 | 0 | 0 | 0 | 0 |
-| Grizzly | 1 | 0 | 0 | 0 | 0 |
+| Griffin IIC | 2 | 0 | 0 | 1 | 0 |
+| Grizzly | 1 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
-| Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 0 | 0 |
+| Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
-| Hel Prime | 2 | 0 | 0 | 0 | 0 |
+| Hel Prime | 2 | 0 | 0 | 2 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
-| Hermes II HER-2S | 1 | 0 | 0 | 0 | 0 |
+| Hermes II HER-2S | 1 | 0 | 0 | 1 | 0 |
 | Hetzer Wheeled Assault Gun | 7 | 0 | 0 | 0 | 0 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
 | Highlander IIC | 1 | 0 | 0 | 0 | 0 |
-| Hoplite HOP-4D | 1 | 0 | 0 | 0 | 0 |
+| Hoplite HOP-4D | 1 | 0 | 0 | 1 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
@@ -125,12 +125,12 @@
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
-| IS Standard Battle Armor Squad | 16 | 0 | 0 | 0 | 0 |
+| IS Standard Battle Armor Squad | 16 | 0 | 0 | 9 | 0 |
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
-| JagerMech JM6-S | 1 | 0 | 0 | 0 | 0 |
+| JagerMech JM6-S | 1 | 0 | 0 | 1 | 0 |
 | Javelin JVN-10N | 2 | 0 | 0 | 0 | 0 |
-| Jenner IIC | 2 | 0 | 0 | 0 | 0 |
+| Jenner IIC | 2 | 0 | 0 | 1 | 0 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
@@ -150,18 +150,18 @@
 | Marauder (Red Hunter 3146) | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter (damaged) | 1 | 0 | 0 | 0 | 0 |
-| Marauder II MAD-4A | 5 | 0 | 0 | 3 | 0 |
-| Marauder II MAD-8K | 3 | 0 | 0 | 0 | 0 |
+| Marauder II MAD-4A | 5 | 0 | 0 | 2 | 0 |
+| Marauder II MAD-8K | 3 | 0 | 0 | 1 | 0 |
 | Marauder IIC | 2 | 0 | 0 | 0 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 3 | 2 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
 | Mastodon D | 1 | 0 | 0 | 1 | 1 |
-| Mauler MAL-1R | 2 | 0 | 0 | 0 | 0 |
+| Mauler MAL-1R | 2 | 0 | 0 | 1 | 0 |
 | Maxim Heavy Hover Transport | 6 | 0 | 0 | 0 | 0 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
-| Merlin MLN-1A | 1 | 0 | 0 | 0 | 0 |
+| Merlin MLN-1A | 1 | 0 | 0 | 1 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
-| Mobile Headquarters | 3 | 0 | 0 | 0 | 0 |
+| Mobile Headquarters | 3 | 0 | 0 | 1 | 0 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 | 0 | 0 | 0 | 0 |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 | 0 | 0 | 0 | 0 |
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
@@ -174,11 +174,11 @@
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
-| Ostscout OTT-7J | 2 | 0 | 0 | 0 | 0 |
+| Ostscout OTT-7J | 2 | 0 | 0 | 1 | 0 |
 | Ostsol OTL-4D | 3 | 0 | 0 | 0 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
-| Patton Tank | 7 | 0 | 0 | 2 | 0 |
+| Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Pegasus Scout Hover Tank | 4 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk IIC | 2 | 0 | 0 | 0 | 0 |
@@ -187,7 +187,7 @@
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Pike Support Vehicle | 7 | 0 | 0 | 2 | 0 |
-| Pillager PLG-3Z | 1 | 0 | 0 | 0 | 0 |
+| Pillager PLG-3Z | 1 | 0 | 0 | 1 | 0 |
 | Piranha | 3 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 4 | 0 | 0 | 2 | 0 |
 | Quickdraw QKD-4G | 3 | 0 | 0 | 1 | 0 |
@@ -198,30 +198,30 @@
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savannah Master Hovercraft | 4 | 0 | 0 | 0 | 0 |
-| Schrek PPC Carrier | 6 | 0 | 0 | 0 | 0 |
-| Scorpion SCP-1N | 1 | 0 | 0 | 0 | 0 |
+| Schrek PPC Carrier | 6 | 0 | 0 | 2 | 0 |
+| Scorpion SCP-1N | 1 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
 | Shadow Hawk IIC | 2 | 0 | 0 | 0 | 0 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
-| Shogun SHG-2F | 1 | 0 | 0 | 0 | 0 |
+| Shogun SHG-2F | 1 | 0 | 0 | 1 | 0 |
 | Skulker Wheeled Scout Tank | 5 | 0 | 0 | 0 | 0 |
-| SM5 Field Commander | 1 | 0 | 0 | 0 | 0 |
+| SM5 Field Commander | 1 | 0 | 0 | 1 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
 | Sojourner Prime | 1 | 0 | 1 | 1 | 1 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
-| Spector SPR-5F | 2 | 0 | 0 | 0 | 0 |
+| Spector SPR-5F | 2 | 0 | 0 | 1 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
-| Starslayer STY-3C | 3 | 0 | 0 | 0 | 0 |
+| Starslayer STY-3C | 3 | 0 | 0 | 1 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 2 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
 | Stormwolf Prime | 1 | 0 | 0 | 1 | 1 |
-| Sturmfeur Heavy Tank | 5 | 0 | 0 | 0 | 0 |
+| Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
@@ -256,7 +256,7 @@
 | Warhammer IIC | 2 | 0 | 0 | 1 | 0 |
 | Warhammer WHM-6R | 7 | 0 | 0 | 2 | 1 |
 | Warhammer WHM-7S | 3 | 0 | 0 | 1 | 1 |
-| Warhammer WHM-9K | 3 | 0 | 0 | 0 | 0 |
+| Warhammer WHM-9K | 3 | 0 | 0 | 1 | 0 |
 | Warhawk C | 3 | 0 | 0 | 1 | 0 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Warrior Attack Helicopter H-7 | 5 | 0 | 0 | 0 | 0 |
@@ -264,11 +264,11 @@
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 1 | 0 | 0 | 0 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
-| Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 2 |
-| Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 0 | 0 |
+| Wolfhound WLF-1 | 6 | 0 | 0 | 4 | 2 |
+| Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 784 | 0 | 1 | 343 | 198 |
+| TOTAL | 784 | 0 | 1 | 399 | 198 |
 

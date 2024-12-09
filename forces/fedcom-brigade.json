@@ -15,8 +15,20 @@
       "Painted": true
     },
     {
+      "Name": "Behemoth Heavy Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Behemoth Heavy Tank",
+      "Painted": false
+    },
+    {
       "Name": "Bushwacker BSW-X1",
       "Painted": true
+    },
+    {
+      "Name": "Caesar CES-3R",
+      "Painted": false
     },
     {
       "Name": "Catapult CPLT-C1",
@@ -31,8 +43,16 @@
       "Painted": true
     },
     {
+      "Name": "Devastator DVS-2",
+      "Painted": false
+    },
+    {
       "Name": "Enforcer ENF-4R",
       "Painted": true
+    },
+    {
+      "Name": "Firestarter FS9-H",
+      "Painted": false
     },
     {
       "Name": "Hatchetman HCT-6D",
@@ -41,6 +61,18 @@
     {
       "Name": "Hunchback HBK-4G",
       "Painted": true
+    },
+    {
+      "Name": "IS Standard Battle Armor Squad",
+      "Painted": false
+    },
+    {
+      "Name": "JagerMech JM6-S",
+      "Painted": false
+    },
+    {
+      "Name": "Mobile Headquarters",
+      "Painted": false
     },
     {
       "Name": "Nightstar NSR-9J",
@@ -65,6 +97,14 @@
     {
       "Name": "Sagittaire SGT-8R",
       "Painted": true
+    },
+    {
+      "Name": "Schrek PPC Carrier",
+      "Painted": false
+    },
+    {
+      "Name": "Schrek PPC Carrier",
+      "Painted": false
     },
     {
       "Name": "Stinger STG-3R",

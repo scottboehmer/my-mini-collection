@@ -9,3 +9,5 @@
 - Hatchetman HCT-3F
 - Highlander HGN-732
 - Warhammer WHM-7S
+## Planned Expansion
+- Clint CLNT-2-3T

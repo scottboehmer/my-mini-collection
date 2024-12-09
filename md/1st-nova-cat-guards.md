@@ -11,3 +11,6 @@
 - Supernova
 - Timber Wolf Prime
 - Turkina Prime
+## Planned Expansion
+- Griffin IIC
+- Jenner IIC

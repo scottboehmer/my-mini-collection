@@ -19,7 +19,11 @@
 - Wolfhound WLF-1
 - Zeus ZEU-6S
 ## Planned Expansion
-- Axman AXM-1N
+- Axman AXM-2N
 - Hunchback HBK-4G
+- IS Standard Battle Armor Squad
 - Nightsky NGS-4S
+- Starslayer STY-3C
+- Sturmfeur Heavy Tank
+- Sturmfeur Heavy Tank
 - Ymir BWP-2B

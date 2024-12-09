@@ -15,6 +15,14 @@
       "Painted": true
     },
     {
+      "Name": "Blood Asp Prime",
+      "Painted": false
+    },
+    {
+      "Name": "Firefly FFL-4C",
+      "Painted": false
+    },
+    {
       "Name": "Grasshopper GHR-5H",
       "Painted": true
     },
@@ -27,8 +35,16 @@
       "Painted": true
     },
     {
+      "Name": "Merlin MLN-1A",
+      "Painted": false
+    },
+    {
       "Name": "Phoenix Hawk PXH-1",
       "Painted": true
+    },
+    {
+      "Name": "Scorpion SCP-1N",
+      "Painted": false
     },
     {
       "Name": "Wasp WSP-1A",

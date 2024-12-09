@@ -15,4 +15,7 @@
 - Vindicator VND-1R
 - Wasp WSP-1A
 ## Planned Expansion
+- IS Standard Battle Armor Squad
+- Pillager PLG-3Z
+- Spector SPR-5F
 - UrbanMech UM-R60L

@@ -16,12 +16,19 @@
 ## Planned Expansion
 - Archer ARC-5R
 - Arctic Cheetah Prime
+- Bulldog Medium Tank
+- Bulldog Medium Tank
+- Charger CGR-3K
 - Cyclops CP-10-Z
 - Ebon Jaguar Prime
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
+- Hatamoto-Chi HTM-27T
+- IS Standard Battle Armor Squad
 - J. Edgar Light Hover Tank
 - J. Edgar Light Hover Tank
-- Marauder II MAD-4A
+- Marauder II MAD-8K
+- Mauler MAL-1R
 - Phoenix Hawk PXH-1
+- Warhammer WHM-9K
 - Wolverine WVR-6R

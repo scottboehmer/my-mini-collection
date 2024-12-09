@@ -21,6 +21,12 @@
 ## Planned Expansion
 - Archer ARC-2R
 - Atlas AS7-D
+- Cicada CDA-2A
+- Flea FLE-17
+- Goliath GOL-1H
+- Hermes II HER-2S
 - Icarus II ICR-1S
+- IS Standard Battle Armor Squad
 - LRM Carrier
 - LRM Carrier
+- Ostscout OTT-7J

@@ -12,3 +12,5 @@
 - Timber Wolf Prime
 - Vapor Eagle
 - Viper Prime
+## Planned Expansion
+- Black Python

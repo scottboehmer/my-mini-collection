@@ -3,6 +3,14 @@
   "Faction": "Raven Alliance",
   "Miniatures": [
     {
+      "Name": "Black Python",
+      "Painted": false
+    },
+    {
+      "Name": "Blood Asp Prime",
+      "Painted": false
+    },
+    {
       "Name": "Carrion Crow A",
       "Painted": false
     },

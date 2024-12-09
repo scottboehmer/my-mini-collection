@@ -15,12 +15,28 @@
       "Painted": true
     },
     {
+      "Name": "Cicada CDA-2A",
+      "Painted": false
+    },
+    {
       "Name": "Eris ERS-2N",
       "Painted": true
     },
     {
+      "Name": "Flea FLE-17",
+      "Painted": false
+    },
+    {
+      "Name": "Goliath GOL-1H",
+      "Painted": false
+    },
+    {
       "Name": "Guillotine GLT-3N",
       "Painted": true
+    },
+    {
+      "Name": "Hermes II HER-2S",
+      "Painted": false
     },
     {
       "Name": "Hunchback HBK-4G",
@@ -28,6 +44,10 @@
     },
     {
       "Name": "Icarus II ICR-1S",
+      "Painted": false
+    },
+    {
+      "Name": "IS Standard Battle Armor Squad",
       "Painted": false
     },
     {
@@ -53,6 +73,10 @@
     {
       "Name": "Orion ON1-K",
       "Painted": true
+    },
+    {
+      "Name": "Ostscout OTT-7J",
+      "Painted": false
     },
     {
       "Name": "Phoenix Hawk PXH-3M (kitbash)",

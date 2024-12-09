@@ -18,5 +18,15 @@
 - Stinger STG-3R
 - Valkyrie VLK-QA
 ## Planned Expansion
+- Behemoth Heavy Tank
+- Behemoth Heavy Tank
+- Caesar CES-3R
+- Devastator DVS-2
+- Firestarter FS9-H
+- IS Standard Battle Armor Squad
+- JagerMech JM6-S
+- Mobile Headquarters
 - Patton Tank
 - Patton Tank
+- Schrek PPC Carrier
+- Schrek PPC Carrier

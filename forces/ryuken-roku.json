@@ -19,8 +19,20 @@
       "Painted": true
     },
     {
+      "Name": "Bulldog Medium Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Bulldog Medium Tank",
+      "Painted": false
+    },
+    {
       "Name": "Catapult CPLT-K2",
       "Painted": true
+    },
+    {
+      "Name": "Charger CGR-3K",
+      "Painted": false
     },
     {
       "Name": "Crab CRB-27",
@@ -55,6 +67,14 @@
       "Painted": false
     },
     {
+      "Name": "Hatamoto-Chi HTM-27T",
+      "Painted": false
+    },
+    {
+      "Name": "IS Standard Battle Armor Squad",
+      "Painted": false
+    },
+    {
       "Name": "J. Edgar Light Hover Tank",
       "Painted": false
     },
@@ -71,7 +91,11 @@
       "Painted": true
     },
     {
-      "Name": "Marauder II MAD-4A",
+      "Name": "Marauder II MAD-8K",
+      "Painted": false
+    },
+    {
+      "Name": "Mauler MAL-1R",
       "Painted": false
     },
     {
@@ -89,6 +113,10 @@
     {
       "Name": "Spider SDR-5V",
       "Painted": true
+    },
+    {
+      "Name": "Warhammer WHM-9K",
+      "Painted": false
     },
     {
       "Name": "Wolverine WVR-6R",

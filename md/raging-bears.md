@@ -16,4 +16,5 @@
 - Summoner Prime
 - Viper Prime
 ## Planned Expansion
+- Grizzly
 - Hunchback HBK-4G

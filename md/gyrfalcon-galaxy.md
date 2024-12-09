@@ -16,3 +16,5 @@
 - Summoner Prime
 - Timber Wolf Pryde
 - Turkina Prime
+## Planned Expansion
+- Hel Prime

@@ -9,3 +9,8 @@
 - Longbow LGB-7Q
 - Phoenix Hawk PXH-1
 - Wasp WSP-1A
+## Planned Expansion
+- Blood Asp Prime
+- Firefly FFL-4C
+- Merlin MLN-1A
+- Scorpion SCP-1N
