@@ -45,7 +45,7 @@
 | Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
 | Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
-| Chameleon CLN-7V | 3 | 0 | 0 | 0 | 0 |
+| Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
@@ -134,7 +134,7 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
-| Kit Fox Prime | 2 | 0 | 0 | 3 | 1 |
+| Kit Fox Prime | 3 | 0 | 0 | 3 | 1 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
@@ -159,7 +159,7 @@
 | Mauler MAL-1R | 2 | 0 | 0 | 1 | 0 |
 | Maxim Heavy Hover Transport | 6 | 0 | 0 | 0 | 0 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
-| Merlin MLN-1A | 1 | 0 | 0 | 1 | 0 |
+| Merlin MLN-1A | 2 | 0 | 0 | 1 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mobile Headquarters | 3 | 0 | 0 | 1 | 0 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 | 0 | 0 | 0 | 0 |
@@ -243,7 +243,7 @@
 | UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R60L | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
-| Valkyrie VLK-QA | 3 | 0 | 0 | 2 | 1 |
+| Valkyrie VLK-QA | 2 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 2 | 0 | 0 | 1 | 1 |
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |

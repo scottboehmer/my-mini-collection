@@ -34,7 +34,7 @@
 | Catapult CPLT-K2K | 1 |
 | Centurion CN9-A | 1 |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 |
-| Chameleon CLN-7V | 3 |
+| Chameleon CLN-7V | 2 |
 | Charger CGR-1A1 | 1 |
 | Cicada CDA-2A | 1 |
 | Clint CLNT-2-3T | 1 |
@@ -107,6 +107,7 @@
 | Marauder MAD-3R Carlyle | 1 |
 | Mauler MAL-1R | 1 |
 | Maxim Heavy Hover Transport | 6 |
+| Merlin MLN-1A | 1 |
 | Mobile Headquarters | 2 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |
@@ -164,7 +165,6 @@
 | UrbanMech UM-R60 | 9 |
 | UrbanMech UM-R60 (running) | 1 |
 | UrbanMech UM-R68 | 1 |
-| Valkyrie VLK-QA | 1 |
 | Vapor Eagle | 1 |
 | Vedette Medium Tank | 6 |
 | Victor VTR-9B | 2 |
@@ -186,5 +186,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 370 |
+| TOTAL | 369 |
 
