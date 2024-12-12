@@ -68,7 +68,7 @@
 | Hel Prime | 2 | Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hermes II HER-2S | 1 | Marik Militia |
-| Hoplite HOP-4D | 1 | Wolf's Dragoons |
+| Hoplite HOP-4D | 2 | Kell Hounds, Wolf's Dragoons |
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 2 | Cloud Rangers, Tamar Jaegers |
 | Icarus II ICR-1S | 1 | Marik Militia |
@@ -149,5 +149,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 217 | |
+| TOTAL | 218 | |
 

@@ -83,7 +83,6 @@
 | Highlander HGN-694 | 1 |
 | Highlander HGN-732 | 4 |
 | Highlander IIC | 1 |
-| Hoplite HOP-4D | 1 |
 | Horned Owl | 1 |
 | Howler | 1 |
 | Huntsman Prime | 1 |
@@ -188,5 +187,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 380 |
+| TOTAL | 379 |
 

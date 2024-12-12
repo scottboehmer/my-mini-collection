@@ -115,7 +115,7 @@
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
 | Highlander IIC | 1 | 0 | 0 | 0 | 0 |
-| Hoplite HOP-4D | 2 | 0 | 0 | 1 | 0 |
+| Hoplite HOP-4D | 2 | 0 | 0 | 2 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
@@ -270,5 +270,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 795 | 0 | 1 | 415 | 198 |
+| TOTAL | 795 | 0 | 1 | 416 | 198 |
 
