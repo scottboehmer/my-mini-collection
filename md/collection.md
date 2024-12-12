@@ -49,7 +49,7 @@
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
-| Clint CLNT-2-3T | 2 | 0 | 0 | 1 | 0 |
+| Clint CLNT-2-3T | 3 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Condor Heavy Hover Tank | 6 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
@@ -64,7 +64,7 @@
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
-| Devastator DVS-2 | 4 | 0 | 0 | 1 | 0 |
+| Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
@@ -82,7 +82,7 @@
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
-| Firefly FFL-4C | 3 | 0 | 0 | 2 | 0 |
+| Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
@@ -98,7 +98,7 @@
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 0 |
-| Grizzly | 1 | 0 | 0 | 1 | 0 |
+| Grizzly | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
@@ -115,7 +115,7 @@
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
 | Highlander IIC | 1 | 0 | 0 | 0 | 0 |
-| Hoplite HOP-4D | 1 | 0 | 0 | 1 | 0 |
+| Hoplite HOP-4D | 2 | 0 | 0 | 1 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
@@ -157,9 +157,9 @@
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
 | Mastodon D | 1 | 0 | 0 | 1 | 1 |
 | Mauler MAL-1R | 2 | 0 | 0 | 1 | 0 |
-| Maxim Heavy Hover Transport | 6 | 0 | 0 | 0 | 0 |
+| Maxim Heavy Hover Transport | 7 | 0 | 0 | 0 | 0 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
-| Merlin MLN-1A | 2 | 0 | 0 | 1 | 0 |
+| Merlin MLN-1A | 3 | 0 | 0 | 1 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mobile Headquarters | 3 | 0 | 0 | 1 | 0 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 | 0 | 0 | 0 | 0 |
@@ -175,7 +175,7 @@
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
 | Ostscout OTT-7J | 2 | 0 | 0 | 1 | 0 |
-| Ostsol OTL-4D | 3 | 0 | 0 | 0 | 0 |
+| Ostsol OTL-4D | 4 | 0 | 0 | 0 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
@@ -202,7 +202,7 @@
 | Scorpion SCP-1N | 1 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
-| Shadow Hawk IIC | 2 | 0 | 0 | 0 | 0 |
+| Shadow Hawk IIC | 3 | 0 | 0 | 0 | 0 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -270,5 +270,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 784 | 0 | 1 | 415 | 198 |
+| TOTAL | 795 | 0 | 1 | 415 | 198 |
 

@@ -37,7 +37,7 @@
 | Chameleon CLN-7V | 2 |
 | Charger CGR-1A1 | 1 |
 | Cicada CDA-2A | 1 |
-| Clint CLNT-2-3T | 1 |
+| Clint CLNT-2-3T | 2 |
 | Commando COM-2D | 1 |
 | Condor Heavy Hover Tank | 4 |
 | Conjurer | 1 |
@@ -47,7 +47,7 @@
 | Cyclops CP-11-A | 1 |
 | Demolisher Heavy Tank | 5 |
 | Dervish DV-6M | 1 |
-| Devastator DVS-2 | 3 |
+| Devastator DVS-2 | 6 |
 | Dire Wolf Prime | 1 |
 | Dire Wolf Prime (damaged) | 1 |
 | Dragon DRG-1N | 2 |
@@ -59,7 +59,7 @@
 | Exterminator EXT-4D | 1 |
 | Fire Moth D | 2 |
 | Fire Moth Prime | 1 |
-| Firefly FFL-4C | 1 |
+| Firefly FFL-4C | 2 |
 | Firestarter FS9-H | 1 |
 | Flea FLE-17 | 2 |
 | Galleon Light Tank GAL-100 | 6 |
@@ -72,6 +72,7 @@
 | Grendel Prime | 1 |
 | Griffin GRF-2N | 2 |
 | Griffin IIC | 1 |
+| Grizzly | 1 |
 | Gunslinger GUN-1ERD | 1 |
 | Hammerhead | 1 |
 | Hatamoto-Chi HTM-27T | 1 |
@@ -82,6 +83,7 @@
 | Highlander HGN-694 | 1 |
 | Highlander HGN-732 | 4 |
 | Highlander IIC | 1 |
+| Hoplite HOP-4D | 1 |
 | Horned Owl | 1 |
 | Howler | 1 |
 | Huntsman Prime | 1 |
@@ -106,8 +108,8 @@
 | Marauder IIC | 2 |
 | Marauder MAD-3R Carlyle | 1 |
 | Mauler MAL-1R | 1 |
-| Maxim Heavy Hover Transport | 6 |
-| Merlin MLN-1A | 1 |
+| Maxim Heavy Hover Transport | 7 |
+| Merlin MLN-1A | 2 |
 | Mobile Headquarters | 2 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |
@@ -118,7 +120,7 @@
 | Orion ON1-K | 1 |
 | Ostroc OSR-6R | 1 |
 | Ostscout OTT-7J | 1 |
-| Ostsol OTL-4D | 3 |
+| Ostsol OTL-4D | 4 |
 | Panther PNT-9R | 2 |
 | Patton Tank | 4 |
 | Pegasus Scout Hover Tank | 4 |
@@ -139,7 +141,7 @@
 | Savannah Master Hovercraft | 4 |
 | Schrek PPC Carrier | 4 |
 | Shadow Cat Prime | 1 |
-| Shadow Hawk IIC | 2 |
+| Shadow Hawk IIC | 3 |
 | Shadow Hawk SHD-2H | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 |
 | Shilone SL-17 | 2 |
@@ -186,5 +188,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 369 |
+| TOTAL | 380 |
 
