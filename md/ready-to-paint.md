@@ -124,6 +124,7 @@
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stalker STK-3F | 1 | Wolf's Dragoons |
 | Starslayer STY-3C | 1 | Donegal Guards |
+| Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
@@ -150,5 +151,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 220 | |
+| TOTAL | 221 | |
 

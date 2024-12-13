@@ -18,5 +18,6 @@
 - IS Standard Battle Armor Squad
 - Pillager PLG-3Z
 - Spector SPR-5F
+- Starslayer STY-4C (jumping)
 - Tian-Zong TNZ-N3
 - UrbanMech UM-R60L

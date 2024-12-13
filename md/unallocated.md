@@ -151,7 +151,7 @@
 | SRM Carrier | 8 |
 | Stalker STK-3F | 2 |
 | Starslayer STY-3C | 2 |
-| Starslayer STY-4C (jumping) | 2 |
+| Starslayer STY-4C (jumping) | 1 |
 | Stinger STG-3R | 1 |
 | Stone Rhino | 1 |
 | Sturmfeur Heavy Tank | 2 |
@@ -190,5 +190,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 385 |
+| TOTAL | 384 |
 
