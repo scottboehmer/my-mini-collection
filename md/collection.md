@@ -17,6 +17,7 @@
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Awesome AWS-8Q | 4 | 0 | 0 | 4 | 3 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
+| Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 1 | 0 | 0 | 1 | 0 |
@@ -25,6 +26,7 @@
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
 | BattleMaster BLR-1G | 4 | 0 | 0 | 3 | 2 |
 | Behemoth Heavy Tank | 5 | 0 | 0 | 2 | 0 |
+| Black Knight BL-18-KNT | 2 | 0 | 0 | 0 | 0 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
 | Black Knight BL-9-KNT | 1 | 0 | 0 | 1 | 1 |
 | Black Lanner Prime | 3 | 0 | 0 | 2 | 2 |
@@ -217,6 +219,7 @@
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
 | Starslayer STY-3C | 3 | 0 | 0 | 1 | 0 |
+| Starslayer STY-4C (jumping) | 2 | 0 | 0 | 0 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 2 | 0 | 0 | 1 | 0 |
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
@@ -228,6 +231,7 @@
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
+| Tian-Zong TNZ-N3 | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 11 | 0 | 0 | 7 | 4 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
 | Timber Wolf S | 2 | 0 | 0 | 0 | 0 |
@@ -270,5 +274,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 795 | 0 | 1 | 416 | 198 |
+| TOTAL | 803 | 0 | 1 | 418 | 198 |
 

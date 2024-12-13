@@ -12,12 +12,14 @@
 | Atlas AS7-S | 1 |
 | Atlas II AS7-D-H | 1 |
 | Awesome AWS-8R | 1 |
+| Awesome AWS-9Q | 2 |
 | Axman AXM-1N | 1 |
 | Axman AXM-2N | 1 |
 | Banshee BNC-3S | 2 |
 | BattleAxe BKX-7K | 1 |
 | BattleMaster BLR-1G | 1 |
 | Behemoth Heavy Tank | 3 |
+| Black Knight BL-18-KNT | 2 |
 | Black Knight BL-6-KNT | 2 |
 | Black Lanner Prime | 1 |
 | Black Python | 1 |
@@ -149,6 +151,7 @@
 | SRM Carrier | 8 |
 | Stalker STK-3F | 2 |
 | Starslayer STY-3C | 2 |
+| Starslayer STY-4C (jumping) | 2 |
 | Stinger STG-3R | 1 |
 | Stone Rhino | 1 |
 | Sturmfeur Heavy Tank | 2 |
@@ -187,5 +190,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 379 |
+| TOTAL | 385 |
 

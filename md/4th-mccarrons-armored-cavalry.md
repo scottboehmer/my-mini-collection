@@ -18,4 +18,5 @@
 - IS Standard Battle Armor Squad
 - Pillager PLG-3Z
 - Spector SPR-5F
+- Tian-Zong TNZ-N3
 - UrbanMech UM-R60L
