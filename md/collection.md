@@ -80,7 +80,7 @@
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
-| Fire Falcon Prime | 2 | 0 | 0 | 2 | 1 |
+| Fire Falcon Prime | 2 | 0 | 0 | 2 | 2 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
@@ -88,7 +88,7 @@
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
-| Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 0 |
+| Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 1 |
 | Gargoyle C | 2 | 0 | 0 | 1 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
@@ -136,7 +136,7 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
-| Kit Fox Prime | 3 | 0 | 0 | 3 | 1 |
+| Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
@@ -274,5 +274,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 803 | 0 | 1 | 419 | 198 |
+| TOTAL | 803 | 0 | 1 | 419 | 201 |
 

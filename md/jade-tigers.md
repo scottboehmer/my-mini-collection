@@ -1,6 +1,6 @@
 # Jade Tigers
 **Faction:** Mercenaries
-## Planned Expansion
+## Current Force
 - Fire Falcon Prime
 - Galleon Light Tank GAL-100
 - Kit Fox Prime

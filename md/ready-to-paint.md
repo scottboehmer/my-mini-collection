@@ -45,13 +45,11 @@
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Ebon Jaguar Prime | 1 | Ryuken-roku |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
-| Fire Falcon Prime | 1 | Jade Tigers |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Firestarter FS9-H | 1 | FedCom Brigade |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
-| Galleon Light Tank GAL-100 | 1 | Jade Tigers |
 | Gargoyle C | 1 | Gray Death Legion |
 | Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
 | Goliath GOL-1H | 1 | Marik Militia |
@@ -79,7 +77,7 @@
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 1 | Eridani Light Horse |
-| Kit Fox Prime | 2 | Fox Patrol, Jade Tigers |
+| Kit Fox Prime | 1 | Fox Patrol |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
@@ -151,5 +149,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 221 | |
+| TOTAL | 218 | |
 

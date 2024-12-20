@@ -4,15 +4,15 @@
   "Miniatures": [
     {
       "Name": "Fire Falcon Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Galleon Light Tank GAL-100",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Kit Fox Prime",
-      "Painted": false
+      "Painted": true
     }
   ]
 }
