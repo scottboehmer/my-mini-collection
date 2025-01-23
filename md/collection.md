@@ -268,11 +268,11 @@
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 1 | 0 | 0 | 0 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
-| Wolfhound WLF-1 | 6 | 0 | 0 | 4 | 2 |
+| Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 2 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 803 | 0 | 1 | 419 | 201 |
+| TOTAL | 803 | 0 | 1 | 420 | 201 |
 

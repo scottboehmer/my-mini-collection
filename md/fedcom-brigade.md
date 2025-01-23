@@ -31,3 +31,4 @@
 - Patton Tank
 - Schrek PPC Carrier
 - Schrek PPC Carrier
+- Wolfhound WLF-1

@@ -143,11 +143,11 @@
 | Warhawk C | 1 | Dire Wolves |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
-| Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
+| Wolfhound WLF-1 | 3 | FedCom Brigade, Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 218 | |
+| TOTAL | 219 | |
 

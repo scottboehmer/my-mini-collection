@@ -186,9 +186,9 @@
 | Wasp WSP-1A | 3 |
 | Wasp WSP-3W | 2 |
 | Whitworth WTH-1 | 1 |
-| Wolfhound WLF-1 | 2 |
+| Wolfhound WLF-1 | 1 |
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 384 |
+| TOTAL | 383 |
 
