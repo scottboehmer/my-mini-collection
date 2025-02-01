@@ -8,6 +8,8 @@
 - Crockett CRK-5003-1
 - Crusader CRD-3R
 - Dragon DRG-1N
+- J. Edgar Light Hover Tank
+- J. Edgar Light Hover Tank
 - Jenner JR7-D
 - Lancelot LNC25-01
 - Orion ON1-K
@@ -25,8 +27,6 @@
 - Gunslinger GUN-1ERD
 - Hatamoto-Chi HTM-27T
 - IS Standard Battle Armor Squad
-- J. Edgar Light Hover Tank
-- J. Edgar Light Hover Tank
 - Marauder II MAD-8K
 - Mauler MAL-1R
 - Phoenix Hawk PXH-1

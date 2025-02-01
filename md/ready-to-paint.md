@@ -72,7 +72,6 @@
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
 | IS Standard Battle Armor Squad | 9 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
-| J. Edgar Light Hover Tank | 2 | Ryuken-roku, Ryuken-roku |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
@@ -149,5 +148,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 219 | |
+| TOTAL | 217 | |
 
