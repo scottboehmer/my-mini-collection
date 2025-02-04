@@ -6,6 +6,7 @@
 | Archer ARC-2R Kell | 1 |
 | Archer ARC-2W | 2 |
 | Archer ARC-5R | 2 |
+| Argus AGS-4D | 1 |
 | Assassin ASN-23 | 1 |
 | Atlas AS7-D | 1 |
 | Atlas AS7-D (damaged) | 1 |
@@ -26,6 +27,7 @@
 | Blackjack BJ-1 | 1 |
 | Blackjack BJ-2 | 1 |
 | Blackjack BJ-3 | 2 |
+| Blood Asp I | 1 |
 | Blood Asp Prime | 1 |
 | Bulldog Medium Tank | 4 |
 | Bushwacker BSW-X1 | 2 |
@@ -43,18 +45,23 @@
 | Commando COM-2D | 1 |
 | Condor Heavy Hover Tank | 4 |
 | Conjurer | 1 |
+| Coolant Truck 135-K | 1 |
 | Crockett CRK-5003-1 | 2 |
 | Crusader CRD-3R | 2 |
 | Cyclops CP-10-Z | 2 |
 | Cyclops CP-11-A | 1 |
+| Cyclops CP-11-H | 1 |
 | Demolisher Heavy Tank | 5 |
 | Dervish DV-6M | 1 |
 | Devastator DVS-2 | 6 |
 | Dire Wolf Prime | 1 |
 | Dire Wolf Prime (damaged) | 1 |
+| Dire Wolf Prometheus | 1 |
 | Dragon DRG-1N | 2 |
+| Dragon Fire DRG-3F | 1 |
 | Drillson Heavy Hover Tank | 5 |
 | Elemental Point | 5 |
+| Emperor EMP-6A | 1 |
 | Enforcer ENF-4R | 2 |
 | Enforcer ENF-5D | 1 |
 | Eris ERS-2N | 1 |
@@ -63,6 +70,7 @@
 | Fire Moth Prime | 1 |
 | Firefly FFL-4C | 2 |
 | Firestarter FS9-H | 1 |
+| Flashman FLS-10E | 1 |
 | Flea FLE-17 | 2 |
 | Galleon Light Tank GAL-100 | 6 |
 | Gargoyle C | 1 |
@@ -79,6 +87,7 @@
 | Hammerhead | 1 |
 | Hatamoto-Chi HTM-27T | 1 |
 | Hatchetman HCT-6D | 1 |
+| Helios HEL-3D | 1 |
 | Hellbringer Prime | 2 |
 | Hellion Prime | 2 |
 | Hetzer Wheeled Assault Gun | 7 |
@@ -190,5 +199,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 383 |
+| TOTAL | 392 |
 

@@ -9,6 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 3 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
+| Argus AGS-4D | 1 | 0 | 0 | 0 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -34,6 +35,7 @@
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
+| Blood Asp I | 1 | 0 | 0 | 0 | 0 |
 | Blood Asp Prime | 4 | 0 | 0 | 3 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
@@ -55,6 +57,7 @@
 | Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
 | Condor Heavy Hover Tank | 6 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
+| Coolant Truck 135-K | 1 | 0 | 0 | 0 | 0 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 2 |
 | Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
@@ -64,17 +67,21 @@
 | Crusader CRD-5M | 2 | 0 | 0 | 2 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
+| Cyclops CP-11-H | 1 | 0 | 0 | 0 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
+| Dire Wolf Prometheus | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
+| Dragon Fire DRG-3F | 1 | 0 | 0 | 0 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
 | Elemental Point | 18 | 0 | 0 | 13 | 8 |
+| Emperor EMP-6A | 1 | 0 | 0 | 0 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 2 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
@@ -86,6 +93,7 @@
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
+| Flashman FLS-10E | 1 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 1 |
@@ -109,6 +117,7 @@
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
 | Hel Prime | 2 | 0 | 0 | 2 | 0 |
+| Helios HEL-3D | 1 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
 | Hermes II HER-2S | 1 | 0 | 0 | 1 | 0 |
@@ -274,5 +283,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 803 | 0 | 1 | 420 | 203 |
+| TOTAL | 812 | 0 | 1 | 420 | 203 |
 
