@@ -4,7 +4,7 @@
   "Miniatures": [
     {
       "Name": "Coyotl Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Elemental Point",
@@ -36,7 +36,7 @@
     },
     {
       "Name": "Regent Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Shadow Cat Prime",
@@ -52,7 +52,7 @@
     },
     {
       "Name": "Warhammer IIC",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

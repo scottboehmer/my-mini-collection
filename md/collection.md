@@ -59,7 +59,7 @@
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
 | Coolant Truck 135-K | 1 | 0 | 0 | 0 | 0 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 2 |
-| Coyotl Prime | 1 | 0 | 0 | 1 | 0 |
+| Coyotl Prime | 1 | 0 | 0 | 1 | 1 |
 | Crab CRB-27 | 2 | 0 | 0 | 2 | 2 |
 | Crockett CRK-5003-1 | 3 | 0 | 0 | 1 | 1 |
 | Crossbow Prime | 2 | 0 | 0 | 2 | 2 |
@@ -203,7 +203,7 @@
 | Pouncer Prime | 4 | 0 | 0 | 2 | 0 |
 | Quickdraw QKD-4G | 3 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
-| Regent Prime | 2 | 0 | 0 | 1 | 0 |
+| Regent Prime | 2 | 0 | 0 | 1 | 1 |
 | Rifleman IIC | 1 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
@@ -266,7 +266,7 @@
 | Von Luckner Heavy Tank VNL-K65N | 5 | 0 | 0 | 0 | 0 |
 | Vulcan VL-2T | 2 | 0 | 0 | 0 | 0 |
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
-| Warhammer IIC | 2 | 0 | 0 | 1 | 0 |
+| Warhammer IIC | 2 | 0 | 0 | 1 | 1 |
 | Warhammer WHM-6R | 7 | 0 | 0 | 2 | 1 |
 | Warhammer WHM-7S | 3 | 0 | 0 | 1 | 1 |
 | Warhammer WHM-9K | 3 | 0 | 0 | 1 | 0 |
@@ -283,5 +283,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 812 | 0 | 1 | 420 | 203 |
+| TOTAL | 812 | 0 | 1 | 420 | 206 |
 
