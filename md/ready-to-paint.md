@@ -97,6 +97,7 @@
 | Nova Prime | 2 | Fire Horse Galaxy, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 1 | Marik Militia |
+| Ostsol OTL-4D | 1 | Pirates |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
@@ -145,5 +146,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 214 | |
+| TOTAL | 215 | |
 

@@ -1,18 +1,22 @@
 {
-    "Name": "Pirates",
-    "Faction": "Pirates",
-    "Miniatures": [
-      {
-        "Name": "Blackjack BJ-2",
-        "Painted": true
-      },
-      {
-        "Name": "Shadow Cat Prime",
-        "Painted": true
-      },
-      {
-        "Name": "UrbanMech UM-R60",
-        "Painted": true
-      }
-    ]
-  }
+  "Name": "Pirates",
+  "Faction": "Pirates",
+  "Miniatures": [
+    {
+      "Name": "Blackjack BJ-2",
+      "Painted": true
+    },
+    {
+      "Name": "Ostsol OTL-4D",
+      "Painted": false
+    },
+    {
+      "Name": "Shadow Cat Prime",
+      "Painted": true
+    },
+    {
+      "Name": "UrbanMech UM-R60",
+      "Painted": true
+    }
+  ]
+}

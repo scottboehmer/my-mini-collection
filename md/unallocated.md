@@ -130,7 +130,7 @@
 | Orion ON1-K | 1 |
 | Ostroc OSR-6R | 1 |
 | Ostscout OTT-7J | 1 |
-| Ostsol OTL-4D | 4 |
+| Ostsol OTL-4D | 3 |
 | Panther PNT-9R | 2 |
 | Patton Tank | 4 |
 | Pegasus Scout Hover Tank | 4 |
@@ -199,5 +199,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 392 |
+| TOTAL | 391 |
 

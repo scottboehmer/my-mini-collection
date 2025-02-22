@@ -186,7 +186,7 @@
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
 | Ostscout OTT-7J | 2 | 0 | 0 | 1 | 0 |
-| Ostsol OTL-4D | 4 | 0 | 0 | 0 | 0 |
+| Ostsol OTL-4D | 4 | 0 | 0 | 1 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
@@ -283,5 +283,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 812 | 0 | 1 | 420 | 206 |
+| TOTAL | 812 | 0 | 1 | 421 | 206 |
 
