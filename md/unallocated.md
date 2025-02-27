@@ -111,7 +111,7 @@
 | LRM Carrier | 5 |
 | Manticore Heavy Tank | 4 |
 | Marauder (Red Hunter 3146) | 1 |
-| Marauder Bounty Hunter | 1 |
+| Marauder Bounty Hunter | 2 |
 | Marauder Bounty Hunter (damaged) | 1 |
 | Marauder II MAD-4A | 3 |
 | Marauder II MAD-8K | 2 |
@@ -199,5 +199,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 391 |
+| TOTAL | 392 |
 

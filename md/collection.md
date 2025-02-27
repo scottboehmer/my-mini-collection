@@ -159,7 +159,7 @@
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
 | Marauder (Red Hunter 3146) | 1 | 0 | 0 | 0 | 0 |
-| Marauder Bounty Hunter | 1 | 0 | 0 | 0 | 0 |
+| Marauder Bounty Hunter | 2 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Marauder II MAD-4A | 5 | 0 | 0 | 2 | 0 |
 | Marauder II MAD-8K | 3 | 0 | 0 | 1 | 0 |
@@ -283,5 +283,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 812 | 0 | 1 | 421 | 206 |
+| TOTAL | 813 | 0 | 1 | 421 | 206 |
 
