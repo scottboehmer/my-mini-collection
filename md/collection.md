@@ -87,6 +87,7 @@
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
+| Falconer FLC-8R | 1 | 0 | 0 | 0 | 0 |
 | Fire Falcon Prime | 2 | 0 | 0 | 2 | 2 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
@@ -236,10 +237,13 @@
 | Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
+| Templar TLR1-O | 1 | 0 | 0 | 0 | 0 |
+| Thanatos TNS-4S | 1 | 0 | 0 | 0 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
+| Thunderbolt TDR-9NAIS | 1 | 0 | 0 | 0 | 0 |
 | Tian-Zong TNZ-N3 | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 11 | 0 | 0 | 7 | 4 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
@@ -283,5 +287,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 813 | 0 | 1 | 421 | 206 |
+| TOTAL | 817 | 0 | 1 | 421 | 206 |
 

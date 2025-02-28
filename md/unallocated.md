@@ -66,6 +66,7 @@
 | Enforcer ENF-5D | 1 |
 | Eris ERS-2N | 1 |
 | Exterminator EXT-4D | 1 |
+| Falconer FLC-8R | 1 |
 | Fire Moth D | 2 |
 | Fire Moth Prime | 1 |
 | Firefly FFL-4C | 2 |
@@ -166,8 +167,11 @@
 | Sturmfeur Heavy Tank | 2 |
 | Summoner Prime | 4 |
 | Supernova | 1 |
+| Templar TLR1-O | 1 |
+| Thanatos TNS-4S | 1 |
 | Thug THG-11E | 1 |
 | Thunderbolt TDR-5S | 1 |
+| Thunderbolt TDR-9NAIS | 1 |
 | Timber Wolf Prime | 4 |
 | Timber Wolf S | 2 |
 | Timber Wolf TC | 1 |
@@ -199,5 +203,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 392 |
+| TOTAL | 396 |
 
