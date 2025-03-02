@@ -41,9 +41,11 @@
 | Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
+| Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Ebon Jaguar Prime | 1 | Ryuken-roku |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
+| Falconer FLC-8R | 1 | Donegal Guards |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Firestarter FS9-H | 1 | FedCom Brigade |
@@ -124,6 +126,7 @@
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
+| Templar TLR1-O | 1 | FedCom Brigade |
 | Thunderbolt TDR-5S | 1 | Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Tian-Zong TNZ-N3 | 2 | 4th McCarron's Armored Cavalry, Death Commandos |
@@ -146,5 +149,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 215 | |
+| TOTAL | 218 | |
 

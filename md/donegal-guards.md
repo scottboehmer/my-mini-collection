@@ -20,6 +20,7 @@
 - Zeus ZEU-6S
 ## Planned Expansion
 - Axman AXM-2N
+- Falconer FLC-8R
 - Hunchback HBK-4G
 - IS Standard Battle Armor Squad
 - Manticore Heavy Tank

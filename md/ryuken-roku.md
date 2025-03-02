@@ -22,6 +22,7 @@
 - Bulldog Medium Tank
 - Charger CGR-3K
 - Cyclops CP-10-Z
+- Dragon Fire DRG-3F
 - Ebon Jaguar Prime
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
