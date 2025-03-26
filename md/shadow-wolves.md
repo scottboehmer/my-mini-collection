@@ -3,6 +3,7 @@
 ## Current Force
 - Adder Prime
 - Conjurer
+- Dire Wolf Prime
 - Dominator
 - Elemental Point
 - Executioner Prime
@@ -11,10 +12,9 @@
 - Linebacker Prime
 - Nova Prime
 - Orion ON1-K
+- Pouncer Prime
 - Stormwolf Prime
 - Timber Wolf Prime
-## Planned Expansion
-- Dire Wolf Prime
-- Pouncer Prime
-- Stormcrow Prime
 - Timber Wolf TC
+## Planned Expansion
+- Stormcrow Prime

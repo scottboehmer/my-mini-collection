@@ -12,7 +12,7 @@
     },
     {
       "Name": "Dire Wolf Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Dominator",
@@ -48,7 +48,7 @@
     },
     {
       "Name": "Pouncer Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Stormcrow Prime",
@@ -64,7 +64,7 @@
     },
     {
       "Name": "Timber Wolf TC",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

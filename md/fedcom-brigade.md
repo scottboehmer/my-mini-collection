@@ -17,6 +17,7 @@
 - Sagittaire SGT-8R
 - Stinger STG-3R
 - Valkyrie VLK-QA
+- Wolfhound WLF-1
 ## Planned Expansion
 - Behemoth Heavy Tank
 - Behemoth Heavy Tank
@@ -32,4 +33,3 @@
 - Schrek PPC Carrier
 - Schrek PPC Carrier
 - Templar TLR1-O
-- Wolfhound WLF-1

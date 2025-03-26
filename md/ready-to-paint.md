@@ -28,7 +28,6 @@
 | Bulldog Medium Tank | 2 | Ryuken-roku, Ryuken-roku |
 | Caesar CES-3R | 1 | FedCom Brigade |
 | Carrion Crow A | 1 | Swift Wings |
-| Centurion CN9-A | 1 | Drake Hunters |
 | Charger CGR-3K | 1 | Ryuken-roku |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 1 | Northwind Highlanders |
@@ -39,7 +38,6 @@
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Devastator DVS-2 | 1 | FedCom Brigade |
-| Dire Wolf Prime | 1 | Shadow Wolves |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
@@ -105,7 +103,7 @@
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 4 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
-| Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
+| Pouncer Prime | 1 | Dire Wolves |
 | Quickdraw QKD-4G | 1 | Fox Patrol |
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
@@ -131,8 +129,6 @@
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Tian-Zong TNZ-N3 | 2 | 4th McCarron's Armored Cavalry, Death Commandos |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
-| Timber Wolf TC | 1 | Shadow Wolves |
-| Trebuchet TBT-5N | 1 | Drake Hunters |
 | UrbanMech UM-R27 | 1 | Kell Hounds |
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
@@ -143,11 +139,11 @@
 | Warhawk C | 1 | Dire Wolves |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wolfhound IIC | 1 | Dire Wolves |
-| Wolfhound WLF-1 | 3 | FedCom Brigade, Kell Hounds, Wolf's Dragoons |
+| Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 218 | |
+| TOTAL | 212 | |
 

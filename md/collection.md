@@ -47,7 +47,7 @@
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
-| Centurion CN9-A | 3 | 0 | 0 | 2 | 1 |
+| Centurion CN9-A | 3 | 0 | 0 | 2 | 2 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
@@ -71,7 +71,7 @@
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
-| Dire Wolf Prime | 3 | 0 | 0 | 2 | 1 |
+| Dire Wolf Prime | 3 | 0 | 0 | 2 | 2 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Prometheus | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
@@ -201,7 +201,7 @@
 | Pike Support Vehicle | 7 | 0 | 0 | 4 | 0 |
 | Pillager PLG-3Z | 1 | 0 | 0 | 1 | 0 |
 | Piranha | 3 | 0 | 0 | 1 | 1 |
-| Pouncer Prime | 4 | 0 | 0 | 2 | 0 |
+| Pouncer Prime | 4 | 0 | 0 | 2 | 1 |
 | Quickdraw QKD-4G | 3 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
@@ -248,8 +248,8 @@
 | Timber Wolf Prime | 11 | 0 | 0 | 7 | 4 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
 | Timber Wolf S | 2 | 0 | 0 | 0 | 0 |
-| Timber Wolf TC | 2 | 0 | 0 | 1 | 0 |
-| Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 1 |
+| Timber Wolf TC | 2 | 0 | 0 | 1 | 1 |
+| Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 2 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
 | UrbanMech LAM UM-A07 (AirMech) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech LAM UM-A07 (Fighter) | 1 | 0 | 0 | 0 | 0 |
@@ -281,11 +281,11 @@
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 1 | 0 | 0 | 0 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
-| Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 2 |
+| Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 817 | 0 | 1 | 424 | 206 |
+| TOTAL | 817 | 0 | 1 | 424 | 212 |
 
