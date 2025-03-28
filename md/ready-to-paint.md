@@ -28,6 +28,7 @@
 | Bulldog Medium Tank | 2 | Ryuken-roku, Ryuken-roku |
 | Caesar CES-3R | 1 | FedCom Brigade |
 | Carrion Crow A | 1 | Swift Wings |
+| Centurion CN9-A | 1 | II Legio Cataphracti |
 | Charger CGR-3K | 1 | Ryuken-roku |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 1 | Northwind Highlanders |
@@ -37,6 +38,7 @@
 | Crusader CRD-5M | 2 | Kell Hounds, Knights of the Inner Sphere |
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
+| Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
@@ -77,6 +79,7 @@
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
+| Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | LRM Carrier | 2 | Marik Militia, Marik Militia |
@@ -88,7 +91,7 @@
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mauler MAL-1R | 1 | Ryuken-roku |
-| Merlin MLN-1A | 1 | 1st Canopian Cuirassiers |
+| Merlin MLN-1A | 2 | 1st Canopian Cuirassiers, II Legio Cataphracti |
 | Mist Lynx Prime | 2 | Cloud Rangers, Spina Khanate |
 | Mobile Headquarters | 1 | FedCom Brigade |
 | Mongoose MON-66 | 1 | Eridani Light Horse |
@@ -96,7 +99,7 @@
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 2 | Fire Horse Galaxy, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
-| Ostscout OTT-7J | 1 | Marik Militia |
+| Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Ostsol OTL-4D | 1 | Pirates |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
@@ -111,6 +114,7 @@
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
+| Shadow Hawk IIC | 1 | Raging Bears |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | SM5 Field Commander | 1 | Kell Hounds |
@@ -125,7 +129,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
 | Templar TLR1-O | 1 | FedCom Brigade |
-| Thunderbolt TDR-5S | 1 | Kell Hounds |
+| Thunderbolt TDR-5S | 2 | II Legio Cataphracti, Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Tian-Zong TNZ-N3 | 2 | 4th McCarron's Armored Cavalry, Death Commandos |
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
@@ -145,5 +149,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 212 | |
+| TOTAL | 219 | |
 

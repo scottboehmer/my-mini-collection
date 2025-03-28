@@ -44,6 +44,8 @@ The simple command line tool I use for managing this repo is in [`scottboehmer/m
   - [Donegal Guards](md/donegal-guards.md)
 - Magistracy of Canopus
   - [1st Canopian Cuirassiers](md/1st-canopian-cuirassiers.md)
+- Marian Hegemony
+  - [II Legio Cataphracti](md/ii-legio-cataphracti.md)
 - Mercenaries
   - [Drake Hunters](md/drake-hunters.md)
   - [Eridani Light Horse](md/eridani-light-horse.md)

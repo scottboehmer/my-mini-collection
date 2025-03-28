@@ -1,0 +1,22 @@
+{
+  "Name": "II Legio Cataphracti",
+  "Faction": "Marian Hegemony",
+  "Miniatures": [
+    {
+      "Name": "Centurion CN9-A",
+      "Painted": false
+    },
+    {
+      "Name": "Cyclops CP-11-H",
+      "Painted": false
+    },
+    {
+      "Name": "Merlin MLN-1A",
+      "Painted": false
+    },
+    {
+      "Name": "Thunderbolt TDR-5S",
+      "Painted": false
+    }
+  ]
+}

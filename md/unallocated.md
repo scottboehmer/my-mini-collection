@@ -36,7 +36,6 @@
 | Cataphract CTF-1X | 2 | 4th McCarron's Armored Cavalry |
 | Catapult CPLT-C1 | 2 | 4th McCarron's Armored Cavalry, FedCom Brigade |
 | Catapult CPLT-K2K | 1 |  |
-| Centurion CN9-A | 1 | Drake Hunters, FedCom Brigade |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Chameleon CLN-7V | 2 |  |
 | Charger CGR-1A1 | 1 |  |
@@ -50,7 +49,6 @@
 | Crusader CRD-3R | 2 | Donegal Guards, Ryuken-roku, Tamar Jaegers |
 | Cyclops CP-10-Z | 2 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
-| Cyclops CP-11-H | 1 |  |
 | Demolisher Heavy Tank | 5 |  |
 | Dervish DV-6M | 1 |  |
 | Devastator DVS-2 | 6 | FedCom Brigade |
@@ -108,7 +106,7 @@
 | King Crab KGC-000 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
 | Legionnaire LGN-2D | 1 |  |
-| Locust IIC | 2 |  |
+| Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-3M | 2 | Eridani Light Horse |
 | LRM Carrier | 5 | Marik Militia, Marik Militia |
 | Manticore Heavy Tank | 4 | Donegal Guards, Donegal Guards |
@@ -121,7 +119,7 @@
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mauler MAL-1R | 1 | Ryuken-roku |
 | Maxim Heavy Hover Transport | 7 |  |
-| Merlin MLN-1A | 2 | 1st Canopian Cuirassiers |
+| Merlin MLN-1A | 1 | 1st Canopian Cuirassiers, II Legio Cataphracti |
 | Mobile Headquarters | 2 | FedCom Brigade |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 |  |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |  |
@@ -131,7 +129,6 @@
 | Ontos Heavy Tank | 4 | Marik Militia |
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
 | Ostroc OSR-6R | 1 |  |
-| Ostscout OTT-7J | 1 | Marik Militia |
 | Ostsol OTL-4D | 3 | Pirates |
 | Panther PNT-9R | 2 | Ryuken-roku |
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
@@ -153,7 +150,7 @@
 | Savannah Master Hovercraft | 4 |  |
 | Schrek PPC Carrier | 4 | FedCom Brigade, FedCom Brigade |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
-| Shadow Hawk IIC | 3 |  |
+| Shadow Hawk IIC | 2 | Raging Bears |
 | Shadow Hawk SHD-2H | 1 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
@@ -170,7 +167,6 @@
 | Supernova | 1 | 1st Nova Cat Guards |
 | Thanatos TNS-4S | 1 |  |
 | Thug THG-11E | 1 | Com Guards |
-| Thunderbolt TDR-5S | 1 | 4th McCarron's Armored Cavalry, Kell Hounds, Marik Militia |
 | Thunderbolt TDR-9NAIS | 1 |  |
 | Timber Wolf Prime | 4 | 1st Nova Cat Guards, Cloud Rangers, Dire Wolves, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Timber Wolf S | 2 |  |
@@ -203,5 +199,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 397 | |
+| TOTAL | 390 | |
 

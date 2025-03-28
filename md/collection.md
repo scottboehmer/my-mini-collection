@@ -47,7 +47,7 @@
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
-| Centurion CN9-A | 3 | 0 | 0 | 2 | 2 |
+| Centurion CN9-A | 3 | 0 | 0 | 3 | 2 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
@@ -67,7 +67,7 @@
 | Crusader CRD-5M | 2 | 0 | 0 | 2 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
-| Cyclops CP-11-H | 1 | 0 | 0 | 0 | 0 |
+| Cyclops CP-11-H | 1 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
@@ -153,7 +153,7 @@
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Legionnaire LGN-2D | 1 | 0 | 0 | 0 | 0 |
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
-| Locust IIC | 2 | 0 | 0 | 0 | 0 |
+| Locust IIC | 2 | 0 | 0 | 1 | 0 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
@@ -174,7 +174,7 @@
 | Mauler MAL-1R | 2 | 0 | 0 | 1 | 0 |
 | Maxim Heavy Hover Transport | 7 | 0 | 0 | 0 | 0 |
 | Mercury MCY-99 | 2 | 0 | 0 | 2 | 2 |
-| Merlin MLN-1A | 3 | 0 | 0 | 1 | 0 |
+| Merlin MLN-1A | 3 | 0 | 0 | 2 | 0 |
 | Mist Lynx Prime | 3 | 0 | 0 | 3 | 1 |
 | Mobile Headquarters | 3 | 0 | 0 | 1 | 0 |
 | Mobile Long Tom Artillery LT-MOB-25 | 2 | 0 | 0 | 0 | 0 |
@@ -189,7 +189,7 @@
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
-| Ostscout OTT-7J | 2 | 0 | 0 | 1 | 0 |
+| Ostscout OTT-7J | 2 | 0 | 0 | 2 | 0 |
 | Ostsol OTL-4D | 4 | 0 | 0 | 1 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
@@ -217,7 +217,7 @@
 | Scorpion SCP-1N | 1 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
-| Shadow Hawk IIC | 3 | 0 | 0 | 0 | 0 |
+| Shadow Hawk IIC | 3 | 0 | 0 | 1 | 0 |
 | Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -244,7 +244,7 @@
 | Thanatos TNS-4S | 1 | 0 | 0 | 0 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
-| Thunderbolt TDR-5S | 4 | 0 | 0 | 3 | 2 |
+| Thunderbolt TDR-5S | 4 | 0 | 0 | 4 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Thunderbolt TDR-9NAIS | 1 | 0 | 0 | 0 | 0 |
 | Tian-Zong TNZ-N3 | 2 | 0 | 0 | 2 | 0 |
@@ -290,5 +290,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 424 | 212 |
+| TOTAL | 821 | 0 | 1 | 431 | 212 |
 
