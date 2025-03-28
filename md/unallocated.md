@@ -62,7 +62,7 @@
 | Elemental Point | 5 |
 | Emperor EMP-6A | 1 |
 | Enforcer ENF-4R | 2 |
-| Enforcer ENF-5D | 1 |
+| Enforcer ENF-5D | 2 |
 | Eris ERS-2N | 1 |
 | Exterminator EXT-4D | 1 |
 | Fire Moth D | 2 |
@@ -83,12 +83,14 @@
 | Griffin IIC | 1 |
 | Grizzly | 1 |
 | Gunslinger GUN-1ERD | 1 |
+| Gunsmith CH11-NG | 1 |
 | Hammerhead | 1 |
 | Hatamoto-Chi HTM-27T | 1 |
 | Hatchetman HCT-6D | 1 |
 | Helios HEL-3D | 1 |
 | Hellbringer Prime | 2 |
 | Hellion Prime | 2 |
+| Hellspawn HSN-7D | 1 |
 | Hetzer Wheeled Assault Gun | 7 |
 | Highlander HGN-694 | 1 |
 | Highlander HGN-732 | 4 |
@@ -105,6 +107,7 @@
 | Jenner JR7-D | 3 |
 | King Crab KGC-000 | 1 |
 | Kodiak | 1 |
+| Legionnaire LGN-2D | 1 |
 | Locust IIC | 2 |
 | Locust LCT-3M | 2 |
 | LRM Carrier | 5 |
@@ -200,5 +203,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 |
 | Wolverine WVR-6R | 3 |
 | Wraith TR1 | 1 |
-| TOTAL | 393 |
+| TOTAL | 397 |
 

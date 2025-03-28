@@ -489,7 +489,7 @@
     },
     {
       "Name": "Enforcer ENF-5D",
-      "CountInCollection": 2,
+      "CountInCollection": 3,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -668,6 +668,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Gunsmith CH11-NG",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Hammerhead",
       "CountInCollection": 2,
       "PendingCount": 0,
@@ -712,6 +718,12 @@
     {
       "Name": "Hellion Prime",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Hellspawn HSN-7D",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -880,6 +892,12 @@
     {
       "Name": "Lancelot LNC25-01",
       "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Legionnaire LGN-2D",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
