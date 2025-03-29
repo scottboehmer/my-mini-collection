@@ -19,11 +19,14 @@
 - Valkyrie VLK-QA
 - Wolfhound WLF-1
 ## Planned Expansion
+- Argus AGS-4D
 - Behemoth Heavy Tank
 - Behemoth Heavy Tank
 - Caesar CES-3R
+- Dervish DV-6M
 - Devastator DVS-2
 - Firestarter FS9-H
+- Hellspawn HSN-7D
 - IS Standard Battle Armor Squad
 - JagerMech JM6-S
 - Javelin JVN-10N

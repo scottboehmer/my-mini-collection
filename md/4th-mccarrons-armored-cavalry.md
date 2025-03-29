@@ -15,6 +15,7 @@
 - Vindicator VND-1R
 - Wasp WSP-1A
 ## Planned Expansion
+- Emperor EMP-6A
 - IS Standard Battle Armor Squad
 - Pillager PLG-3Z
 - Spector SPR-5F

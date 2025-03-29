@@ -9,6 +9,7 @@
 | Archer ARC-2W | 1 | Wolf's Dragoons |
 | Archer ARC-5R | 1 | Ryuken-roku |
 | Arctic Cheetah Prime | 1 | Ryuken-roku |
+| Argus AGS-4D | 1 | FedCom Brigade |
 | Atlas AS7-D | 1 | Marik Militia |
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
@@ -39,12 +40,14 @@
 | Cyclops CP-10-Z | 1 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Cyclops CP-11-H | 1 | II Legio Cataphracti |
+| Dervish DV-6M | 1 | FedCom Brigade |
 | Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Ebon Jaguar Prime | 1 | Ryuken-roku |
 | Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
+| Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
 | Falconer FLC-8R | 1 | Donegal Guards |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
@@ -66,6 +69,7 @@
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
 | Hel Prime | 2 | Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
+| Hellspawn HSN-7D | 1 | FedCom Brigade |
 | Hermes II HER-2S | 1 | Marik Militia |
 | Hoplite HOP-4D | 2 | Kell Hounds, Wolf's Dragoons |
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
@@ -78,6 +82,7 @@
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
+| Legionnaire LGN-2D | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
@@ -129,6 +134,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
 | Templar TLR1-O | 1 | FedCom Brigade |
+| Thanatos TNS-4S | 1 | Hastati Sentinels |
 | Thunderbolt TDR-5S | 2 | II Legio Cataphracti, Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Tian-Zong TNZ-N3 | 2 | 4th McCarron's Armored Cavalry, Death Commandos |
@@ -149,5 +155,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 219 | |
+| TOTAL | 225 | |
 

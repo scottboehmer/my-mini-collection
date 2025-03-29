@@ -9,7 +9,7 @@
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 3 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
-| Argus AGS-4D | 1 | 0 | 0 | 0 | 0 |
+| Argus AGS-4D | 1 | 0 | 0 | 1 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -69,7 +69,7 @@
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-H | 1 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
-| Dervish DV-6M | 1 | 0 | 0 | 0 | 0 |
+| Dervish DV-6M | 1 | 0 | 0 | 1 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 2 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -81,7 +81,7 @@
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
 | Elemental Point | 18 | 0 | 0 | 13 | 8 |
-| Emperor EMP-6A | 1 | 0 | 0 | 0 | 0 |
+| Emperor EMP-6A | 1 | 0 | 0 | 1 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 3 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
@@ -122,7 +122,7 @@
 | Helios HEL-3D | 1 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
-| Hellspawn HSN-7D | 1 | 0 | 0 | 0 | 0 |
+| Hellspawn HSN-7D | 1 | 0 | 0 | 1 | 0 |
 | Hermes II HER-2S | 1 | 0 | 0 | 1 | 0 |
 | Hetzer Wheeled Assault Gun | 7 | 0 | 0 | 0 | 0 |
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
@@ -151,7 +151,7 @@
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
-| Legionnaire LGN-2D | 1 | 0 | 0 | 0 | 0 |
+| Legionnaire LGN-2D | 1 | 0 | 0 | 1 | 0 |
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
 | Locust IIC | 2 | 0 | 0 | 1 | 0 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
@@ -241,7 +241,7 @@
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
 | Templar TLR1-O | 1 | 0 | 0 | 1 | 0 |
-| Thanatos TNS-4S | 1 | 0 | 0 | 0 | 0 |
+| Thanatos TNS-4S | 1 | 0 | 0 | 1 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 4 | 2 |
@@ -290,5 +290,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 431 | 212 |
+| TOTAL | 821 | 0 | 1 | 437 | 212 |
 
