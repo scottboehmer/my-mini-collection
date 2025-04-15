@@ -46,7 +46,7 @@
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Ebon Jaguar Prime | 1 | Ryuken-roku |
-| Elemental Point | 5 | Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
+| Elemental Point | 4 | Cloud Rangers, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
 | Falconer FLC-8R | 1 | Donegal Guards |
 | Firebee FRB-2E | 1 | Death Commandos |
@@ -146,14 +146,12 @@
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
 | Warhammer WHM-9K | 1 | Ryuken-roku |
-| Warhawk C | 1 | Dire Wolves |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
-| Wolfhound IIC | 1 | Dire Wolves |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 225 | |
+| TOTAL | 222 | |
 

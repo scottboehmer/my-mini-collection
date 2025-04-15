@@ -1,8 +1,11 @@
 # Dire Wolves
 **Faction:** Clan Wolf-in-Exile
+## Current Force
+- Elemental Point
+- Warhawk C
+- Wolfhound IIC
 ## Planned Expansion
 - Annihilator ANH-1A
-- Elemental Point
 - Gargoyle Prime
 - Ice Ferret Prime
 - Linebacker Prime
@@ -11,5 +14,3 @@
 - Pouncer Prime
 - Sojourner B
 - Timber Wolf Prime
-- Warhawk C
-- Wolfhound IIC

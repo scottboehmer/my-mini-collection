@@ -80,7 +80,7 @@
 | Dragon Fire DRG-3F | 1 | 0 | 0 | 1 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
-| Elemental Point | 18 | 0 | 0 | 13 | 8 |
+| Elemental Point | 18 | 0 | 0 | 13 | 9 |
 | Emperor EMP-6A | 1 | 0 | 0 | 1 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 3 | 0 | 0 | 1 | 1 |
@@ -277,18 +277,18 @@
 | Warhammer WHM-6R | 7 | 0 | 0 | 2 | 1 |
 | Warhammer WHM-7S | 3 | 0 | 0 | 1 | 1 |
 | Warhammer WHM-9K | 3 | 0 | 0 | 1 | 0 |
-| Warhawk C | 3 | 0 | 0 | 1 | 0 |
+| Warhawk C | 3 | 0 | 0 | 1 | 1 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Warrior Attack Helicopter H-7 | 5 | 0 | 0 | 0 | 0 |
 | Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 1 | 0 | 0 | 0 | 0 |
-| Wolfhound IIC | 1 | 0 | 0 | 1 | 0 |
+| Wolfhound IIC | 1 | 0 | 0 | 1 | 1 |
 | Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
 | Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 437 | 212 |
+| TOTAL | 821 | 0 | 1 | 437 | 215 |
 
