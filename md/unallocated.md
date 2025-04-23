@@ -131,7 +131,6 @@
 | Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk IIC | 2 |  |
 | Phoenix Hawk PHX-1b | 1 |  |
-| Phoenix Hawk PXH-1 | 1 | 1st Canopian Cuirassiers, 4th McCarron's Armored Cavalry, Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku, Silver Dragons Stables |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Piranha | 2 | Spina Khanate |
@@ -193,5 +192,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 384 | |
+| TOTAL | 383 | |
 

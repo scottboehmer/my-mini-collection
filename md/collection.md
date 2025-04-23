@@ -198,7 +198,7 @@
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk IIC | 2 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
-| Phoenix Hawk PXH-1 | 7 | 0 | 0 | 6 | 3 |
+| Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 3 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
 | Pike Support Vehicle | 7 | 0 | 0 | 4 | 0 |
@@ -290,5 +290,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 437 | 215 |
+| TOTAL | 821 | 0 | 1 | 438 | 215 |
 
