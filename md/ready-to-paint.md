@@ -61,7 +61,6 @@
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
-| Griffin IIC | 1 | 1st Nova Cat Guards |
 | Grizzly | 1 | Raging Bears |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
@@ -79,7 +78,6 @@
 | IS Standard Battle Armor Squad | 9 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
-| Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Legionnaire LGN-2D | 1 | Hastati Sentinels |
@@ -153,5 +151,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 223 | |
+| TOTAL | 221 | |
 

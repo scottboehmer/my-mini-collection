@@ -108,7 +108,7 @@
 | Griffin GRF-1N | 5 | 0 | 0 | 5 | 4 |
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
-| Griffin IIC | 2 | 0 | 0 | 1 | 0 |
+| Griffin IIC | 2 | 0 | 0 | 1 | 1 |
 | Grizzly | 2 | 0 | 0 | 1 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
@@ -144,7 +144,7 @@
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 1 | 0 | 0 | 1 | 0 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
-| Jenner IIC | 2 | 0 | 0 | 1 | 0 |
+| Jenner IIC | 2 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
@@ -290,5 +290,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 438 | 215 |
+| TOTAL | 821 | 0 | 1 | 438 | 217 |
 
