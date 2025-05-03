@@ -4,7 +4,7 @@
   "Miniatures": [
     {
       "Name": "Archer ARC-5R",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Arctic Cheetah Prime",
@@ -60,7 +60,7 @@
     },
     {
       "Name": "Ebon Jaguar Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Grasshopper GHR-5H",
@@ -124,7 +124,7 @@
     },
     {
       "Name": "Wolverine WVR-6R",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

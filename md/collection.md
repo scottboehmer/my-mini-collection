@@ -7,7 +7,7 @@
 | Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
-| Archer ARC-5R | 3 | 0 | 0 | 1 | 0 |
+| Archer ARC-5R | 3 | 0 | 0 | 1 | 1 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
 | Argus AGS-4D | 1 | 0 | 0 | 1 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
@@ -79,7 +79,7 @@
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Dragon Fire DRG-3F | 1 | 0 | 0 | 1 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
-| Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 2 |
+| Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 3 |
 | Elemental Point | 18 | 0 | 0 | 13 | 9 |
 | Emperor EMP-6A | 1 | 0 | 0 | 1 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
@@ -286,9 +286,9 @@
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 1 |
 | Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
-| Wolverine WVR-6R | 7 | 0 | 0 | 4 | 1 |
+| Wolverine WVR-6R | 7 | 0 | 0 | 4 | 2 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 438 | 217 |
+| TOTAL | 821 | 0 | 1 | 438 | 220 |
 
