@@ -47,7 +47,7 @@
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
-| Centurion CN9-A | 3 | 0 | 0 | 3 | 2 |
+| Centurion CN9-A | 4 | 0 | 0 | 3 | 2 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
@@ -205,7 +205,7 @@
 | Pillager PLG-3Z | 1 | 0 | 0 | 1 | 0 |
 | Piranha | 3 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 4 | 0 | 0 | 2 | 1 |
-| Quickdraw QKD-4G | 3 | 0 | 0 | 1 | 0 |
+| Quickdraw QKD-4G | 2 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
 | Rifleman IIC | 1 | 0 | 0 | 0 | 0 |

@@ -35,6 +35,7 @@
 | Cataphract CTF-1X | 2 | 4th McCarron's Armored Cavalry |
 | Catapult CPLT-C1 | 2 | 4th McCarron's Armored Cavalry, FedCom Brigade |
 | Catapult CPLT-K2K | 1 |  |
+| Centurion CN9-A | 1 | Drake Hunters, FedCom Brigade, II Legio Cataphracti |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Chameleon CLN-7V | 2 |  |
 | Charger CGR-1A1 | 1 |  |
@@ -135,7 +136,7 @@
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Piranha | 2 | Spina Khanate |
 | Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
-| Quickdraw QKD-4G | 2 | Fox Patrol |
+| Quickdraw QKD-4G | 1 | Fox Patrol |
 | Regent Prime | 1 | Spina Khanate |
 | Rifleman IIC | 1 |  |
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
