@@ -201,7 +201,7 @@
     },
     {
       "Name": "Blood Asp I",
-      "CountInCollection": 1,
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -393,7 +393,7 @@
     },
     {
       "Name": "Cyclops CP-11-H",
-      "CountInCollection": 1,
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -453,6 +453,12 @@
     },
     {
       "Name": "Dragon Fire DRG-3F",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Dragon Fire DRG-9D",
       "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
@@ -555,7 +561,7 @@
     },
     {
       "Name": "Flashman FLS-10E",
-      "CountInCollection": 1,
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },

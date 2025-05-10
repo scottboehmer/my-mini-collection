@@ -26,7 +26,7 @@
 | Blackjack BJ-1 | 1 | 4th McCarron's Armored Cavalry, Drake Hunters |
 | Blackjack BJ-2 | 1 | Pirates, Wolf's Dragoons |
 | Blackjack BJ-3 | 2 | Tandrek Stables |
-| Blood Asp I | 1 |  |
+| Blood Asp I | 2 |  |
 | Blood Asp Prime | 1 | 1st Canopian Cuirassiers, Old Blood and Guts, Swift Wings |
 | Bulldog Medium Tank | 4 | Ryuken-roku, Ryuken-roku |
 | Bushwacker BSW-X1 | 2 | Donegal Guards, FedCom Brigade |
@@ -49,12 +49,14 @@
 | Crusader CRD-3R | 2 | Donegal Guards, Ryuken-roku, Tamar Jaegers |
 | Cyclops CP-10-Z | 2 | Ryuken-roku |
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
+| Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Demolisher Heavy Tank | 5 |  |
 | Devastator DVS-2 | 6 | FedCom Brigade |
 | Dire Wolf Prime | 1 | Cloud Rangers, Shadow Wolves |
 | Dire Wolf Prime (damaged) | 1 |  |
 | Dire Wolf Prometheus | 1 |  |
 | Dragon DRG-1N | 2 | Ryuken-roku |
+| Dragon Fire DRG-9D | 1 |  |
 | Drillson Heavy Hover Tank | 5 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Elemental Point | 5 | 1st Nova Cat Guards, Cloud Rangers, Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Gyrfalcon Galaxy, Raging Bears, Raging Bears, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Enforcer ENF-4R | 2 | FedCom Brigade |
@@ -65,7 +67,7 @@
 | Fire Moth Prime | 1 | Raging Bears |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Firestarter FS9-H | 1 | FedCom Brigade |
-| Flashman FLS-10E | 1 |  |
+| Flashman FLS-10E | 2 |  |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
 | Galleon Light Tank GAL-100 | 6 | Jade Tigers |
 | Gargoyle C | 1 | Gray Death Legion |
@@ -193,5 +195,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 383 | |
+| TOTAL | 387 | |
 

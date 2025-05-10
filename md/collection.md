@@ -35,7 +35,7 @@
 | Blackjack BJ-1 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
-| Blood Asp I | 1 | 0 | 0 | 0 | 0 |
+| Blood Asp I | 2 | 0 | 0 | 0 | 0 |
 | Blood Asp Prime | 4 | 0 | 0 | 3 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
@@ -67,7 +67,7 @@
 | Crusader CRD-5M | 2 | 0 | 0 | 2 | 0 |
 | Cyclops CP-10-Z | 3 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
-| Cyclops CP-11-H | 1 | 0 | 0 | 1 | 0 |
+| Cyclops CP-11-H | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 5 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 1 | 0 | 0 | 1 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
@@ -78,6 +78,7 @@
 | Dominator | 1 | 0 | 0 | 1 | 1 |
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Dragon Fire DRG-3F | 1 | 0 | 0 | 1 | 0 |
+| Dragon Fire DRG-9D | 1 | 0 | 0 | 0 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 3 |
 | Elemental Point | 18 | 0 | 0 | 13 | 9 |
@@ -94,7 +95,7 @@
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
-| Flashman FLS-10E | 1 | 0 | 0 | 0 | 0 |
+| Flashman FLS-10E | 2 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 1 |
@@ -290,5 +291,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 821 | 0 | 1 | 438 | 220 |
+| TOTAL | 825 | 0 | 1 | 438 | 220 |
 
