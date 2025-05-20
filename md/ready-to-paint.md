@@ -78,7 +78,7 @@
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kit Fox Prime | 1 | Fox Patrol |
-| Legionnaire LGN-2D | 1 | Hastati Sentinels |
+| Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
