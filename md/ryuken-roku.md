@@ -10,6 +10,7 @@
 - Crusader CRD-3R
 - Dragon DRG-1N
 - Ebon Jaguar Prime
+- IS Standard Battle Armor Squad
 - J. Edgar Light Hover Tank
 - J. Edgar Light Hover Tank
 - Jenner JR7-D
@@ -28,7 +29,6 @@
 - Grasshopper GHR-5H
 - Gunslinger GUN-1ERD
 - Hatamoto-Chi HTM-27T
-- IS Standard Battle Armor Squad
 - Marauder II MAD-8K
 - Mauler MAL-1R
 - Phoenix Hawk PXH-1
