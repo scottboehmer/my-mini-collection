@@ -24,6 +24,7 @@
 - Cicada CDA-2A
 - Flea FLE-17
 - Goliath GOL-1H
+- Havoc HVC-P6
 - Hermes II HER-2S
 - Icarus II ICR-1S
 - IS Standard Battle Armor Squad

@@ -17,6 +17,7 @@
 - Spartan SPT-N2
 - Thug THG-11E
 ## Planned Expansion
+- Kintaro KTO-20
 - Ostscout OTT-7J
 - Pike Support Vehicle
 - Pike Support Vehicle

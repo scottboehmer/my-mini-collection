@@ -116,9 +116,11 @@
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Gunsmith CH11-NG | 2 | 0 | 0 | 0 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
+| Hammerhead (plastic) | 1 | 0 | 0 | 0 | 0 |
 | Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
+| Havoc HVC-P6 | 1 | 0 | 0 | 1 | 0 |
 | Hel Prime | 2 | 0 | 0 | 2 | 0 |
 | Helios HEL-3D | 2 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
@@ -141,7 +143,9 @@
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
 | IS Standard Battle Armor Squad | 16 | 0 | 0 | 9 | 1 |
+| J-27 Ordnance Transport | 1 | 0 | 0 | 0 | 0 |
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
+| Jackalope JLP-BD | 1 | 0 | 0 | 1 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 2 | 0 | 0 | 1 | 0 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
@@ -149,8 +153,10 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
+| Kintaro KTO-20 | 1 | 0 | 0 | 1 | 0 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
+| Lament LMT-2R | 1 | 0 | 0 | 1 | 0 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Legionnaire LGN-2D | 1 | 0 | 0 | 0 | 0 |
 | Legionnaire LGN-2K | 1 | 0 | 0 | 1 | 0 |
@@ -292,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 854 | 0 | 1 | 438 | 223 |
+| TOTAL | 860 | 0 | 1 | 442 | 223 |
 

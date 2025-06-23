@@ -85,6 +85,7 @@
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
 | Hammerhead | 1 | Spina Khanate |
+| Hammerhead (plastic) | 1 |  |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Helios HEL-3D | 2 |  |
@@ -102,6 +103,7 @@
 | Hybrid Rifleman | 2 |  |
 | Incubus | 2 |  |
 | IS Standard Battle Armor Squad | 7 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
+| J-27 Ordnance Transport | 1 |  |
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
@@ -204,5 +206,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 416 | |
+| TOTAL | 418 | |
 

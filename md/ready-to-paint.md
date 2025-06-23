@@ -64,6 +64,7 @@
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
+| Havoc HVC-P6 | 1 | Marik Militia |
 | Hel Prime | 2 | Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hellspawn HSN-7D | 1 | FedCom Brigade |
@@ -74,10 +75,13 @@
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
 | IS Standard Battle Armor Squad | 8 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia |
+| Jackalope JLP-BD | 1 | Hastati Sentinels |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
+| Kintaro KTO-20 | 1 | Com Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
+| Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust IIC | 1 | Shadow Wolves |
@@ -148,5 +152,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 215 | |
+| TOTAL | 219 | |
 
