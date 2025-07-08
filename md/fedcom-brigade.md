@@ -11,6 +11,7 @@
 - Enforcer ENF-4R
 - Hatchetman HCT-6D
 - Hunchback HBK-4G
+- IS Standard Battle Armor Squad
 - Nightstar NSR-9J
 - Penetrator PTR-4D
 - Raven RVN-3L
@@ -27,7 +28,6 @@
 - Devastator DVS-2
 - Firestarter FS9-H
 - Hellspawn HSN-7D
-- IS Standard Battle Armor Squad
 - JagerMech JM6-S
 - Javelin JVN-10N
 - Mobile Headquarters

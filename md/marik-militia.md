@@ -5,6 +5,7 @@
 - Eris ERS-2N
 - Guillotine GLT-3N
 - Hunchback HBK-4G
+- IS Standard Battle Armor Squad
 - Locust LCT-1V
 - Longbow LGB-7Q
 - Ontos Heavy Tank
@@ -27,7 +28,6 @@
 - Havoc HVC-P6
 - Hermes II HER-2S
 - Icarus II ICR-1S
-- IS Standard Battle Armor Squad
 - LRM Carrier
 - LRM Carrier
 - Ostscout OTT-7J

@@ -74,7 +74,7 @@
 | Hunchback IIC | 2 | Cloud Rangers, Tamar Jaegers |
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
-| IS Standard Battle Armor Squad | 8 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia |
+| IS Standard Battle Armor Squad | 4 | Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
@@ -152,5 +152,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 219 | |
+| TOTAL | 215 | |
 

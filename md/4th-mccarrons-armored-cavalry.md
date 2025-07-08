@@ -5,6 +5,7 @@
 - Cataphract CTF-1X
 - Catapult CPLT-C1
 - Catapult CPLT-C3
+- IS Standard Battle Armor Squad
 - Locust LCT-1E
 - Marauder MAD-3R
 - Phoenix Hawk PXH-1
@@ -16,7 +17,6 @@
 - Wasp WSP-1A
 ## Planned Expansion
 - Emperor EMP-6A
-- IS Standard Battle Armor Squad
 - Pillager PLG-3Z
 - Spector SPR-5F
 - Starslayer STY-4C (jumping)

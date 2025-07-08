@@ -11,6 +11,7 @@
 - Crusader CRD-3R
 - Griffin GRF-1N
 - Ice Ferret Prime
+- IS Standard Battle Armor Squad
 - Linebacker Prime
 - Nightstar NSR-9J
 - Sojourner Prime
@@ -22,7 +23,6 @@
 - Axman AXM-2N
 - Falconer FLC-8R
 - Hunchback HBK-4G
-- IS Standard Battle Armor Squad
 - Manticore Heavy Tank
 - Manticore Heavy Tank
 - Nightsky NGS-4S
