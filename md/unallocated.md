@@ -65,6 +65,7 @@
 | Enforcer ENF-5D | 3 | Starlight Stables |
 | Eris ERS-2N | 1 | Marik Militia |
 | Exterminator EXT-4D | 1 | Com Guards |
+| Falconer FLC-8R | 1 | Donegal Guards |
 | Fire Moth D | 2 | Raging Bears |
 | Fire Moth Prime | 1 | Raging Bears |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
@@ -85,9 +86,10 @@
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
 | Hammerhead | 1 | Spina Khanate |
-| Hammerhead (plastic) | 1 |  |
+| Hammerhead (plastic) | 2 |  |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
+| Havoc HVC-P6 | 1 | Marik Militia |
 | Helios HEL-3D | 2 |  |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellion Prime | 2 | Spina Khanate |
@@ -103,14 +105,17 @@
 | Hybrid Rifleman | 2 |  |
 | Incubus | 2 |  |
 | IS Standard Battle Armor Squad | 7 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
-| J-27 Ordnance Transport | 1 |  |
+| J-27 Ordnance Transport | 2 |  |
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
+| Jackalope JLP-BD | 1 | Hastati Sentinels |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
 | King Crab KGC-000 | 1 | Com Guards |
+| Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
+| Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2D | 1 |  |
 | Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-3M | 2 | Eridani Light Horse |
@@ -173,8 +178,10 @@
 | Sturmfeur Heavy Tank | 2 | Donegal Guards, Donegal Guards, Hesperus Guards |
 | Summoner Prime | 4 | Gyrfalcon Galaxy, Raging Bears, Spina Khanate |
 | Supernova | 1 | 1st Nova Cat Guards |
+| Templar TLR1-O | 1 | FedCom Brigade |
+| Thanatos TNS-4S | 1 | Hastati Sentinels |
 | Thug THG-11E | 1 | Com Guards |
-| Thunderbolt TDR-9NAIS | 1 |  |
+| Thunderbolt TDR-9NAIS | 2 |  |
 | Timber Wolf Prime | 4 | 1st Nova Cat Guards, Cloud Rangers, Dire Wolves, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Timber Wolf S | 2 |  |
 | Timber Wolf TC | 1 | Shadow Wolves |
@@ -206,5 +213,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 418 | |
+| TOTAL | 428 | |
 

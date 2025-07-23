@@ -88,7 +88,7 @@
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
-| Falconer FLC-8R | 1 | 0 | 0 | 1 | 0 |
+| Falconer FLC-8R | 2 | 0 | 0 | 1 | 0 |
 | Fire Falcon Prime | 2 | 0 | 0 | 2 | 2 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
@@ -116,11 +116,11 @@
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Gunsmith CH11-NG | 2 | 0 | 0 | 0 | 0 |
 | Hammerhead | 2 | 0 | 0 | 1 | 1 |
-| Hammerhead (plastic) | 1 | 0 | 0 | 0 | 0 |
+| Hammerhead (plastic) | 2 | 0 | 0 | 0 | 0 |
 | Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
-| Havoc HVC-P6 | 1 | 0 | 0 | 1 | 0 |
+| Havoc HVC-P6 | 2 | 0 | 0 | 1 | 0 |
 | Hel Prime | 2 | 0 | 0 | 2 | 0 |
 | Helios HEL-3D | 2 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
@@ -143,9 +143,9 @@
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
 | IS Standard Battle Armor Squad | 16 | 0 | 0 | 9 | 5 |
-| J-27 Ordnance Transport | 1 | 0 | 0 | 0 | 0 |
+| J-27 Ordnance Transport | 2 | 0 | 0 | 0 | 0 |
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
-| Jackalope JLP-BD | 1 | 0 | 0 | 1 | 0 |
+| Jackalope JLP-BD | 2 | 0 | 0 | 1 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 2 | 0 | 0 | 1 | 0 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
@@ -153,10 +153,10 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
-| Kintaro KTO-20 | 1 | 0 | 0 | 1 | 0 |
+| Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
-| Lament LMT-2R | 1 | 0 | 0 | 1 | 0 |
+| Lament LMT-2R | 2 | 0 | 0 | 1 | 0 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Legionnaire LGN-2D | 1 | 0 | 0 | 0 | 0 |
 | Legionnaire LGN-2K | 1 | 0 | 0 | 1 | 0 |
@@ -248,13 +248,13 @@
 | Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
-| Templar TLR1-O | 1 | 0 | 0 | 1 | 0 |
-| Thanatos TNS-4S | 1 | 0 | 0 | 1 | 0 |
+| Templar TLR1-O | 2 | 0 | 0 | 1 | 0 |
+| Thanatos TNS-4S | 2 | 0 | 0 | 1 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
 | Thunderbolt TDR-5S | 4 | 0 | 0 | 4 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
-| Thunderbolt TDR-9NAIS | 1 | 0 | 0 | 0 | 0 |
+| Thunderbolt TDR-9NAIS | 2 | 0 | 0 | 0 | 0 |
 | Tian-Zong TNZ-N3 | 2 | 0 | 0 | 2 | 0 |
 | Timber Wolf Prime | 11 | 0 | 0 | 7 | 4 |
 | Timber Wolf Pryde | 1 | 0 | 0 | 1 | 1 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 860 | 0 | 1 | 442 | 227 |
+| TOTAL | 870 | 0 | 1 | 442 | 227 |
 
