@@ -88,7 +88,7 @@
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
-| Falconer FLC-8R | 2 | 0 | 0 | 1 | 0 |
+| Falconer FLC-8R | 2 | 0 | 0 | 2 | 0 |
 | Fire Falcon Prime | 2 | 0 | 0 | 2 | 2 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
@@ -120,7 +120,7 @@
 | Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
-| Havoc HVC-P6 | 2 | 0 | 0 | 1 | 0 |
+| Havoc HVC-P6 | 2 | 0 | 0 | 2 | 0 |
 | Hel Prime | 2 | 0 | 0 | 2 | 0 |
 | Helios HEL-3D | 2 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 870 | 0 | 1 | 442 | 227 |
+| TOTAL | 870 | 0 | 1 | 444 | 227 |
 

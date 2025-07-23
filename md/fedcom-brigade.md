@@ -26,6 +26,7 @@
 - Caesar CES-3R
 - Dervish DV-6M
 - Devastator DVS-2
+- Falconer FLC-8R
 - Firestarter FS9-H
 - Hellspawn HSN-7D
 - JagerMech JM6-S

@@ -46,7 +46,7 @@
 | Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Elemental Point | 4 | Cloud Rangers, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
-| Falconer FLC-8R | 1 | Donegal Guards |
+| Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Firestarter FS9-H | 1 | FedCom Brigade |
@@ -64,7 +64,7 @@
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
-| Havoc HVC-P6 | 1 | Marik Militia |
+| Havoc HVC-P6 | 2 | Hastati Sentinels, Marik Militia |
 | Hel Prime | 2 | Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hellspawn HSN-7D | 1 | FedCom Brigade |
@@ -152,5 +152,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 215 | |
+| TOTAL | 217 | |
 

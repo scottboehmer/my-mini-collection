@@ -65,7 +65,6 @@
 | Enforcer ENF-5D | 3 | Starlight Stables |
 | Eris ERS-2N | 1 | Marik Militia |
 | Exterminator EXT-4D | 1 | Com Guards |
-| Falconer FLC-8R | 1 | Donegal Guards |
 | Fire Moth D | 2 | Raging Bears |
 | Fire Moth Prime | 1 | Raging Bears |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
@@ -89,7 +88,6 @@
 | Hammerhead (plastic) | 2 |  |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
-| Havoc HVC-P6 | 1 | Marik Militia |
 | Helios HEL-3D | 2 |  |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy, Gyrfalcon Galaxy |
 | Hellion Prime | 2 | Spina Khanate |
@@ -213,5 +211,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 428 | |
+| TOTAL | 426 | |
 
