@@ -72,8 +72,7 @@
 | Flashman FLS-10E | 2 |  |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
 | Galleon Light Tank GAL-100 | 6 | Jade Tigers |
-| Gargoyle C | 1 | Gray Death Legion |
-| Gargoyle Prime | 1 | Dire Wolves, Fire Horse Galaxy, Shadow Wolves, Spina Khanate, Wolf's Dragoons |
+| Gargoyle Prime | 2 | Dire Wolves, Shadow Wolves, Spina Khanate, Wolf's Dragoons |
 | Gladiator GLD-1R | 1 |  |
 | Goliath GOL-1H | 2 | Marik Militia |
 | Grasshopper GHR-5H | 1 | 1st Canopian Cuirassiers, Ryuken-roku |

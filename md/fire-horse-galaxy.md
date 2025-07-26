@@ -6,7 +6,7 @@
 - Drillson Heavy Hover Tank
 - Elemental Point
 - Elemental Point
-- Gargoyle Prime
+- Gargoyle C
 - Hel Prime
 - Hellbringer Prime
 - Ice Ferret Prime

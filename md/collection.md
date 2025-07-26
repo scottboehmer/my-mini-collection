@@ -99,8 +99,8 @@
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 1 |
-| Gargoyle C | 2 | 0 | 0 | 1 | 0 |
-| Gargoyle Prime | 6 | 0 | 0 | 5 | 2 |
+| Gargoyle C | 2 | 0 | 0 | 2 | 0 |
+| Gargoyle Prime | 6 | 0 | 0 | 4 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Goliath GOL-1H | 3 | 0 | 0 | 1 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |

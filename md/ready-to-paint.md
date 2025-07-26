@@ -52,8 +52,8 @@
 | Firestarter FS9-H | 1 | FedCom Brigade |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
-| Gargoyle C | 1 | Gray Death Legion |
-| Gargoyle Prime | 3 | Dire Wolves, Fire Horse Galaxy, Wolf's Dragoons |
+| Gargoyle C | 2 | Fire Horse Galaxy, Gray Death Legion |
+| Gargoyle Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Goliath GOL-1H | 1 | Marik Militia |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
