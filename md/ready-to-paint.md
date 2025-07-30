@@ -43,7 +43,6 @@
 | Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
-| Drillson Heavy Hover Tank | 2 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Elemental Point | 4 | Cloud Rangers, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
 | Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
@@ -152,5 +151,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 217 | |
+| TOTAL | 215 | |
 

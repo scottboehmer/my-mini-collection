@@ -79,7 +79,7 @@
 | Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
 | Dragon Fire DRG-3F | 1 | 0 | 0 | 1 | 0 |
 | Dragon Fire DRG-9D | 1 | 0 | 0 | 0 | 0 |
-| Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 0 |
+| Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 2 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 3 |
 | Elemental Point | 18 | 0 | 0 | 13 | 9 |
 | Emperor EMP-6A | 2 | 0 | 0 | 1 | 0 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 870 | 0 | 1 | 444 | 227 |
+| TOTAL | 870 | 0 | 1 | 444 | 229 |
 
