@@ -28,7 +28,6 @@
 | Blackjack BJ-2 | 1 | Pirates, Wolf's Dragoons |
 | Blackjack BJ-3 | 2 | Tandrek Stables |
 | Blood Asp I | 2 |  |
-| Blood Asp Prime | 1 | 1st Canopian Cuirassiers, Old Blood and Guts, Swift Wings |
 | Bulldog Medium Tank | 4 | Ryuken-roku, Ryuken-roku |
 | Bushwacker BSW-X1 | 2 | Donegal Guards, FedCom Brigade |
 | Caesar CES-3R | 3 | FedCom Brigade |
@@ -210,5 +209,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 426 | |
+| TOTAL | 425 | |
 

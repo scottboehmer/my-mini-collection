@@ -3,13 +3,14 @@
 ## Current Force
 - Drillson Heavy Hover Tank
 - Drillson Heavy Hover Tank
+- Elemental Point
+- Hel Prime
+- Ice Ferret Prime
 ## Planned Expansion
 - Adder Prime
-- Elemental Point
+- Blood Asp Prime
 - Elemental Point
 - Gargoyle C
-- Hel Prime
 - Hellbringer Prime
-- Ice Ferret Prime
 - Mad Dog Prime
 - Nova Prime

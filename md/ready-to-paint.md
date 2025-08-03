@@ -24,7 +24,7 @@
 | Black Python | 2 | Steel Viper Galaxy, Swift Wings |
 | Blackjack BJ-1 | 1 | Drake Hunters |
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
-| Blood Asp Prime | 3 | 1st Canopian Cuirassiers, Old Blood and Guts, Swift Wings |
+| Blood Asp Prime | 4 | 1st Canopian Cuirassiers, Fire Horse Galaxy, Old Blood and Guts, Swift Wings |
 | Bulldog Medium Tank | 2 | Ryuken-roku, Ryuken-roku |
 | Caesar CES-3R | 1 | FedCom Brigade |
 | Carrion Crow A | 1 | Swift Wings |
@@ -43,7 +43,7 @@
 | Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
-| Elemental Point | 4 | Cloud Rangers, Fire Horse Galaxy, Fire Horse Galaxy, Wolf's Dragoons |
+| Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
 | Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
 | Firebee FRB-2E | 1 | Death Commandos |
@@ -64,7 +64,7 @@
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
 | Havoc HVC-P6 | 2 | Hastati Sentinels, Marik Militia |
-| Hel Prime | 2 | Fire Horse Galaxy, Gyrfalcon Galaxy |
+| Hel Prime | 1 | Gyrfalcon Galaxy |
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hellspawn HSN-7D | 1 | FedCom Brigade |
 | Hermes II HER-2S | 1 | Marik Militia |
@@ -72,7 +72,7 @@
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 2 | Cloud Rangers, Tamar Jaegers |
 | Icarus II ICR-1S | 1 | Marik Militia |
-| Ice Ferret Prime | 2 | Dire Wolves, Fire Horse Galaxy |
+| Ice Ferret Prime | 1 | Dire Wolves |
 | IS Standard Battle Armor Squad | 4 | Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | JagerMech JM6-S | 1 | FedCom Brigade |
@@ -151,5 +151,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 215 | |
+| TOTAL | 213 | |
 

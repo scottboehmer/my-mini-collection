@@ -36,7 +36,7 @@
 | Blackjack BJ-2 | 3 | 0 | 0 | 2 | 1 |
 | Blackjack BJ-3 | 3 | 0 | 0 | 1 | 1 |
 | Blood Asp I | 2 | 0 | 0 | 0 | 0 |
-| Blood Asp Prime | 4 | 0 | 0 | 3 | 0 |
+| Blood Asp Prime | 4 | 0 | 0 | 4 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
 | Caesar CES-3R | 4 | 0 | 0 | 1 | 0 |
@@ -81,7 +81,7 @@
 | Dragon Fire DRG-9D | 1 | 0 | 0 | 0 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 2 |
 | Ebon Jaguar Prime | 3 | 0 | 0 | 3 | 3 |
-| Elemental Point | 18 | 0 | 0 | 13 | 9 |
+| Elemental Point | 18 | 0 | 0 | 13 | 10 |
 | Emperor EMP-6A | 2 | 0 | 0 | 1 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 4 | 0 | 0 | 1 | 1 |
@@ -121,7 +121,7 @@
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
 | Havoc HVC-P6 | 2 | 0 | 0 | 2 | 0 |
-| Hel Prime | 2 | 0 | 0 | 2 | 0 |
+| Hel Prime | 2 | 0 | 0 | 2 | 1 |
 | Helios HEL-3D | 2 | 0 | 0 | 0 | 0 |
 | Hellbringer Prime | 5 | 0 | 0 | 3 | 1 |
 | Hellion Prime | 3 | 0 | 0 | 1 | 1 |
@@ -140,7 +140,7 @@
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
-| Ice Ferret Prime | 4 | 0 | 0 | 4 | 2 |
+| Ice Ferret Prime | 4 | 0 | 0 | 4 | 3 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
 | IS Standard Battle Armor Squad | 16 | 0 | 0 | 9 | 5 |
 | J-27 Ordnance Transport | 2 | 0 | 0 | 0 | 0 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 870 | 0 | 1 | 444 | 229 |
+| TOTAL | 870 | 0 | 1 | 445 | 232 |
 
