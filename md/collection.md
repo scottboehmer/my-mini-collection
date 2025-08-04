@@ -239,7 +239,7 @@
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
-| Starslayer STY-3C | 3 | 0 | 0 | 1 | 0 |
+| Starslayer STY-3C | 3 | 0 | 0 | 2 | 0 |
 | Starslayer STY-4C (jumping) | 2 | 0 | 0 | 1 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 2 | 0 | 0 | 1 | 0 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 870 | 0 | 1 | 445 | 232 |
+| TOTAL | 870 | 0 | 1 | 446 | 232 |
 

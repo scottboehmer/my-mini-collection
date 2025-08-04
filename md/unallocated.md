@@ -167,7 +167,7 @@
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
 | SRM Carrier | 8 |  |
 | Stalker STK-3F | 2 | Marik Militia, Wolf's Dragoons |
-| Starslayer STY-3C | 2 | Donegal Guards |
+| Starslayer STY-3C | 1 | Donegal Guards, Jade Tigers |
 | Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stinger STG-3R | 1 | FedCom Brigade, Marik Militia |
 | Stone Rhino | 1 | Cloud Rangers |
@@ -209,5 +209,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 425 | |
+| TOTAL | 424 | |
 
