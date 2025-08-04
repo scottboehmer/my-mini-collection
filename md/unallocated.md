@@ -79,7 +79,6 @@
 | Grendel Prime | 1 | Cloud Rangers, Old Blood and Guts, Spina Khanate |
 | Griffin GRF-2N | 2 |  |
 | Griffin IIC | 1 | 1st Nova Cat Guards |
-| Grizzly | 1 | Raging Bears |
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
 | Hammerhead | 1 | Spina Khanate |
@@ -141,7 +140,7 @@
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk IIC | 2 |  |
+| Phoenix Hawk IIC | 1 | Fire Horse Galaxy |
 | Phoenix Hawk PHX-1b | 1 |  |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
@@ -209,5 +208,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 424 | |
+| TOTAL | 422 | |
 

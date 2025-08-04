@@ -8,9 +8,12 @@
 - Ice Ferret Prime
 ## Planned Expansion
 - Adder Prime
+- Bane
 - Blood Asp Prime
 - Elemental Point
 - Gargoyle C
+- Grizzly
 - Hellbringer Prime
 - Mad Dog Prime
 - Nova Prime
+- Phoenix Hawk IIC
