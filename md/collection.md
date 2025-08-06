@@ -16,16 +16,16 @@
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
-| Awesome AWS-8Q | 4 | 0 | 0 | 4 | 3 |
+| Awesome AWS-8Q | 5 | 0 | 0 | 4 | 3 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
-| Bane | 1 | 0 | 0 | 1 | 0 |
+| Bane | 2 | 0 | 0 | 1 | 0 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
-| BattleMaster BLR-1G | 4 | 0 | 0 | 3 | 2 |
+| BattleMaster BLR-1G | 5 | 0 | 0 | 3 | 2 |
 | Behemoth Heavy Tank | 5 | 0 | 0 | 2 | 0 |
 | Black Knight BL-18-KNT | 2 | 0 | 0 | 0 | 0 |
 | Black Knight BL-6-KNT | 3 | 0 | 0 | 1 | 0 |
@@ -43,7 +43,7 @@
 | Caesar CES-3R Archangel | 1 | 0 | 0 | 0 | 0 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
-| Catapult CPLT-C1 | 4 | 0 | 0 | 2 | 2 |
+| Catapult CPLT-C1 | 5 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2K | 1 | 0 | 0 | 0 | 0 |
@@ -54,7 +54,7 @@
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
 | Clint CLNT-2-3T | 3 | 0 | 0 | 1 | 0 |
-| Commando COM-2D | 4 | 0 | 0 | 3 | 2 |
+| Commando COM-2D | 5 | 0 | 0 | 3 | 2 |
 | Condor Heavy Hover Tank | 8 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
 | Coolant Truck 135-K | 2 | 0 | 0 | 0 | 0 |
@@ -106,11 +106,11 @@
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
-| Griffin GRF-1N | 5 | 0 | 0 | 5 | 4 |
+| Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
-| Grizzly | 2 | 0 | 0 | 2 | 0 |
+| Grizzly | 3 | 0 | 0 | 2 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
@@ -131,7 +131,7 @@
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
-| Highlander IIC | 1 | 0 | 0 | 0 | 0 |
+| Highlander IIC | 2 | 0 | 0 | 0 | 0 |
 | Hoplite HOP-4D | 3 | 0 | 0 | 2 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
@@ -163,7 +163,7 @@
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
 | Locust IIC | 2 | 0 | 0 | 1 | 0 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
-| Locust LCT-1V | 4 | 0 | 0 | 4 | 1 |
+| Locust LCT-1V | 5 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
 | LRM Carrier | 7 | 0 | 0 | 2 | 0 |
@@ -204,7 +204,7 @@
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk IIC | 2 | 0 | 0 | 1 | 0 |
+| Phoenix Hawk IIC | 3 | 0 | 0 | 1 | 0 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 4 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
@@ -216,7 +216,7 @@
 | Quickdraw QKD-4G | 2 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
-| Rifleman IIC | 1 | 0 | 0 | 0 | 0 |
+| Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
@@ -226,7 +226,7 @@
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
 | Shadow Hawk IIC | 3 | 0 | 0 | 1 | 0 |
-| Shadow Hawk SHD-2H | 4 | 0 | 0 | 3 | 1 |
+| Shadow Hawk SHD-2H | 5 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
 | Shogun SHG-2F | 2 | 0 | 0 | 1 | 0 |
@@ -252,7 +252,7 @@
 | Thanatos TNS-4S | 2 | 0 | 0 | 1 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
-| Thunderbolt TDR-5S | 4 | 0 | 0 | 4 | 2 |
+| Thunderbolt TDR-5S | 5 | 0 | 0 | 4 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Thunderbolt TDR-9NAIS | 2 | 0 | 0 | 0 | 0 |
 | Tian-Zong TNZ-N3 | 2 | 0 | 0 | 2 | 0 |
@@ -275,7 +275,7 @@
 | Vapor Eagle | 2 | 0 | 0 | 1 | 1 |
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
-| Vindicator VND-1R | 2 | 0 | 0 | 2 | 1 |
+| Vindicator VND-1R | 3 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
 | Visigoth Prime | 2 | 0 | 0 | 0 | 0 |
 | Von Luckner Heavy Tank VNL-K65N | 5 | 0 | 0 | 0 | 0 |
@@ -294,9 +294,9 @@
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 1 |
 | Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
-| Wolverine WVR-6R | 7 | 0 | 0 | 4 | 2 |
+| Wolverine WVR-6R | 8 | 0 | 0 | 4 | 2 |
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 870 | 0 | 1 | 448 | 232 |
+| TOTAL | 885 | 0 | 1 | 448 | 232 |
 

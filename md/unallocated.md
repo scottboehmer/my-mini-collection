@@ -12,13 +12,15 @@
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Donegal Guards, Hastati Sentinels |
+| Awesome AWS-8Q | 1 | 1st Canopian Cuirassiers, FedCom Brigade, Hastati Sentinels, Marik Militia |
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
 | Axman AXM-1N | 1 | FedCom Brigade |
 | Axman AXM-2N | 1 | Donegal Guards |
+| Bane | 1 | Fire Horse Galaxy |
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Donegal Guards, Hesperus Guards |
 | BattleAxe BKX-7K | 1 |  |
-| BattleMaster BLR-1G | 1 | Northwind Highlanders, Ryuken-roku, Tamar Jaegers |
+| BattleMaster BLR-1G | 2 | Northwind Highlanders, Ryuken-roku, Tamar Jaegers |
 | Behemoth Heavy Tank | 3 | FedCom Brigade, FedCom Brigade |
 | Black Knight BL-18-KNT | 2 |  |
 | Black Knight BL-6-KNT | 2 | Hastati Sentinels |
@@ -33,7 +35,7 @@
 | Caesar CES-3R | 3 | FedCom Brigade |
 | Caesar CES-3R Archangel | 1 |  |
 | Cataphract CTF-1X | 2 | 4th McCarron's Armored Cavalry |
-| Catapult CPLT-C1 | 2 | 4th McCarron's Armored Cavalry, FedCom Brigade |
+| Catapult CPLT-C1 | 3 | 4th McCarron's Armored Cavalry, FedCom Brigade |
 | Catapult CPLT-K2K | 1 |  |
 | Centurion CN9-A | 1 | Drake Hunters, FedCom Brigade, II Legio Cataphracti |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
@@ -41,7 +43,7 @@
 | Charger CGR-1A1 | 1 |  |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 2 | Northwind Highlanders |
-| Commando COM-2D | 1 | Donegal Guards, Eridani Light Horse, FedCom Brigade |
+| Commando COM-2D | 2 | Donegal Guards, Eridani Light Horse, FedCom Brigade |
 | Condor Heavy Hover Tank | 6 | Tamar Jaegers, Tamar Jaegers |
 | Conjurer | 1 | Shadow Wolves |
 | Coolant Truck 135-K | 2 |  |
@@ -77,8 +79,10 @@
 | Grasshopper GHR-5H | 1 | 1st Canopian Cuirassiers, Ryuken-roku |
 | Grasshopper GHR-5J | 2 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers, Old Blood and Guts, Spina Khanate |
+| Griffin GRF-1N | 1 | 1st Canopian Cuirassiers, Donegal Guards, Fox Patrol, Lion City Stables, Northwind Highlanders |
 | Griffin GRF-2N | 2 |  |
 | Griffin IIC | 1 | 1st Nova Cat Guards |
+| Grizzly | 1 | Fire Horse Galaxy, Raging Bears |
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
 | Hammerhead | 1 | Spina Khanate |
@@ -92,7 +96,7 @@
 | Hetzer Wheeled Assault Gun | 7 |  |
 | Highlander HGN-694 | 1 |  |
 | Highlander HGN-732 | 4 | Northwind Highlanders |
-| Highlander IIC | 1 |  |
+| Highlander IIC | 2 |  |
 | Hoplite HOP-4D | 1 | Kell Hounds, Wolf's Dragoons |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
@@ -113,6 +117,7 @@
 | Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2D | 1 |  |
 | Locust IIC | 1 | Shadow Wolves |
+| Locust LCT-1V | 1 | Drake Hunters, Fox Patrol, Gray Death Legion, Marik Militia |
 | Locust LCT-3M | 2 | Eridani Light Horse |
 | LRM Carrier | 5 | Marik Militia, Marik Militia |
 | Manticore Heavy Tank | 4 | Donegal Guards, Donegal Guards |
@@ -140,7 +145,7 @@
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk IIC | 1 | Fire Horse Galaxy |
+| Phoenix Hawk IIC | 2 | Fire Horse Galaxy |
 | Phoenix Hawk PHX-1b | 1 |  |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
@@ -149,7 +154,7 @@
 | Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
 | Quickdraw QKD-4G | 1 | Fox Patrol |
 | Regent Prime | 1 | Spina Khanate |
-| Rifleman IIC | 1 |  |
+| Rifleman IIC | 2 |  |
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
@@ -158,7 +163,7 @@
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
 | Shadow Hawk IIC | 2 | Raging Bears |
-| Shadow Hawk SHD-2H | 1 | Drake Hunters, Gray Death Legion, Marik Militia |
+| Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
@@ -176,6 +181,7 @@
 | Templar TLR1-O | 1 | FedCom Brigade |
 | Thanatos TNS-4S | 1 | Hastati Sentinels |
 | Thug THG-11E | 1 | Com Guards |
+| Thunderbolt TDR-5S | 1 | 4th McCarron's Armored Cavalry, II Legio Cataphracti, Kell Hounds, Marik Militia |
 | Thunderbolt TDR-9NAIS | 2 |  |
 | Timber Wolf Prime | 4 | 1st Nova Cat Guards, Cloud Rangers, Dire Wolves, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Timber Wolf S | 2 |  |
@@ -190,6 +196,7 @@
 | Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vedette Medium Tank | 6 |  |
 | Victor VTR-9B | 2 | 4th McCarron's Armored Cavalry |
+| Vindicator VND-1R | 1 | 4th McCarron's Armored Cavalry, Drake Hunters |
 | Viper Prime | 1 | Raging Bears, Steel Viper Galaxy |
 | Visigoth Prime | 2 |  |
 | Von Luckner Heavy Tank VNL-K65N | 5 |  |
@@ -206,7 +213,7 @@
 | Whitworth WTH-1 | 2 |  |
 | Wolfhound WLF-1 | 1 | Donegal Guards, FedCom Brigade, Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
-| Wolverine WVR-6R | 3 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
+| Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 422 | |
+| TOTAL | 437 | |
 
