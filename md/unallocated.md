@@ -12,12 +12,10 @@
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Donegal Guards, Hastati Sentinels |
-| Awesome AWS-8Q | 1 | 1st Canopian Cuirassiers, FedCom Brigade, Hastati Sentinels, Marik Militia |
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
 | Axman AXM-1N | 1 | FedCom Brigade |
 | Axman AXM-2N | 1 | Donegal Guards |
-| Bane | 1 | Fire Horse Galaxy |
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Donegal Guards, Hesperus Guards |
 | BattleAxe BKX-7K | 1 |  |
 | BattleMaster BLR-1G | 2 | Northwind Highlanders, Ryuken-roku, Tamar Jaegers |
@@ -96,7 +94,7 @@
 | Hetzer Wheeled Assault Gun | 7 |  |
 | Highlander HGN-694 | 1 |  |
 | Highlander HGN-732 | 4 | Northwind Highlanders |
-| Highlander IIC | 2 |  |
+| Highlander IIC | 1 | Fire Horse Galaxy |
 | Hoplite HOP-4D | 1 | Kell Hounds, Wolf's Dragoons |
 | Horned Owl | 1 | Raging Bears |
 | Howler | 1 | Gyrfalcon Galaxy |
@@ -215,5 +213,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 437 | |
+| TOTAL | 434 | |
 

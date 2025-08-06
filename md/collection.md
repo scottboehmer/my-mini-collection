@@ -16,12 +16,12 @@
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
-| Awesome AWS-8Q | 5 | 0 | 0 | 4 | 3 |
+| Awesome AWS-8Q | 5 | 0 | 0 | 5 | 3 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
-| Bane | 2 | 0 | 0 | 1 | 0 |
+| Bane | 2 | 0 | 0 | 2 | 0 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
@@ -131,7 +131,7 @@
 | Hierofalcon Prime | 1 | 0 | 0 | 1 | 1 |
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
-| Highlander IIC | 2 | 0 | 0 | 0 | 0 |
+| Highlander IIC | 2 | 0 | 0 | 1 | 0 |
 | Hoplite HOP-4D | 3 | 0 | 0 | 2 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 885 | 0 | 1 | 448 | 232 |
+| TOTAL | 885 | 0 | 1 | 451 | 232 |
 

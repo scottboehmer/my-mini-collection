@@ -13,9 +13,9 @@
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
-| Awesome AWS-8Q | 1 | Hastati Sentinels |
+| Awesome AWS-8Q | 2 | Drake Hunters, Hastati Sentinels |
 | Axman AXM-2N | 1 | Donegal Guards |
-| Bane | 1 | Fire Horse Galaxy |
+| Bane | 2 | Fire Horse Galaxy, Swift Wings |
 | Banshee BNC-3S | 1 | Hesperus Guards |
 | Battle Cobra Prime | 1 | Kell Hounds |
 | BattleMaster BLR-1G | 1 | Tamar Jaegers |
@@ -68,6 +68,7 @@
 | Hellbringer Prime | 2 | Cloud Rangers, Fire Horse Galaxy |
 | Hellspawn HSN-7D | 1 | FedCom Brigade |
 | Hermes II HER-2S | 1 | Marik Militia |
+| Highlander IIC | 1 | Fire Horse Galaxy |
 | Hoplite HOP-4D | 2 | Kell Hounds, Wolf's Dragoons |
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 2 | Cloud Rangers, Tamar Jaegers |
@@ -152,5 +153,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 216 | |
+| TOTAL | 219 | |
 

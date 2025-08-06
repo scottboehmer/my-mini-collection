@@ -3,6 +3,10 @@
   "Faction": "Mercenaries",
   "Miniatures": [
     {
+      "Name": "Awesome AWS-8Q",
+      "Painted": false
+    },
+    {
       "Name": "Blackjack BJ-1",
       "Painted": false
     },

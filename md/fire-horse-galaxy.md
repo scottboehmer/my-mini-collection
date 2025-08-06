@@ -14,6 +14,7 @@
 - Gargoyle C
 - Grizzly
 - Hellbringer Prime
+- Highlander IIC
 - Mad Dog Prime
 - Nova Prime
 - Phoenix Hawk IIC

@@ -5,6 +5,7 @@
 - Phoenix Hawk PXH-1
 - Trebuchet TBT-5N
 ## Planned Expansion
+- Awesome AWS-8Q
 - Blackjack BJ-1
 - Locust LCT-1V
 - Shadow Hawk SHD-2H

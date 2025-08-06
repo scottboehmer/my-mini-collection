@@ -1,6 +1,7 @@
 # Swift Wings
 **Faction:** Raven Alliance
 ## Planned Expansion
+- Bane
 - Black Python
 - Blood Asp Prime
 - Carrion Crow A

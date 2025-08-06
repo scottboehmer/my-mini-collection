@@ -3,6 +3,10 @@
   "Faction": "Raven Alliance",
   "Miniatures": [
     {
+      "Name": "Bane",
+      "Painted": false
+    },
+    {
       "Name": "Black Python",
       "Painted": false
     },
