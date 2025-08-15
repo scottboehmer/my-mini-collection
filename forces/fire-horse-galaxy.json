@@ -8,7 +8,7 @@
     },
     {
       "Name": "Bane",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Blood Asp Prime",
@@ -36,7 +36,7 @@
     },
     {
       "Name": "Grizzly",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hel Prime",
@@ -64,7 +64,7 @@
     },
     {
       "Name": "Phoenix Hawk IIC",
-      "Painted": false
+      "Painted": true
     }
   ]
 }

@@ -16,12 +16,12 @@
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
-| Awesome AWS-8Q | 5 | 0 | 0 | 5 | 3 |
+| Awesome AWS-8Q | 5 | 0 | 0 | 5 | 4 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
-| Bane | 2 | 0 | 0 | 2 | 0 |
+| Bane | 2 | 0 | 0 | 2 | 1 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
@@ -110,7 +110,7 @@
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
-| Grizzly | 3 | 0 | 0 | 2 | 0 |
+| Grizzly | 3 | 0 | 0 | 2 | 1 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
@@ -204,7 +204,7 @@
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk IIC | 3 | 0 | 0 | 1 | 0 |
+| Phoenix Hawk IIC | 3 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 4 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
@@ -239,7 +239,7 @@
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
-| Starslayer STY-3C | 3 | 0 | 0 | 2 | 0 |
+| Starslayer STY-3C | 3 | 0 | 0 | 2 | 1 |
 | Starslayer STY-4C (jumping) | 2 | 0 | 0 | 1 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 2 | 0 | 0 | 1 | 0 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 885 | 0 | 1 | 451 | 232 |
+| TOTAL | 885 | 0 | 1 | 451 | 237 |
 

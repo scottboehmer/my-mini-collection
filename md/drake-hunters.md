@@ -1,11 +1,11 @@
 # Drake Hunters
 **Faction:** Mercenaries
 ## Current Force
+- Awesome AWS-8Q
 - Centurion CN9-A
 - Phoenix Hawk PXH-1
 - Trebuchet TBT-5N
 ## Planned Expansion
-- Awesome AWS-8Q
 - Blackjack BJ-1
 - Locust LCT-1V
 - Shadow Hawk SHD-2H

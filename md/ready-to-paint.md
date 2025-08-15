@@ -13,9 +13,9 @@
 | Atlas AS7-S | 1 | Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
-| Awesome AWS-8Q | 2 | Drake Hunters, Hastati Sentinels |
+| Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-2N | 1 | Donegal Guards |
-| Bane | 2 | Fire Horse Galaxy, Swift Wings |
+| Bane | 1 | Swift Wings |
 | Banshee BNC-3S | 1 | Hesperus Guards |
 | Battle Cobra Prime | 1 | Kell Hounds |
 | BattleMaster BLR-1G | 1 | Tamar Jaegers |
@@ -58,7 +58,7 @@
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
-| Grizzly | 2 | Fire Horse Galaxy, Raging Bears |
+| Grizzly | 1 | Raging Bears |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
@@ -107,7 +107,6 @@
 | Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
-| Phoenix Hawk IIC | 1 | Fire Horse Galaxy |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 4 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
@@ -128,7 +127,7 @@
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
 | Spider SDR-5V | 1 | Drake Hunters |
 | Stalker STK-3F | 1 | Wolf's Dragoons |
-| Starslayer STY-3C | 2 | Donegal Guards, Jade Tigers |
+| Starslayer STY-3C | 1 | Donegal Guards |
 | Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
@@ -153,5 +152,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 219 | |
+| TOTAL | 214 | |
 
