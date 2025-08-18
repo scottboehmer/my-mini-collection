@@ -5,3 +5,5 @@
 - Galleon Light Tank GAL-100
 - Kit Fox Prime
 - Starslayer STY-3C
+## Planned Expansion
+- Phoenix Hawk IIC

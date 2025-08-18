@@ -30,7 +30,7 @@
 | Blood Asp I | 2 |  |
 | Bulldog Medium Tank | 4 | Ryuken-roku, Ryuken-roku |
 | Bushwacker BSW-X1 | 2 | Donegal Guards, FedCom Brigade |
-| Caesar CES-3R | 3 | FedCom Brigade |
+| Caesar CES-3R | 2 | FedCom Brigade, Pirates |
 | Caesar CES-3R Archangel | 1 |  |
 | Cataphract CTF-1X | 2 | 4th McCarron's Armored Cavalry |
 | Catapult CPLT-C1 | 3 | 4th McCarron's Armored Cavalry, FedCom Brigade |
@@ -143,7 +143,7 @@
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
-| Phoenix Hawk IIC | 2 | Fire Horse Galaxy |
+| Phoenix Hawk IIC | 1 | Fire Horse Galaxy, Jade Tigers |
 | Phoenix Hawk PHX-1b | 1 |  |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
@@ -213,5 +213,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 434 | |
+| TOTAL | 432 | |
 

@@ -26,7 +26,7 @@
 | Blackjack BJ-2 | 1 | Wolf's Dragoons |
 | Blood Asp Prime | 4 | 1st Canopian Cuirassiers, Fire Horse Galaxy, Old Blood and Guts, Swift Wings |
 | Bulldog Medium Tank | 2 | Ryuken-roku, Ryuken-roku |
-| Caesar CES-3R | 1 | FedCom Brigade |
+| Caesar CES-3R | 2 | FedCom Brigade, Pirates |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | II Legio Cataphracti |
 | Charger CGR-3K | 1 | Ryuken-roku |
@@ -107,6 +107,7 @@
 | Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
+| Phoenix Hawk IIC | 1 | Jade Tigers |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 4 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
@@ -152,5 +153,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 214 | |
+| TOTAL | 216 | |
 

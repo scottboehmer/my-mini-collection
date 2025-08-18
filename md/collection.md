@@ -39,7 +39,7 @@
 | Blood Asp Prime | 4 | 0 | 0 | 4 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
 | Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
-| Caesar CES-3R | 4 | 0 | 0 | 1 | 0 |
+| Caesar CES-3R | 4 | 0 | 0 | 2 | 0 |
 | Caesar CES-3R Archangel | 1 | 0 | 0 | 0 | 0 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
 | Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
@@ -204,7 +204,7 @@
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
-| Phoenix Hawk IIC | 3 | 0 | 0 | 1 | 1 |
+| Phoenix Hawk IIC | 3 | 0 | 0 | 2 | 1 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 4 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
@@ -298,5 +298,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 885 | 0 | 1 | 451 | 237 |
+| TOTAL | 885 | 0 | 1 | 453 | 237 |
 
