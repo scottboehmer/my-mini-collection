@@ -18,4 +18,5 @@
 - Timber Wolf TC
 ## Planned Expansion
 - Locust IIC
+- Savage Wolf A
 - Stormcrow Prime

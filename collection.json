@@ -506,6 +506,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Excalibur EXC-B2",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Executioner Prime",
       "CountInCollection": 4,
       "PendingCount": 0,
@@ -1004,6 +1010,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Malice MAL-XT",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Manticore Heavy Tank",
       "CountInCollection": 6,
       "PendingCount": 0,
@@ -1202,6 +1214,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Peacekeeper PKP-1A",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Pegasus Scout Hover Tank",
       "CountInCollection": 6,
       "PendingCount": 0,
@@ -1310,8 +1328,20 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Savage Wolf A",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Savannah Master Hovercraft",
       "CountInCollection": 8,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Savior Repair Vehicle",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -1726,6 +1756,12 @@
     {
       "Name": "Wasp WSP-3W",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Wendigo Prime",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },

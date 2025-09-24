@@ -13,3 +13,5 @@
 - Supernova
 - Timber Wolf Prime
 - Turkina Prime
+## Planned Expansion
+- Wendigo Prime

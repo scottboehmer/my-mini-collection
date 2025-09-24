@@ -45,6 +45,7 @@
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
+| Excalibur EXC-B2 | 1 | Com Guards |
 | Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
@@ -90,6 +91,7 @@
 | LRM Carrier | 2 | Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
+| Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 2 | Donegal Guards, Donegal Guards |
 | Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
 | Marauder II MAD-8K | 1 | Ryuken-roku |
@@ -107,6 +109,7 @@
 | Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
+| Peacekeeper PKP-1A | 2 | Hastati Sentinels, Ryuken-roku |
 | Phoenix Hawk IIC | 1 | Jade Tigers |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 4 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
@@ -115,6 +118,7 @@
 | Quickdraw QKD-4G | 1 | Fox Patrol |
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
+| Savage Wolf A | 2 | Shadow Wolves, Spina Khanate |
 | Schrek PPC Carrier | 2 | FedCom Brigade, FedCom Brigade |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Sentinel STN-3L | 1 | Hesperus Guards |
@@ -147,11 +151,12 @@
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
 | Warhammer WHM-9K | 1 | Ryuken-roku |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
+| Wendigo Prime | 1 | 1st Nova Cat Guards |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 2 | Gray Death Legion, Kell Hounds |
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 216 | |
+| TOTAL | 223 | |
 

@@ -31,5 +31,6 @@
 - Hatamoto-Chi HTM-27T
 - Marauder II MAD-8K
 - Mauler MAL-1R
+- Peacekeeper PKP-1A
 - Phoenix Hawk PXH-1
 - Warhammer WHM-9K

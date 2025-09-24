@@ -8,5 +8,7 @@
 - Jackalope JLP-BD
 - Lament LMT-2R
 - Legionnaire LGN-2K
+- Malice MAL-XT
 - Marauder II MAD-4A
+- Peacekeeper PKP-1A
 - Thanatos TNS-4S

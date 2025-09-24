@@ -86,6 +86,7 @@
 | Enforcer ENF-4R | 3 | 0 | 0 | 1 | 1 |
 | Enforcer ENF-5D | 4 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
+| Excalibur EXC-B2 | 2 | 0 | 0 | 1 | 0 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Falconer FLC-8R | 2 | 0 | 0 | 2 | 0 |
@@ -169,6 +170,7 @@
 | LRM Carrier | 7 | 0 | 0 | 2 | 0 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
+| Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
 | Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
 | Marauder (Red Hunter 3146) | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter | 2 | 0 | 0 | 0 | 0 |
@@ -202,6 +204,7 @@
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
+| Peacekeeper PKP-1A | 2 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk IIC | 3 | 0 | 0 | 2 | 1 |
@@ -220,7 +223,9 @@
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
+| Savage Wolf A | 2 | 0 | 0 | 2 | 0 |
 | Savannah Master Hovercraft | 8 | 0 | 0 | 0 | 0 |
+| Savior Repair Vehicle | 2 | 0 | 0 | 0 | 0 |
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
 | Scorpion SCP-1N | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
@@ -290,6 +295,7 @@
 | Warrior Attack Helicopter H-7 | 5 | 0 | 0 | 0 | 0 |
 | Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
+| Wendigo Prime | 2 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 2 | 0 | 0 | 0 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 1 |
 | Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
@@ -298,5 +304,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 885 | 0 | 1 | 453 | 237 |
+| TOTAL | 897 | 0 | 1 | 460 | 237 |
 

@@ -13,5 +13,6 @@
 - Warhammer IIC
 ## Planned Expansion
 - Mist Lynx Prime
+- Savage Wolf A
 - Shadow Cat Prime
 - Timber Wolf Prime

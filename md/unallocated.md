@@ -63,6 +63,7 @@
 | Enforcer ENF-4R | 2 | FedCom Brigade |
 | Enforcer ENF-5D | 3 | Starlight Stables |
 | Eris ERS-2N | 1 | Marik Militia |
+| Excalibur EXC-B2 | 1 | Com Guards |
 | Exterminator EXT-4D | 1 | Com Guards |
 | Fire Moth D | 2 | Raging Bears |
 | Fire Moth Prime | 1 | Raging Bears |
@@ -118,6 +119,7 @@
 | Locust LCT-1V | 1 | Drake Hunters, Fox Patrol, Gray Death Legion, Marik Militia |
 | Locust LCT-3M | 2 | Eridani Light Horse |
 | LRM Carrier | 5 | Marik Militia, Marik Militia |
+| Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 4 | Donegal Guards, Donegal Guards |
 | Marauder (Red Hunter 3146) | 1 |  |
 | Marauder Bounty Hunter | 2 |  |
@@ -157,6 +159,7 @@
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Savannah Master Hovercraft | 8 |  |
+| Savior Repair Vehicle | 2 |  |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
@@ -208,10 +211,11 @@
 | Warrior Attack Helicopter H-7 | 5 |  |
 | Wasp WSP-1A | 3 | 1st Canopian Cuirassiers, 4th McCarron's Armored Cavalry |
 | Wasp WSP-3W | 2 | Wolf's Dragoons |
+| Wendigo Prime | 1 | 1st Nova Cat Guards |
 | Whitworth WTH-1 | 2 |  |
 | Wolfhound WLF-1 | 1 | Donegal Guards, FedCom Brigade, Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 432 | |
+| TOTAL | 437 | |
 
