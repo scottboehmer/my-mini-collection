@@ -106,6 +106,7 @@
 | J-27 Ordnance Transport | 2 |  |
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
+| Jade Hawk JHK-03 | 2 |  |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
@@ -162,16 +163,19 @@
 | Savior Repair Vehicle | 2 |  |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
+| Shadow Cat I | 2 |  |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
 | Shadow Hawk IIC | 2 | Raging Bears |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
+| Shockwave SKW-2F | 2 |  |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | Skulker Wheeled Scout Tank | 5 |  |
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
 | SRM Carrier | 8 |  |
 | Stalker STK-3F | 2 | Marik Militia, Wolf's Dragoons |
+| Stalker STK-8S | 2 |  |
 | Starslayer STY-3C | 1 | Donegal Guards, Jade Tigers |
 | Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stinger STG-3R | 1 | FedCom Brigade, Marik Militia |
@@ -217,5 +221,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 437 | |
+| TOTAL | 445 | |
 

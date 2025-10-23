@@ -147,6 +147,7 @@
 | J-27 Ordnance Transport | 2 | 0 | 0 | 0 | 0 |
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
 | Jackalope JLP-BD | 2 | 0 | 0 | 1 | 0 |
+| Jade Hawk JHK-03 | 2 | 0 | 0 | 0 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 2 | 0 | 0 | 1 | 0 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
@@ -229,11 +230,13 @@
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
 | Scorpion SCP-1N | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
+| Shadow Cat I | 2 | 0 | 0 | 0 | 0 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
 | Shadow Hawk IIC | 3 | 0 | 0 | 1 | 0 |
 | Shadow Hawk SHD-2H | 5 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
+| Shockwave SKW-2F | 2 | 0 | 0 | 0 | 0 |
 | Shogun SHG-2F | 2 | 0 | 0 | 1 | 0 |
 | Skulker Wheeled Scout Tank | 5 | 0 | 0 | 0 | 0 |
 | SM5 Field Commander | 1 | 0 | 0 | 1 | 0 |
@@ -244,6 +247,7 @@
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
+| Stalker STK-8S | 2 | 0 | 0 | 0 | 0 |
 | Starslayer STY-3C | 3 | 0 | 0 | 2 | 1 |
 | Starslayer STY-4C (jumping) | 2 | 0 | 0 | 1 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
@@ -304,5 +308,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 897 | 0 | 1 | 460 | 237 |
+| TOTAL | 905 | 0 | 1 | 460 | 237 |
 
