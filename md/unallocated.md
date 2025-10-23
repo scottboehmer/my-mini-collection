@@ -8,6 +8,7 @@
 | Archer ARC-5R | 2 | Ryuken-roku |
 | Argus AGS-4D | 1 | FedCom Brigade |
 | Assassin ASN-23 | 1 |  |
+| Atlas (Gothic) | 1 |  |
 | Atlas AS7-D | 1 | 1st Canopian Cuirassiers, Com Guards, FedCom Brigade, Marik Militia, Ryuken-roku |
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
@@ -68,6 +69,7 @@
 | Fire Moth D | 2 | Raging Bears |
 | Fire Moth Prime | 1 | Raging Bears |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
+| Firestarter (Gothic) | 1 |  |
 | Firestarter FS9-H | 1 | FedCom Brigade |
 | Flashman FLS-10E | 2 |  |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
@@ -111,6 +113,7 @@
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
+| King Crab (Gothic) | 1 |  |
 | King Crab KGC-000 | 1 | Com Guards |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
@@ -122,6 +125,7 @@
 | LRM Carrier | 5 | Marik Militia, Marik Militia |
 | Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 4 | Donegal Guards, Donegal Guards |
+| Marauder (Gothic) | 1 |  |
 | Marauder (Red Hunter 3146) | 1 |  |
 | Marauder Bounty Hunter | 2 |  |
 | Marauder Bounty Hunter (damaged) | 1 |  |
@@ -146,6 +150,7 @@
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
+| Phoenix Hawk (Gothic) | 1 |  |
 | Phoenix Hawk IIC | 1 | Fire Horse Galaxy, Jade Tigers |
 | Phoenix Hawk PHX-1b | 1 |  |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
@@ -155,6 +160,7 @@
 | Pouncer Prime | 2 | Dire Wolves, Shadow Wolves |
 | Quickdraw QKD-4G | 1 | Fox Patrol |
 | Regent Prime | 1 | Spina Khanate |
+| Rifleman (Gothic) | 1 |  |
 | Rifleman IIC | 2 |  |
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
@@ -162,6 +168,7 @@
 | Savannah Master Hovercraft | 8 |  |
 | Savior Repair Vehicle | 2 |  |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
+| Scorpion (Gothic) | 1 |  |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Shadow Cat I | 2 |  |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
@@ -191,6 +198,7 @@
 | Timber Wolf Prime | 4 | 1st Nova Cat Guards, Cloud Rangers, Dire Wolves, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Timber Wolf S | 2 |  |
 | Timber Wolf TC | 1 | Shadow Wolves |
+| UrbanMech (Gothic) | 1 |  |
 | UrbanMech LAM UM-A07 (AirMech) | 1 |  |
 | UrbanMech LAM UM-A07 (Fighter) | 1 |  |
 | UrbanMech LAM UM-A07 (Mech) | 1 |  |
@@ -221,5 +229,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 445 | |
+| TOTAL | 453 | |
 

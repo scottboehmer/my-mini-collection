@@ -11,6 +11,7 @@
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
 | Argus AGS-4D | 2 | 0 | 0 | 1 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
+| Atlas (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
@@ -95,6 +96,7 @@
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
+| Firestarter (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
 | Flashman FLS-10E | 2 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
@@ -153,6 +155,7 @@
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
 | Jenner IIC | 2 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
+| King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
@@ -173,6 +176,7 @@
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
 | Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
 | Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
+| Marauder (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Marauder (Red Hunter 3146) | 1 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter | 2 | 0 | 0 | 0 | 0 |
 | Marauder Bounty Hunter (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -208,6 +212,7 @@
 | Peacekeeper PKP-1A | 2 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
+| Phoenix Hawk (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk IIC | 3 | 0 | 0 | 2 | 1 |
 | Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 4 |
@@ -220,6 +225,7 @@
 | Quickdraw QKD-4G | 2 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
+| Rifleman (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
@@ -228,6 +234,7 @@
 | Savannah Master Hovercraft | 8 | 0 | 0 | 0 | 0 |
 | Savior Repair Vehicle | 2 | 0 | 0 | 0 | 0 |
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
+| Scorpion (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Scorpion SCP-1N | 2 | 0 | 0 | 1 | 0 |
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat I | 2 | 0 | 0 | 0 | 0 |
@@ -271,6 +278,7 @@
 | Timber Wolf TC | 2 | 0 | 0 | 1 | 1 |
 | Trebuchet TBT-5N | 2 | 0 | 0 | 2 | 2 |
 | Turkina Prime | 2 | 0 | 0 | 2 | 2 |
+| UrbanMech (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech LAM UM-A07 (AirMech) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech LAM UM-A07 (Fighter) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech LAM UM-A07 (Mech) | 1 | 0 | 0 | 0 | 0 |
@@ -308,5 +316,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 905 | 0 | 1 | 460 | 237 |
+| TOTAL | 913 | 0 | 1 | 460 | 237 |
 
