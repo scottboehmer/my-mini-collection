@@ -70,7 +70,7 @@
 | Cyclops CP-11-A | 2 | 0 | 0 | 1 | 0 |
 | Cyclops CP-11-H | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 7 | 0 | 0 | 0 | 0 |
-| Dervish DV-6M | 1 | 0 | 0 | 1 | 0 |
+| Dervish DV-6M | 2 | 0 | 0 | 1 | 0 |
 | Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 2 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
@@ -155,7 +155,7 @@
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
 | Jenner IIC | 2 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
-| King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
+| King Crab (Gothic) | 2 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
@@ -316,5 +316,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 913 | 0 | 1 | 460 | 237 |
+| TOTAL | 915 | 0 | 1 | 460 | 237 |
 

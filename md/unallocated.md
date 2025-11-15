@@ -52,6 +52,7 @@
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Demolisher Heavy Tank | 7 |  |
+| Dervish DV-6M | 1 | FedCom Brigade |
 | Devastator DVS-2 | 6 | FedCom Brigade |
 | Dire Wolf Prime | 1 | Cloud Rangers, Shadow Wolves |
 | Dire Wolf Prime (damaged) | 1 |  |
@@ -113,7 +114,7 @@
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
-| King Crab (Gothic) | 1 |  |
+| King Crab (Gothic) | 2 |  |
 | King Crab KGC-000 | 1 | Com Guards |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
@@ -229,5 +230,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 453 | |
+| TOTAL | 455 | |
 
