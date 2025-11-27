@@ -40,7 +40,6 @@
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Dervish DV-6M | 1 | FedCom Brigade |
-| Devastator DVS-2 | 1 | FedCom Brigade |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
@@ -49,7 +48,6 @@
 | Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
-| Firestarter FS9-H | 1 | FedCom Brigade |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
 | Gargoyle C | 2 | Fire Horse Galaxy, Gray Death Legion |
@@ -77,7 +75,6 @@
 | Ice Ferret Prime | 1 | Dire Wolves |
 | IS Standard Battle Armor Squad | 4 | Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
-| JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kintaro KTO-20 | 1 | Com Guards |
@@ -137,7 +134,6 @@
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
-| Templar TLR1-O | 1 | FedCom Brigade |
 | Thanatos TNS-4S | 1 | Hastati Sentinels |
 | Thunderbolt TDR-5S | 2 | II Legio Cataphracti, Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
@@ -158,5 +154,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 223 | |
+| TOTAL | 219 | |
 

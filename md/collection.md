@@ -11,7 +11,7 @@
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
 | Argus AGS-4D | 2 | 0 | 0 | 1 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
-| Atlas (Gothic) | 1 | 0 | 0 | 0 | 0 |
+| Atlas (Gothic) | 2 | 0 | 0 | 0 | 0 |
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
@@ -71,7 +71,7 @@
 | Cyclops CP-11-H | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 7 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 2 | 0 | 0 | 1 | 0 |
-| Devastator DVS-2 | 7 | 0 | 0 | 1 | 0 |
+| Devastator DVS-2 | 7 | 0 | 0 | 1 | 1 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 2 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Prometheus | 2 | 0 | 0 | 0 | 0 |
@@ -97,7 +97,7 @@
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
 | Firestarter (Gothic) | 1 | 0 | 0 | 0 | 0 |
-| Firestarter FS9-H | 2 | 0 | 0 | 1 | 0 |
+| Firestarter FS9-H | 2 | 0 | 0 | 1 | 1 |
 | Flashman FLS-10E | 2 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
@@ -151,11 +151,11 @@
 | Jackalope JLP-BD | 2 | 0 | 0 | 1 | 0 |
 | Jade Hawk JHK-03 | 2 | 0 | 0 | 0 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
-| JagerMech JM6-S | 2 | 0 | 0 | 1 | 0 |
+| JagerMech JM6-S | 2 | 0 | 0 | 1 | 1 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
 | Jenner IIC | 2 | 0 | 0 | 1 | 1 |
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
-| King Crab (Gothic) | 2 | 0 | 0 | 0 | 0 |
+| King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
@@ -264,7 +264,7 @@
 | Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
-| Templar TLR1-O | 2 | 0 | 0 | 1 | 0 |
+| Templar TLR1-O | 2 | 0 | 0 | 1 | 1 |
 | Thanatos TNS-4S | 2 | 0 | 0 | 1 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
@@ -316,5 +316,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 915 | 0 | 1 | 460 | 237 |
+| TOTAL | 915 | 0 | 1 | 460 | 241 |
 

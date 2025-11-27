@@ -8,7 +8,7 @@
 | Archer ARC-5R | 2 | Ryuken-roku |
 | Argus AGS-4D | 1 | FedCom Brigade |
 | Assassin ASN-23 | 1 |  |
-| Atlas (Gothic) | 1 |  |
+| Atlas (Gothic) | 2 |  |
 | Atlas AS7-D | 1 | 1st Canopian Cuirassiers, Com Guards, FedCom Brigade, Marik Militia, Ryuken-roku |
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
@@ -114,7 +114,7 @@
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
-| King Crab (Gothic) | 2 |  |
+| King Crab (Gothic) | 1 |  |
 | King Crab KGC-000 | 1 | Com Guards |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |

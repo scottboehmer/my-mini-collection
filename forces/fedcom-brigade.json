@@ -52,7 +52,7 @@
     },
     {
       "Name": "Devastator DVS-2",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Enforcer ENF-4R",
@@ -64,7 +64,7 @@
     },
     {
       "Name": "Firestarter FS9-H",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hatchetman HCT-6D",
@@ -84,7 +84,7 @@
     },
     {
       "Name": "JagerMech JM6-S",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Javelin JVN-10N",
@@ -132,7 +132,7 @@
     },
     {
       "Name": "Templar TLR1-O",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Valkyrie VLK-QA",
