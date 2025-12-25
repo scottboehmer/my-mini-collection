@@ -143,6 +143,7 @@
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
 | Vindicator VND-1R | 1 | Drake Hunters |
+| War Crow A | 1 | Swift Wings |
 | War Crow Prime | 1 | Swift Wings |
 | Warhammer WHM-6R | 1 | Wolf's Dragoons |
 | Warhammer WHM-9K | 1 | Ryuken-roku |
@@ -154,5 +155,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 219 | |
+| TOTAL | 220 | |
 

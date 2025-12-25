@@ -7,4 +7,5 @@
 - Carrion Crow A
 - Mad Dog Prime
 - Stormcrow Prime
+- War Crow A
 - War Crow Prime

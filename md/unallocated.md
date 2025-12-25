@@ -15,6 +15,7 @@
 | Atlas II AS7-D-H | 1 | Donegal Guards, Hastati Sentinels |
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
+| Awesome AWS-9Q (IWM) | 1 |  |
 | Axman AXM-1N | 1 | FedCom Brigade |
 | Axman AXM-2N | 1 | Donegal Guards |
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Donegal Guards, Hesperus Guards |
@@ -110,6 +111,7 @@
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | Jade Hawk JHK-03 | 2 |  |
+| Jade Phoenix A | 1 |  |
 | JagerMech JM6-S | 1 | FedCom Brigade |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner IIC | 1 | 1st Nova Cat Guards |
@@ -166,6 +168,7 @@
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
+| Savage Wolf Prime | 1 |  |
 | Savannah Master Hovercraft | 8 |  |
 | Savior Repair Vehicle | 2 |  |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
@@ -230,5 +233,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 455 | |
+| TOTAL | 458 | |
 

@@ -20,6 +20,7 @@
 | Awesome AWS-8Q | 5 | 0 | 0 | 5 | 4 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
+| Awesome AWS-9Q (IWM) | 1 | 0 | 0 | 0 | 0 |
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 2 | 0 | 0 | 2 | 1 |
@@ -150,6 +151,7 @@
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
 | Jackalope JLP-BD | 2 | 0 | 0 | 1 | 0 |
 | Jade Hawk JHK-03 | 2 | 0 | 0 | 0 | 0 |
+| Jade Phoenix A | 1 | 0 | 0 | 0 | 0 |
 | Jade Phoenix Prime | 1 | 0 | 0 | 1 | 1 |
 | JagerMech JM6-S | 2 | 0 | 0 | 1 | 1 |
 | Javelin JVN-10N | 2 | 0 | 0 | 1 | 0 |
@@ -231,6 +233,7 @@
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savage Wolf A | 2 | 0 | 0 | 2 | 0 |
+| Savage Wolf Prime | 1 | 0 | 0 | 0 | 0 |
 | Savannah Master Hovercraft | 8 | 0 | 0 | 0 | 0 |
 | Savior Repair Vehicle | 2 | 0 | 0 | 0 | 0 |
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
@@ -297,6 +300,7 @@
 | Visigoth Prime | 2 | 0 | 0 | 0 | 0 |
 | Von Luckner Heavy Tank VNL-K65N | 5 | 0 | 0 | 0 | 0 |
 | Vulcan VL-2T | 3 | 0 | 0 | 0 | 0 |
+| War Crow A | 1 | 0 | 0 | 1 | 0 |
 | War Crow Prime | 1 | 0 | 0 | 1 | 0 |
 | Warhammer IIC | 2 | 0 | 0 | 1 | 1 |
 | Warhammer WHM-6R | 7 | 0 | 0 | 2 | 1 |
@@ -316,5 +320,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 915 | 0 | 1 | 460 | 241 |
+| TOTAL | 919 | 0 | 1 | 461 | 241 |
 
