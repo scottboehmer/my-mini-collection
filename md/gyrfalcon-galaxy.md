@@ -17,4 +17,13 @@
 - Timber Wolf Pryde
 - Turkina Prime
 ## Planned Expansion
+- Bane 3
+- Fulcrum Heavy Hovertank
+- Fulcrum Heavy Hovertank
 - Hel Prime
+- Howler 6
+- Locust IIC 4
+- Marauder IIC 10
+- Rifleman C 2
+- Summoner H
+- Thunderbolt IIC

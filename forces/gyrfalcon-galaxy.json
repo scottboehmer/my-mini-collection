@@ -3,6 +3,10 @@
   "Faction": "Clan Jade Falcon",
   "Miniatures": [
     {
+      "Name": "Bane 3",
+      "Painted": false
+    },
+    {
       "Name": "Black Lanner Prime",
       "Painted": true
     },
@@ -27,6 +31,14 @@
       "Painted": true
     },
     {
+      "Name": "Fulcrum Heavy Hovertank",
+      "Painted": false
+    },
+    {
+      "Name": "Fulcrum Heavy Hovertank",
+      "Painted": false
+    },
+    {
       "Name": "Hel Prime",
       "Painted": false
     },
@@ -43,6 +55,10 @@
       "Painted": true
     },
     {
+      "Name": "Howler 6",
+      "Painted": false
+    },
+    {
       "Name": "Jade Phoenix Prime",
       "Painted": true
     },
@@ -51,12 +67,32 @@
       "Painted": true
     },
     {
+      "Name": "Locust IIC 4",
+      "Painted": false
+    },
+    {
+      "Name": "Marauder IIC 10",
+      "Painted": false
+    },
+    {
       "Name": "Night Gyr Prime",
       "Painted": true
     },
     {
+      "Name": "Rifleman C 2",
+      "Painted": false
+    },
+    {
+      "Name": "Summoner H",
+      "Painted": false
+    },
+    {
       "Name": "Summoner Prime",
       "Painted": true
+    },
+    {
+      "Name": "Thunderbolt IIC",
+      "Painted": false
     },
     {
       "Name": "Timber Wolf Pryde",

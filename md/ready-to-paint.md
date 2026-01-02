@@ -16,6 +16,7 @@
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-2N | 1 | Donegal Guards |
 | Bane | 1 | Swift Wings |
+| Bane 3 | 1 | Gyrfalcon Galaxy |
 | Banshee BNC-3S | 1 | Hesperus Guards |
 | Battle Cobra Prime | 1 | Kell Hounds |
 | BattleMaster BLR-1G | 1 | Tamar Jaegers |
@@ -50,6 +51,7 @@
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Flashman FLS-8K | 1 | Hesperus Guards |
 | Flea FLE-17 | 2 | Marik Militia, Wolf's Dragoons |
+| Fulcrum Heavy Hovertank | 2 | Gyrfalcon Galaxy, Gyrfalcon Galaxy |
 | Gargoyle C | 2 | Fire Horse Galaxy, Gray Death Legion |
 | Gargoyle Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Goliath GOL-1H | 1 | Marik Militia |
@@ -69,6 +71,7 @@
 | Hermes II HER-2S | 1 | Marik Militia |
 | Highlander IIC | 1 | Fire Horse Galaxy |
 | Hoplite HOP-4D | 2 | Kell Hounds, Wolf's Dragoons |
+| Howler 6 | 1 | Gyrfalcon Galaxy |
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
 | Hunchback IIC | 2 | Cloud Rangers, Tamar Jaegers |
 | Icarus II ICR-1S | 1 | Marik Militia |
@@ -83,6 +86,7 @@
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust IIC | 1 | Shadow Wolves |
+| Locust IIC 4 | 1 | Gyrfalcon Galaxy |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | LRM Carrier | 2 | Marik Militia, Marik Militia |
@@ -92,6 +96,7 @@
 | Manticore Heavy Tank | 2 | Donegal Guards, Donegal Guards |
 | Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
 | Marauder II MAD-8K | 1 | Ryuken-roku |
+| Marauder IIC 10 | 1 | Gyrfalcon Galaxy |
 | Marauder MAD-3R | 1 | Fox Patrol |
 | Marauder MAD-3R Carlyle | 1 | Gray Death Legion |
 | Mauler MAL-1R | 1 | Ryuken-roku |
@@ -114,6 +119,7 @@
 | Pouncer Prime | 1 | Dire Wolves |
 | Quickdraw QKD-4G | 1 | Fox Patrol |
 | Raven RVN-3L | 1 | Death Commandos |
+| Rifleman C 2 | 1 | Gyrfalcon Galaxy |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
 | Savage Wolf A | 2 | Shadow Wolves, Spina Khanate |
 | Schrek PPC Carrier | 2 | FedCom Brigade, FedCom Brigade |
@@ -134,7 +140,9 @@
 | Stone Rhino | 1 | Cloud Rangers |
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
+| Summoner H | 1 | Gyrfalcon Galaxy |
 | Thanatos TNS-4S | 1 | Hastati Sentinels |
+| Thunderbolt IIC | 1 | Gyrfalcon Galaxy |
 | Thunderbolt TDR-5S | 2 | II Legio Cataphracti, Kell Hounds |
 | Thunderbolt TDR-5SE | 2 | Eridani Light Horse, Eridani Light Horse |
 | Tian-Zong TNZ-N3 | 2 | 4th McCarron's Armored Cavalry, Death Commandos |
@@ -155,5 +163,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 220 | |
+| TOTAL | 229 | |
 

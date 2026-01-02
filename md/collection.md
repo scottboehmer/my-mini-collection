@@ -24,6 +24,7 @@
 | Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 2 | 0 | 0 | 2 | 1 |
+| Bane 3 | 1 | 0 | 0 | 1 | 0 |
 | Banshee BNC-3S | 5 | 0 | 0 | 3 | 2 |
 | Battle Cobra Prime | 3 | 0 | 0 | 3 | 2 |
 | BattleAxe BKX-7K | 1 | 0 | 0 | 0 | 0 |
@@ -102,6 +103,7 @@
 | Flashman FLS-10E | 2 | 0 | 0 | 0 | 0 |
 | Flashman FLS-8K | 2 | 0 | 0 | 2 | 1 |
 | Flea FLE-17 | 4 | 0 | 0 | 2 | 0 |
+| Fulcrum Heavy Hovertank | 2 | 0 | 0 | 2 | 0 |
 | Galleon Light Tank GAL-100 | 7 | 0 | 0 | 1 | 1 |
 | Gargoyle C | 2 | 0 | 0 | 2 | 0 |
 | Gargoyle Prime | 6 | 0 | 0 | 4 | 2 |
@@ -139,6 +141,7 @@
 | Hoplite HOP-4D | 3 | 0 | 0 | 2 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
+| Howler 6 | 1 | 0 | 0 | 1 | 0 |
 | Hunchback HBK-4G | 5 | 0 | 0 | 5 | 3 |
 | Hunchback IIC | 2 | 0 | 0 | 2 | 0 |
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
@@ -169,6 +172,7 @@
 | Legionnaire LGN-2K | 1 | 0 | 0 | 1 | 0 |
 | Linebacker Prime | 4 | 0 | 0 | 4 | 2 |
 | Locust IIC | 2 | 0 | 0 | 1 | 0 |
+| Locust IIC 4 | 1 | 0 | 0 | 1 | 0 |
 | Locust LCT-1E | 1 | 0 | 0 | 1 | 1 |
 | Locust LCT-1V | 5 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
@@ -185,6 +189,7 @@
 | Marauder II MAD-4A | 5 | 0 | 0 | 2 | 0 |
 | Marauder II MAD-8K | 3 | 0 | 0 | 1 | 0 |
 | Marauder IIC | 2 | 0 | 0 | 0 | 0 |
+| Marauder IIC 10 | 1 | 0 | 0 | 1 | 0 |
 | Marauder MAD-3R | 3 | 0 | 0 | 3 | 2 |
 | Marauder MAD-3R Carlyle | 2 | 0 | 0 | 1 | 0 |
 | Mastodon D | 1 | 0 | 0 | 1 | 1 |
@@ -228,6 +233,7 @@
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
 | Rifleman (Gothic) | 1 | 0 | 0 | 0 | 0 |
+| Rifleman C 2 | 1 | 0 | 0 | 1 | 0 |
 | Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
@@ -265,12 +271,14 @@
 | Stormcrow Prime | 4 | 0 | 0 | 4 | 1 |
 | Stormwolf Prime | 1 | 0 | 0 | 1 | 1 |
 | Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
+| Summoner H | 1 | 0 | 0 | 1 | 0 |
 | Summoner Prime | 7 | 0 | 0 | 3 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
 | Templar TLR1-O | 2 | 0 | 0 | 1 | 1 |
 | Thanatos TNS-4S | 2 | 0 | 0 | 1 | 0 |
 | Thug THG-11E | 2 | 0 | 0 | 1 | 1 |
 | Thunder Hawk TDK-7X | 1 | 0 | 0 | 1 | 1 |
+| Thunderbolt IIC | 1 | 0 | 0 | 1 | 0 |
 | Thunderbolt TDR-5S | 5 | 0 | 0 | 4 | 2 |
 | Thunderbolt TDR-5SE | 2 | 0 | 0 | 2 | 0 |
 | Thunderbolt TDR-9NAIS | 2 | 0 | 0 | 0 | 0 |
@@ -320,5 +328,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 919 | 0 | 1 | 461 | 241 |
+| TOTAL | 928 | 0 | 1 | 470 | 241 |
 
