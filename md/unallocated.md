@@ -2,6 +2,7 @@
 
 | Miniature | Unallocated | Existing Allocations |
 | :--- | ---: | :--- |
+| Akuma AKU-1X | 1 |  |
 | Annihilator ANH-1A | 1 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 2 | Wolf's Dragoons |
@@ -79,6 +80,7 @@
 | Gargoyle Prime | 2 | Dire Wolves, Shadow Wolves, Spina Khanate, Wolf's Dragoons |
 | Gladiator GLD-1R | 1 |  |
 | Goliath GOL-1H | 2 | Marik Militia |
+| Grand Dragon DRG-10K | 1 |  |
 | Grasshopper GHR-5H | 1 | 1st Canopian Cuirassiers, Ryuken-roku |
 | Grasshopper GHR-5J | 2 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers, Old Blood and Guts, Spina Khanate |
@@ -167,6 +169,7 @@
 | Rifleman IIC | 2 |  |
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
+| Rokurokubi RK-4T | 1 |  |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Savage Wolf Prime | 1 |  |
 | Savannah Master Hovercraft | 8 |  |
@@ -180,6 +183,7 @@
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
+| Shiro SH-1V | 1 |  |
 | Shockwave SKW-2F | 2 |  |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | Skulker Wheeled Scout Tank | 5 |  |
@@ -233,5 +237,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 458 | |
+| TOTAL | 462 | |
 

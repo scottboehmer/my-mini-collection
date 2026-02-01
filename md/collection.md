@@ -3,6 +3,7 @@
 | Miniature | In Collection | Pending Order | Wishlist | Allocated | Painted |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | Adder Prime | 6 | 0 | 0 | 6 | 3 |
+| Akuma AKU-1X | 1 | 0 | 0 | 0 | 0 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
 | Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
@@ -109,6 +110,7 @@
 | Gargoyle Prime | 6 | 0 | 0 | 4 | 2 |
 | Gladiator GLD-1R | 1 | 0 | 0 | 0 | 0 |
 | Goliath GOL-1H | 3 | 0 | 0 | 1 | 0 |
+| Grand Dragon DRG-10K | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
@@ -237,6 +239,7 @@
 | Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
+| Rokurokubi RK-4T | 1 | 0 | 0 | 0 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savage Wolf A | 2 | 0 | 0 | 2 | 0 |
 | Savage Wolf Prime | 1 | 0 | 0 | 0 | 0 |
@@ -252,6 +255,7 @@
 | Shadow Hawk SHD-2H | 5 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
+| Shiro SH-1V | 1 | 0 | 0 | 0 | 0 |
 | Shockwave SKW-2F | 2 | 0 | 0 | 0 | 0 |
 | Shogun SHG-2F | 2 | 0 | 0 | 1 | 0 |
 | Skulker Wheeled Scout Tank | 5 | 0 | 0 | 0 | 0 |
@@ -328,5 +332,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 928 | 0 | 1 | 470 | 241 |
+| TOTAL | 932 | 0 | 1 | 470 | 241 |
 
