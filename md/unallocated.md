@@ -14,6 +14,7 @@
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
 | Atlas II AS7-D-H | 1 | Donegal Guards, Hastati Sentinels |
+| Avatar AV1-O | 1 |  |
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
 | Awesome AWS-9Q (IWM) | 1 |  |
@@ -42,6 +43,7 @@
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Chameleon CLN-7V | 2 |  |
 | Charger CGR-1A1 | 1 |  |
+| Chimera CMA-1S | 1 |  |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 2 | Northwind Highlanders |
 | Commando COM-2D | 2 | Donegal Guards, Eridani Light Horse, FedCom Brigade |
@@ -151,7 +153,7 @@
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
 | Ostroc OSR-6R | 1 |  |
 | Ostsol OTL-4D | 3 | Pirates |
-| Panther PNT-9R | 2 | Ryuken-roku |
+| Panther PNT-9R | 3 | Ryuken-roku |
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
@@ -216,6 +218,7 @@
 | UrbanMech UM-R68 | 1 |  |
 | Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vedette Medium Tank | 6 |  |
+| Venom SDR-9K | 1 |  |
 | Victor VTR-9B | 2 | 4th McCarron's Armored Cavalry |
 | Vindicator VND-1R | 1 | 4th McCarron's Armored Cavalry, Drake Hunters |
 | Viper Prime | 1 | Raging Bears, Steel Viper Galaxy |
@@ -237,5 +240,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 462 | |
+| TOTAL | 466 | |
 

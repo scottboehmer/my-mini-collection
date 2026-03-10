@@ -18,6 +18,7 @@
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
+| Avatar AV1-O | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-8Q | 5 | 0 | 0 | 5 | 4 |
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
@@ -56,6 +57,7 @@
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
+| Chimera CMA-1S | 1 | 0 | 0 | 0 | 0 |
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
 | Clint CLNT-2-3T | 3 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 5 | 0 | 0 | 3 | 2 |
@@ -216,7 +218,7 @@
 | Ostscout OTT-7J | 2 | 0 | 0 | 2 | 0 |
 | Ostsol OTL-4D | 4 | 0 | 0 | 1 | 1 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
-| Panther PNT-9R | 3 | 0 | 0 | 1 | 1 |
+| Panther PNT-9R | 4 | 0 | 0 | 1 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Peacekeeper PKP-1A | 2 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
@@ -306,6 +308,7 @@
 | Valkyrie VLK-QA | 2 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 2 | 0 | 0 | 1 | 1 |
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
+| Venom SDR-9K | 1 | 0 | 0 | 0 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 3 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
@@ -332,5 +335,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 932 | 0 | 1 | 470 | 241 |
+| TOTAL | 936 | 0 | 1 | 470 | 241 |
 
