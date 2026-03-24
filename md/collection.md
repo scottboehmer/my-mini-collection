@@ -214,9 +214,12 @@
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
+| Ostroc OSR-3M | 2 | 0 | 0 | 0 | 0 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
 | Ostscout OTT-7J | 2 | 0 | 0 | 2 | 0 |
 | Ostsol OTL-4D | 4 | 0 | 0 | 1 | 1 |
+| Ostsol OTL-9R | 2 | 0 | 0 | 0 | 0 |
+| Ostwar OWR-3M | 2 | 0 | 0 | 0 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
 | Panther PNT-9R | 4 | 0 | 0 | 1 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
@@ -247,6 +250,7 @@
 | Savage Wolf Prime | 1 | 0 | 0 | 0 | 0 |
 | Savannah Master Hovercraft | 8 | 0 | 0 | 0 | 0 |
 | Savior Repair Vehicle | 2 | 0 | 0 | 0 | 0 |
+| Scarabus SCB-9A | 2 | 0 | 0 | 0 | 0 |
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
 | Scorpion (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Scorpion SCP-1N | 2 | 0 | 0 | 1 | 0 |
@@ -335,5 +339,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 936 | 0 | 1 | 470 | 241 |
+| TOTAL | 944 | 0 | 1 | 470 | 241 |
 

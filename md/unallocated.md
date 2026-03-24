@@ -151,8 +151,11 @@
 | Nova Prime | 5 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears, Shadow Wolves |
 | Ontos Heavy Tank | 4 | Marik Militia |
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
+| Ostroc OSR-3M | 2 |  |
 | Ostroc OSR-6R | 1 |  |
 | Ostsol OTL-4D | 3 | Pirates |
+| Ostsol OTL-9R | 2 |  |
+| Ostwar OWR-3M | 2 |  |
 | Panther PNT-9R | 3 | Ryuken-roku |
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
@@ -176,6 +179,7 @@
 | Savage Wolf Prime | 1 |  |
 | Savannah Master Hovercraft | 8 |  |
 | Savior Repair Vehicle | 2 |  |
+| Scarabus SCB-9A | 2 |  |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
 | Scorpion (Gothic) | 1 |  |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
@@ -240,5 +244,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 466 | |
+| TOTAL | 474 | |
 
