@@ -741,7 +741,7 @@
     },
     {
       "Name": "Hammerhead",
-      "CountInCollection": 2,
+      "CountInCollection": 4,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -1005,6 +1005,12 @@
     },
     {
       "Name": "Kodiak",
+      "CountInCollection": 2,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Kontio",
       "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0

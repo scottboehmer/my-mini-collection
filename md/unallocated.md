@@ -66,7 +66,7 @@
 | Drillson Heavy Hover Tank | 5 | Fire Horse Galaxy, Fire Horse Galaxy |
 | Elemental Point | 5 | 1st Nova Cat Guards, Cloud Rangers, Cloud Rangers, Dire Wolves, Fire Horse Galaxy, Fire Horse Galaxy, Gyrfalcon Galaxy, Raging Bears, Raging Bears, Shadow Wolves, Spina Khanate, Steel Viper Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
-| Enforcer ENF-4R | 2 | FedCom Brigade |
+| Enforcer ENF-4R | 1 | Charming Crocodiles, FedCom Brigade |
 | Enforcer ENF-5D | 3 | Starlight Stables |
 | Eris ERS-2N | 1 | Marik Militia |
 | Excalibur EXC-B2 | 1 | Com Guards |
@@ -92,7 +92,7 @@
 | Grizzly | 1 | Fire Horse Galaxy, Raging Bears |
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
-| Hammerhead | 1 | Spina Khanate |
+| Hammerhead | 2 | Fire Horse Galaxy, Spina Khanate |
 | Hammerhead (plastic) | 2 |  |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
@@ -113,7 +113,6 @@
 | IS Standard Battle Armor Squad | 7 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
 | J-27 Ordnance Transport | 2 |  |
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
-| Jackalope JLP-BD | 1 | Hastati Sentinels |
 | Jade Hawk JHK-03 | 2 |  |
 | Jade Phoenix A | 1 |  |
 | JagerMech JM6-S | 1 | FedCom Brigade |
@@ -244,5 +243,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 474 | |
+| TOTAL | 473 | |
 

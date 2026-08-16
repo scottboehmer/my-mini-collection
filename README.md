@@ -47,6 +47,7 @@ The simple command line tool I use for managing this repo is in [`scottboehmer/m
 - Marian Hegemony
   - [II Legio Cataphracti](md/ii-legio-cataphracti.md)
 - Mercenaries
+  - [Charming Crocodiles](md/charming-crocodiles.md)
   - [Drake Hunters](md/drake-hunters.md)
   - [Eridani Light Horse](md/eridani-light-horse.md)
   - [Fox Patrol](md/fox-patrol.md)

@@ -62,6 +62,7 @@
 | Grizzly | 1 | Raging Bears |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
+| Hammerhead | 1 | Fire Horse Galaxy |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
 | Havoc HVC-P6 | 2 | Hastati Sentinels, Marik Militia |
@@ -82,6 +83,7 @@
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
+| Kontio | 2 | Death Commandos, Raging Bears |
 | Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
@@ -163,5 +165,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 229 | |
+| TOTAL | 232 | |
 

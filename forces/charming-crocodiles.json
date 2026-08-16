@@ -1,0 +1,14 @@
+{
+  "Name": "Charming Crocodiles",
+  "Faction": "Mercenaries",
+  "Miniatures": [
+    {
+      "Name": "Enforcer ENF-4R",
+      "Painted": true
+    },
+    {
+      "Name": "Jackalope JLP-BD",
+      "Painted": true
+    }
+  ]
+}

@@ -18,4 +18,5 @@
 ## Planned Expansion
 - Grizzly
 - Hunchback HBK-4G
+- Kontio
 - Shadow Hawk IIC

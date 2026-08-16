@@ -14,6 +14,7 @@
 - Blood Asp Prime
 - Elemental Point
 - Gargoyle C
+- Hammerhead
 - Hellbringer Prime
 - Highlander IIC
 - Mad Dog Prime
