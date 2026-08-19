@@ -210,14 +210,14 @@
 | Night Gyr Prime | 3 | 0 | 0 | 2 | 1 |
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
-| Nova Cat Prime | 2 | 0 | 0 | 1 | 1 |
+| Nova Cat Prime | 1 | 0 | 0 | 1 | 1 |
 | Nova Prime | 9 | 0 | 0 | 4 | 2 |
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-3M | 2 | 0 | 0 | 0 | 0 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
-| Ostscout OTT-7J | 2 | 0 | 0 | 2 | 0 |
+| Ostscout OTT-7J | 3 | 0 | 0 | 2 | 0 |
 | Ostsol OTL-4D | 4 | 0 | 0 | 1 | 1 |
 | Ostsol OTL-9R | 2 | 0 | 0 | 0 | 0 |
 | Ostwar OWR-3M | 2 | 0 | 0 | 0 | 0 |

@@ -146,12 +146,12 @@
 | Mobile Long Tom Artillery LT-MOB-25 | 2 |  |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |  |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy, Old Blood and Guts |
-| Nova Cat Prime | 1 | 1st Nova Cat Guards |
 | Nova Prime | 5 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears, Shadow Wolves |
 | Ontos Heavy Tank | 4 | Marik Militia |
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
 | Ostroc OSR-3M | 2 |  |
 | Ostroc OSR-6R | 1 |  |
+| Ostscout OTT-7J | 1 | Com Guards, Marik Militia |
 | Ostsol OTL-4D | 3 | Pirates |
 | Ostsol OTL-9R | 2 |  |
 | Ostwar OWR-3M | 2 |  |
