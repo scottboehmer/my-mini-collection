@@ -120,7 +120,7 @@
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
-| Grizzly | 3 | 0 | 0 | 2 | 1 |
+| Grizzly | 3 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
@@ -170,7 +170,7 @@
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
-| Kontio | 2 | 0 | 0 | 2 | 0 |
+| Kontio | 2 | 0 | 0 | 2 | 1 |
 | Lament LMT-2R | 2 | 0 | 0 | 1 | 0 |
 | Lancelot LNC25-01 | 2 | 0 | 0 | 2 | 2 |
 | Legionnaire LGN-2D | 1 | 0 | 0 | 0 | 0 |
@@ -340,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 475 | 243 |
+| TOTAL | 948 | 0 | 1 | 475 | 245 |
 

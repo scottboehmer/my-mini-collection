@@ -59,7 +59,6 @@
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
-| Grizzly | 1 | Raging Bears |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
 | Hammerhead | 1 | Fire Horse Galaxy |
@@ -83,7 +82,7 @@
 | Jenner JR7-D | 1 | Eridani Light Horse |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
-| Kontio | 2 | Death Commandos, Raging Bears |
+| Kontio | 1 | Death Commandos |
 | Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
@@ -165,5 +164,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 232 | |
+| TOTAL | 230 | |
 

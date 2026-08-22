@@ -6,9 +6,11 @@
 - Executioner Prime
 - Fire Moth D
 - Fire Moth Prime
+- Grizzly
 - Horned Owl
 - Kingfisher Prime
 - Kodiak
+- Kontio
 - Mad Dog Prime
 - Mastodon D
 - Nova Prime
@@ -16,7 +18,5 @@
 - Summoner Prime
 - Viper Prime
 ## Planned Expansion
-- Grizzly
 - Hunchback HBK-4G
-- Kontio
 - Shadow Hawk IIC
