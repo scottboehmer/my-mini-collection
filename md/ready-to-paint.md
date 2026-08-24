@@ -83,7 +83,6 @@
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Kontio | 1 | Death Commandos |
-| Lament LMT-2R | 1 | Hastati Sentinels |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
 | Linebacker Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Locust IIC | 1 | Shadow Wolves |
@@ -164,5 +163,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 230 | |
+| TOTAL | 229 | |
 

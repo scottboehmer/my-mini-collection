@@ -1,12 +1,13 @@
 # Hastati Sentinels
 **Faction:** Republic of the Sphere
+## Current Force
+- Lament LMT-2R
 ## Planned Expansion
 - Atlas II AS7-D-H
 - Awesome AWS-8Q
 - Black Knight BL-6-KNT
 - Havoc HVC-P6
 - Jackalope JLP-BD
-- Lament LMT-2R
 - Legionnaire LGN-2K
 - Malice MAL-XT
 - Marauder II MAD-4A
