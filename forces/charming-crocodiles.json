@@ -9,6 +9,14 @@
     {
       "Name": "Jackalope JLP-BD",
       "Painted": true
+    },
+    {
+      "Name": "Panther PNT-9R",
+      "Painted": false
+    },
+    {
+      "Name": "Shadow Hawk IIC",
+      "Painted": false
     }
   ]
 }

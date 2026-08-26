@@ -222,7 +222,7 @@
 | Ostsol OTL-9R | 2 | 0 | 0 | 0 | 0 |
 | Ostwar OWR-3M | 2 | 0 | 0 | 0 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
-| Panther PNT-9R | 4 | 0 | 0 | 1 | 1 |
+| Panther PNT-9R | 4 | 0 | 0 | 2 | 1 |
 | Patton Tank | 7 | 0 | 0 | 3 | 0 |
 | Peacekeeper PKP-1A | 2 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
@@ -258,7 +258,7 @@
 | Sentinel STN-3L | 2 | 0 | 0 | 2 | 1 |
 | Shadow Cat I | 2 | 0 | 0 | 0 | 0 |
 | Shadow Cat Prime | 4 | 0 | 0 | 3 | 2 |
-| Shadow Hawk IIC | 3 | 0 | 0 | 1 | 0 |
+| Shadow Hawk IIC | 3 | 0 | 0 | 2 | 0 |
 | Shadow Hawk SHD-2H | 5 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
@@ -340,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 475 | 246 |
+| TOTAL | 948 | 0 | 1 | 477 | 246 |
 

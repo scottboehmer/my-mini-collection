@@ -155,7 +155,7 @@
 | Ostsol OTL-4D | 3 | Pirates |
 | Ostsol OTL-9R | 2 |  |
 | Ostwar OWR-3M | 2 |  |
-| Panther PNT-9R | 3 | Ryuken-roku |
+| Panther PNT-9R | 2 | Charming Crocodiles, Ryuken-roku |
 | Patton Tank | 4 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Pegasus Scout Hover Tank | 6 |  |
 | Penetrator PTR-4D | 1 | FedCom Brigade |
@@ -184,7 +184,7 @@
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Shadow Cat I | 2 |  |
 | Shadow Cat Prime | 1 | 1st Nova Cat Guards, Pirates, Spina Khanate |
-| Shadow Hawk IIC | 2 | Raging Bears |
+| Shadow Hawk IIC | 1 | Charming Crocodiles, Raging Bears |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
@@ -243,5 +243,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 473 | |
+| TOTAL | 471 | |
 

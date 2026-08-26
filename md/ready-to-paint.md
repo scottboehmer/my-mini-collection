@@ -110,6 +110,7 @@
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
+| Panther PNT-9R | 1 | Charming Crocodiles |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Peacekeeper PKP-1A | 2 | Hastati Sentinels, Ryuken-roku |
 | Phoenix Hawk IIC | 1 | Jade Tigers |
@@ -126,7 +127,7 @@
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
-| Shadow Hawk IIC | 1 | Raging Bears |
+| Shadow Hawk IIC | 2 | Charming Crocodiles, Raging Bears |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | SM5 Field Commander | 1 | Kell Hounds |
@@ -163,5 +164,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 229 | |
+| TOTAL | 231 | |
 
