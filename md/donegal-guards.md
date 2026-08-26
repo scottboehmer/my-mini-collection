@@ -21,11 +21,13 @@
 - Zeus ZEU-6S
 ## Planned Expansion
 - Axman AXM-2N
+- Devastator DVS-2
 - Falconer FLC-8R
 - Hunchback HBK-4G
 - Manticore Heavy Tank
 - Manticore Heavy Tank
 - Nightsky NGS-4S
+- Scarabus SCB-9A
 - Starslayer STY-3C
 - Sturmfeur Heavy Tank
 - Sturmfeur Heavy Tank

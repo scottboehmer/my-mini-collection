@@ -3,6 +3,7 @@
 | Miniature | Ready to Paint | Forces |
 | :--- | ---: | :--- |
 | Adder Prime | 3 | Fire Horse Galaxy, Old Blood and Guts, Wolf's Dragoons |
+| Akuma AKU-1X | 1 | Ryuken-roku |
 | Annihilator ANH-1A | 2 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R | 1 | Marik Militia |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
@@ -41,6 +42,7 @@
 | Cyclops CP-11-A | 1 | Eridani Light Horse |
 | Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Dervish DV-6M | 1 | FedCom Brigade |
+| Devastator DVS-2 | 1 | Donegal Guards |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
@@ -122,13 +124,17 @@
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman C 2 | 1 | Gyrfalcon Galaxy |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
+| Rokurokubi RK-4T | 1 | Ryuken-roku |
 | Savage Wolf A | 2 | Shadow Wolves, Spina Khanate |
+| Scarabus SCB-9A | 1 | Donegal Guards |
 | Schrek PPC Carrier | 2 | FedCom Brigade, FedCom Brigade |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
 | Sentinel STN-3L | 1 | Hesperus Guards |
 | Shadow Cat Prime | 1 | Spina Khanate |
 | Shadow Hawk IIC | 2 | Charming Crocodiles, Raging Bears |
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion |
+| Shiro SH-1V | 1 | Ryuken-roku |
+| Shockwave SKW-2F | 1 | Marik Militia |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | SM5 Field Commander | 1 | Kell Hounds |
 | Sojourner B | 1 | Dire Wolves |
@@ -151,6 +157,7 @@
 | UrbanMech UM-R27 | 1 | Kell Hounds |
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
+| Venom SDR-9K | 1 | Ryuken-roku |
 | Vindicator VND-1R | 1 | Drake Hunters |
 | War Crow A | 1 | Swift Wings |
 | War Crow Prime | 1 | Swift Wings |
@@ -158,11 +165,12 @@
 | Warhammer WHM-9K | 1 | Ryuken-roku |
 | Wasp WSP-3W | 1 | Wolf's Dragoons |
 | Wendigo Prime | 1 | 1st Nova Cat Guards |
+| Whitworth WTH-1 | 1 | Ryuken-roku |
 | Wolfhound WLF-1 | 2 | Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 2 | Gray Death Legion, Kell Hounds |
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 231 | |
+| TOTAL | 239 | |
 

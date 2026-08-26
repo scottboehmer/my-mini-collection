@@ -31,3 +31,4 @@
 - LRM Carrier
 - LRM Carrier
 - Ostscout OTT-7J
+- Shockwave SKW-2F

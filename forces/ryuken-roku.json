@@ -3,6 +3,10 @@
   "Faction": "Draconis Combine",
   "Miniatures": [
     {
+      "Name": "Akuma AKU-1X",
+      "Painted": false
+    },
+    {
       "Name": "Archer ARC-5R",
       "Painted": true
     },
@@ -119,11 +123,27 @@
       "Painted": false
     },
     {
+      "Name": "Rokurokubi RK-4T",
+      "Painted": false
+    },
+    {
+      "Name": "Shiro SH-1V",
+      "Painted": false
+    },
+    {
       "Name": "Spider SDR-5V",
       "Painted": true
     },
     {
+      "Name": "Venom SDR-9K",
+      "Painted": false
+    },
+    {
       "Name": "Warhammer WHM-9K",
+      "Painted": false
+    },
+    {
+      "Name": "Whitworth WTH-1",
       "Painted": false
     },
     {

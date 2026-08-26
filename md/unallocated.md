@@ -2,7 +2,6 @@
 
 | Miniature | Unallocated | Existing Allocations |
 | :--- | ---: | :--- |
-| Akuma AKU-1X | 1 |  |
 | Annihilator ANH-1A | 1 | Dire Wolves, Wolf's Dragoons |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 2 | Wolf's Dragoons |
@@ -57,7 +56,7 @@
 | Cyclops CP-11-H | 1 | II Legio Cataphracti |
 | Demolisher Heavy Tank | 7 |  |
 | Dervish DV-6M | 1 | FedCom Brigade |
-| Devastator DVS-2 | 6 | FedCom Brigade |
+| Devastator DVS-2 | 5 | Donegal Guards, FedCom Brigade |
 | Dire Wolf Prime | 1 | Cloud Rangers, Shadow Wolves |
 | Dire Wolf Prime (damaged) | 1 |  |
 | Dire Wolf Prometheus | 2 |  |
@@ -173,12 +172,11 @@
 | Rifleman IIC | 2 |  |
 | Rifleman RFL-3N | 4 | Gray Death Legion, Marik Militia, Tamar Jaegers, Wolf's Dragoons |
 | Rifleman RFL-3N Legend-Killer | 1 | Independents |
-| Rokurokubi RK-4T | 1 |  |
 | Sagittaire SGT-8R | 1 | FedCom Brigade |
 | Savage Wolf Prime | 1 |  |
 | Savannah Master Hovercraft | 8 |  |
 | Savior Repair Vehicle | 2 |  |
-| Scarabus SCB-9A | 2 |  |
+| Scarabus SCB-9A | 1 | Donegal Guards |
 | Schrek PPC Carrier | 6 | FedCom Brigade, FedCom Brigade |
 | Scorpion (Gothic) | 1 |  |
 | Scorpion SCP-1N | 1 | 1st Canopian Cuirassiers |
@@ -188,8 +186,7 @@
 | Shadow Hawk SHD-2H | 2 | Drake Hunters, Gray Death Legion, Marik Militia |
 | Shadow Hawk SHD-7H (Jumping) | 2 |  |
 | Shilone SL-17 | 2 |  |
-| Shiro SH-1V | 1 |  |
-| Shockwave SKW-2F | 2 |  |
+| Shockwave SKW-2F | 1 | Marik Militia |
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | Skulker Wheeled Scout Tank | 5 |  |
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
@@ -221,7 +218,6 @@
 | UrbanMech UM-R68 | 1 |  |
 | Vapor Eagle | 1 | Steel Viper Galaxy |
 | Vedette Medium Tank | 6 |  |
-| Venom SDR-9K | 1 |  |
 | Victor VTR-9B | 2 | 4th McCarron's Armored Cavalry |
 | Vindicator VND-1R | 1 | 4th McCarron's Armored Cavalry, Drake Hunters |
 | Viper Prime | 1 | Raging Bears, Steel Viper Galaxy |
@@ -238,10 +234,10 @@
 | Wasp WSP-1A | 3 | 1st Canopian Cuirassiers, 4th McCarron's Armored Cavalry |
 | Wasp WSP-3W | 2 | Wolf's Dragoons |
 | Wendigo Prime | 1 | 1st Nova Cat Guards |
-| Whitworth WTH-1 | 2 |  |
+| Whitworth WTH-1 | 1 | Ryuken-roku |
 | Wolfhound WLF-1 | 1 | Donegal Guards, FedCom Brigade, Kell Hounds, Kell Hounds, Wolf's Dragoons |
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 471 | |
+| TOTAL | 463 | |
 

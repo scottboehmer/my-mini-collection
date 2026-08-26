@@ -3,7 +3,7 @@
 | Miniature | In Collection | Pending Order | Wishlist | Allocated | Painted |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | Adder Prime | 6 | 0 | 0 | 6 | 3 |
-| Akuma AKU-1X | 1 | 0 | 0 | 0 | 0 |
+| Akuma AKU-1X | 1 | 0 | 0 | 1 | 0 |
 | Annihilator ANH-1A | 3 | 0 | 0 | 2 | 0 |
 | Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
@@ -76,7 +76,7 @@
 | Cyclops CP-11-H | 2 | 0 | 0 | 1 | 0 |
 | Demolisher Heavy Tank | 7 | 0 | 0 | 0 | 0 |
 | Dervish DV-6M | 2 | 0 | 0 | 1 | 0 |
-| Devastator DVS-2 | 7 | 0 | 0 | 1 | 1 |
+| Devastator DVS-2 | 7 | 0 | 0 | 2 | 1 |
 | Dire Wolf Prime | 3 | 0 | 0 | 2 | 2 |
 | Dire Wolf Prime (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Dire Wolf Prometheus | 2 | 0 | 0 | 0 | 0 |
@@ -245,13 +245,13 @@
 | Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
-| Rokurokubi RK-4T | 1 | 0 | 0 | 0 | 0 |
+| Rokurokubi RK-4T | 1 | 0 | 0 | 1 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savage Wolf A | 2 | 0 | 0 | 2 | 0 |
 | Savage Wolf Prime | 1 | 0 | 0 | 0 | 0 |
 | Savannah Master Hovercraft | 8 | 0 | 0 | 0 | 0 |
 | Savior Repair Vehicle | 2 | 0 | 0 | 0 | 0 |
-| Scarabus SCB-9A | 2 | 0 | 0 | 0 | 0 |
+| Scarabus SCB-9A | 2 | 0 | 0 | 1 | 0 |
 | Schrek PPC Carrier | 8 | 0 | 0 | 2 | 0 |
 | Scorpion (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Scorpion SCP-1N | 2 | 0 | 0 | 1 | 0 |
@@ -262,8 +262,8 @@
 | Shadow Hawk SHD-2H | 5 | 0 | 0 | 3 | 1 |
 | Shadow Hawk SHD-7H (Jumping) | 2 | 0 | 0 | 0 | 0 |
 | Shilone SL-17 | 2 | 0 | 0 | 0 | 0 |
-| Shiro SH-1V | 1 | 0 | 0 | 0 | 0 |
-| Shockwave SKW-2F | 2 | 0 | 0 | 0 | 0 |
+| Shiro SH-1V | 1 | 0 | 0 | 1 | 0 |
+| Shockwave SKW-2F | 2 | 0 | 0 | 1 | 0 |
 | Shogun SHG-2F | 2 | 0 | 0 | 1 | 0 |
 | Skulker Wheeled Scout Tank | 5 | 0 | 0 | 0 | 0 |
 | SM5 Field Commander | 1 | 0 | 0 | 1 | 0 |
@@ -313,7 +313,7 @@
 | Valkyrie VLK-QA | 2 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 2 | 0 | 0 | 1 | 1 |
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
-| Venom SDR-9K | 1 | 0 | 0 | 0 | 0 |
+| Venom SDR-9K | 1 | 0 | 0 | 1 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
 | Vindicator VND-1R | 3 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
@@ -332,7 +332,7 @@
 | Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Wendigo Prime | 2 | 0 | 0 | 1 | 0 |
-| Whitworth WTH-1 | 2 | 0 | 0 | 0 | 0 |
+| Whitworth WTH-1 | 2 | 0 | 0 | 1 | 0 |
 | Wolfhound IIC | 1 | 0 | 0 | 1 | 1 |
 | Wolfhound WLF-1 | 6 | 0 | 0 | 5 | 3 |
 | Wolfhound WLF-2 (kneeling) | 2 | 0 | 0 | 1 | 0 |
@@ -340,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 477 | 246 |
+| TOTAL | 948 | 0 | 1 | 485 | 246 |
 

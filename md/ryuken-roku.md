@@ -20,6 +20,7 @@
 - Spider SDR-5V
 - Wolverine WVR-6R
 ## Planned Expansion
+- Akuma AKU-1X
 - Arctic Cheetah Prime
 - Bulldog Medium Tank
 - Bulldog Medium Tank
@@ -33,4 +34,8 @@
 - Mauler MAL-1R
 - Peacekeeper PKP-1A
 - Phoenix Hawk PXH-1
+- Rokurokubi RK-4T
+- Shiro SH-1V
+- Venom SDR-9K
 - Warhammer WHM-9K
+- Whitworth WTH-1
