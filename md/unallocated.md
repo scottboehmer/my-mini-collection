@@ -91,8 +91,7 @@
 | Grizzly | 1 | Fire Horse Galaxy, Raging Bears |
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
-| Hammerhead | 2 | Fire Horse Galaxy, Spina Khanate |
-| Hammerhead (plastic) | 2 |  |
+| Hammerhead | 4 | Fire Horse Galaxy, Spina Khanate |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-6D | 1 | FedCom Brigade |
 | Helios HEL-3D | 2 |  |

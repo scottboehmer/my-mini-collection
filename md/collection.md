@@ -125,8 +125,7 @@
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Gunsmith CH11-NG | 2 | 0 | 0 | 0 | 0 |
-| Hammerhead | 4 | 0 | 0 | 2 | 1 |
-| Hammerhead (plastic) | 2 | 0 | 0 | 0 | 0 |
+| Hammerhead | 6 | 0 | 0 | 2 | 1 |
 | Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
