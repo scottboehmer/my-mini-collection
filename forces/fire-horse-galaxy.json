@@ -40,7 +40,7 @@
     },
     {
       "Name": "Hammerhead",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Hel Prime",
@@ -60,11 +60,11 @@
     },
     {
       "Name": "Mad Dog Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Nova Prime",
-      "Painted": false
+      "Painted": true
     },
     {
       "Name": "Phoenix Hawk IIC",

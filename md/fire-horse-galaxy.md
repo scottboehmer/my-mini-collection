@@ -6,16 +6,16 @@
 - Drillson Heavy Hover Tank
 - Elemental Point
 - Grizzly
+- Hammerhead
 - Hel Prime
 - Ice Ferret Prime
+- Mad Dog Prime
+- Nova Prime
 - Phoenix Hawk IIC
 ## Planned Expansion
 - Adder Prime
 - Blood Asp Prime
 - Elemental Point
 - Gargoyle C
-- Hammerhead
 - Hellbringer Prime
 - Highlander IIC
-- Mad Dog Prime
-- Nova Prime

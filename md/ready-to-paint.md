@@ -63,7 +63,6 @@
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
-| Hammerhead | 1 | Fire Horse Galaxy |
 | Hatamoto-Chi HTM-27T | 1 | Ryuken-roku |
 | Hatchetman HCT-3F | 2 | Gray Death Legion, Hesperus Guards |
 | Havoc HVC-P6 | 2 | Hastati Sentinels, Marik Militia |
@@ -93,7 +92,7 @@
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | LRM Carrier | 2 | Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
-| Mad Dog Prime | 2 | Fire Horse Galaxy, Swift Wings |
+| Mad Dog Prime | 1 | Swift Wings |
 | Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 2 | Donegal Guards, Donegal Guards |
 | Marauder II MAD-4A | 2 | Hastati Sentinels, Wolf's Dragoons |
@@ -108,7 +107,7 @@
 | Mongoose MON-66 | 1 | Eridani Light Horse |
 | Night Gyr Prime | 1 | Old Blood and Guts |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
-| Nova Prime | 2 | Fire Horse Galaxy, Old Blood and Guts |
+| Nova Prime | 1 | Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
@@ -172,5 +171,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 239 | |
+| TOTAL | 236 | |
 

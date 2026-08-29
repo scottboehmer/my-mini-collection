@@ -125,7 +125,7 @@
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
 | Gunsmith CH11-NG | 2 | 0 | 0 | 0 | 0 |
-| Hammerhead | 6 | 0 | 0 | 2 | 1 |
+| Hammerhead | 6 | 0 | 0 | 2 | 2 |
 | Hatamoto-Chi HTM-27T | 2 | 0 | 0 | 1 | 0 |
 | Hatchetman HCT-3F | 3 | 0 | 0 | 3 | 1 |
 | Hatchetman HCT-6D | 2 | 0 | 0 | 1 | 1 |
@@ -183,7 +183,7 @@
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
 | LRM Carrier | 7 | 0 | 0 | 2 | 0 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
-| Mad Dog Prime | 4 | 0 | 0 | 4 | 2 |
+| Mad Dog Prime | 4 | 0 | 0 | 4 | 3 |
 | Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
 | Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
 | Marauder (Gothic) | 1 | 0 | 0 | 0 | 0 |
@@ -210,7 +210,7 @@
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
 | Nova Cat Prime | 1 | 0 | 0 | 1 | 1 |
-| Nova Prime | 9 | 0 | 0 | 4 | 2 |
+| Nova Prime | 9 | 0 | 0 | 4 | 3 |
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
@@ -339,5 +339,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 485 | 246 |
+| TOTAL | 948 | 0 | 1 | 485 | 249 |
 
