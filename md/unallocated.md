@@ -41,7 +41,7 @@
 | Centurion CN9-A | 1 | Drake Hunters, FedCom Brigade, II Legio Cataphracti |
 | Centurion CN9-YLW Yen-Lo-Wang | 1 | Teng Stables |
 | Chameleon CLN-7V | 2 |  |
-| Charger CGR-1A1 | 1 |  |
+| Charger CGR-1A1 | 2 |  |
 | Chimera CMA-1S | 1 |  |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 2 | Northwind Highlanders |
@@ -238,5 +238,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 463 | |
+| TOTAL | 464 | |
 

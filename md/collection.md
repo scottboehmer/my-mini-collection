@@ -55,7 +55,7 @@
 | Centurion CN9-A | 4 | 0 | 0 | 3 | 2 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
-| Charger CGR-1A1 | 1 | 0 | 0 | 0 | 0 |
+| Charger CGR-1A1 | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Chimera CMA-1S | 1 | 0 | 0 | 0 | 0 |
 | Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
@@ -339,5 +339,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 485 | 249 |
+| TOTAL | 949 | 0 | 1 | 485 | 249 |
 
