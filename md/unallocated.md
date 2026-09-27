@@ -108,7 +108,7 @@
 | Huntsman Prime | 1 | 1st Nova Cat Guards |
 | Hybrid Rifleman | 2 |  |
 | Incubus | 2 |  |
-| IS Standard Battle Armor Squad | 7 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
+| IS Standard Battle Armor Squad | 4 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
 | J-27 Ordnance Transport | 2 |  |
 | J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
 | Jade Hawk JHK-03 | 2 |  |
@@ -126,7 +126,7 @@
 | Locust IIC | 1 | Shadow Wolves |
 | Locust LCT-1V | 1 | Drake Hunters, Fox Patrol, Gray Death Legion, Marik Militia |
 | Locust LCT-3M | 2 | Eridani Light Horse |
-| LRM Carrier | 5 | Marik Militia, Marik Militia |
+| LRM Carrier | 3 | Com Guards, Com Guards, Marik Militia, Marik Militia |
 | Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 4 | Donegal Guards, Donegal Guards |
 | Marauder (Gothic) | 1 |  |
@@ -238,5 +238,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 464 | |
+| TOTAL | 459 | |
 

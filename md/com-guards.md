@@ -18,7 +18,11 @@
 - Thug THG-11E
 ## Planned Expansion
 - Excalibur EXC-B2
+- IS Standard Battle Armor Squad (Sqd6)
+- IS Standard Battle Armor Squad (Sqd6)
 - Kintaro KTO-20
+- LRM Carrier
+- LRM Carrier
 - Ostscout OTT-7J
 - Pike Support Vehicle
 - Pike Support Vehicle

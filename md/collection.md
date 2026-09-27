@@ -152,7 +152,8 @@
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
 | Ice Ferret Prime | 4 | 0 | 0 | 4 | 3 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
-| IS Standard Battle Armor Squad | 16 | 0 | 0 | 9 | 5 |
+| IS Standard Battle Armor Squad | 13 | 0 | 0 | 9 | 5 |
+| IS Standard Battle Armor Squad (Sqd6) | 2 | 0 | 0 | 2 | 0 |
 | J-27 Ordnance Transport | 2 | 0 | 0 | 0 | 0 |
 | J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
 | Jackalope JLP-BD | 2 | 0 | 0 | 2 | 1 |
@@ -181,7 +182,7 @@
 | Locust LCT-1V | 5 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
-| LRM Carrier | 7 | 0 | 0 | 2 | 0 |
+| LRM Carrier | 7 | 0 | 0 | 4 | 0 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 3 |
 | Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
@@ -339,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 949 | 0 | 1 | 485 | 249 |
+| TOTAL | 948 | 0 | 1 | 489 | 249 |
 

@@ -903,7 +903,13 @@
     },
     {
       "Name": "IS Standard Battle Armor Squad",
-      "CountInCollection": 16,
+      "CountInCollection": 13,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "IS Standard Battle Armor Squad (Sqd6)",
+      "CountInCollection": 2,
       "PendingCount": 0,
       "WishlistCount": 0
     },
