@@ -78,7 +78,6 @@
 | Icarus II ICR-1S | 1 | Marik Militia |
 | Ice Ferret Prime | 1 | Dire Wolves |
 | IS Standard Battle Armor Squad | 4 | Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards |
-| IS Standard Battle Armor Squad (Sqd6) | 2 | Com Guards, Com Guards |
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
@@ -171,5 +170,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 238 | |
+| TOTAL | 236 | |
 

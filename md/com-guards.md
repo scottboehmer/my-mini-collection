@@ -8,6 +8,8 @@
 - Exterminator EXT-4D
 - Flashman FLS-8K
 - Guillotine GLT-3N
+- IS Standard Battle Armor Squad (Sqd6)
+- IS Standard Battle Armor Squad (Sqd6)
 - King Crab KGC-000
 - Lancelot LNC25-01
 - Mercury MCY-99
@@ -18,8 +20,6 @@
 - Thug THG-11E
 ## Planned Expansion
 - Excalibur EXC-B2
-- IS Standard Battle Armor Squad (Sqd6)
-- IS Standard Battle Armor Squad (Sqd6)
 - Kintaro KTO-20
 - LRM Carrier
 - LRM Carrier
