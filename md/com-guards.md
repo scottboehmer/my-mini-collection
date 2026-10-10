@@ -12,6 +12,8 @@
 - IS Standard Battle Armor Squad (Sqd6)
 - King Crab KGC-000
 - Lancelot LNC25-01
+- LRM Carrier
+- LRM Carrier
 - Mercury MCY-99
 - Mercury MCY-99
 - Mongoose MON-66
@@ -21,8 +23,6 @@
 ## Planned Expansion
 - Excalibur EXC-B2
 - Kintaro KTO-20
-- LRM Carrier
-- LRM Carrier
 - Ostscout OTT-7J
 - Pike Support Vehicle
 - Pike Support Vehicle

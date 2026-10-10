@@ -182,7 +182,7 @@
 | Locust LCT-1V | 5 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
-| LRM Carrier | 7 | 0 | 0 | 4 | 0 |
+| LRM Carrier | 7 | 0 | 0 | 4 | 2 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 3 |
 | Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
@@ -340,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 489 | 253 |
+| TOTAL | 948 | 0 | 1 | 489 | 255 |
 

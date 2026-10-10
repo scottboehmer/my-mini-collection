@@ -90,7 +90,7 @@
 | Locust IIC 4 | 1 | Gyrfalcon Galaxy |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
-| LRM Carrier | 4 | Com Guards, Com Guards, Marik Militia, Marik Militia |
+| LRM Carrier | 2 | Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Dog Prime | 1 | Swift Wings |
 | Malice MAL-XT | 1 | Hastati Sentinels |
@@ -170,5 +170,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 236 | |
+| TOTAL | 234 | |
 
