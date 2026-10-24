@@ -47,7 +47,6 @@
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
-| Excalibur EXC-B2 | 1 | Com Guards |
 | Falconer FLC-8R | 2 | Donegal Guards, FedCom Brigade |
 | Firebee FRB-2E | 1 | Death Commandos |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
@@ -81,7 +80,6 @@
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
-| Kintaro KTO-20 | 1 | Com Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Kontio | 1 | Death Commandos |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
@@ -109,7 +107,7 @@
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Prime | 1 | Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
-| Ostscout OTT-7J | 2 | Com Guards, Marik Militia |
+| Ostscout OTT-7J | 1 | Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Peacekeeper PKP-1A | 2 | Hastati Sentinels, Ryuken-roku |
@@ -170,5 +168,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 234 | |
+| TOTAL | 231 | |
 

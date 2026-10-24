@@ -92,7 +92,7 @@
 | Enforcer ENF-4R | 3 | 0 | 0 | 2 | 2 |
 | Enforcer ENF-5D | 4 | 0 | 0 | 1 | 1 |
 | Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
-| Excalibur EXC-B2 | 2 | 0 | 0 | 1 | 0 |
+| Excalibur EXC-B2 | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
 | Falconer FLC-8R | 2 | 0 | 0 | 2 | 0 |
@@ -167,7 +167,7 @@
 | King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
-| Kintaro KTO-20 | 2 | 0 | 0 | 1 | 0 |
+| Kintaro KTO-20 | 2 | 0 | 0 | 1 | 1 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
 | Kodiak | 2 | 0 | 0 | 1 | 1 |
 | Kontio | 2 | 0 | 0 | 2 | 1 |
@@ -217,7 +217,7 @@
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
 | Ostroc OSR-3M | 2 | 0 | 0 | 0 | 0 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
-| Ostscout OTT-7J | 3 | 0 | 0 | 2 | 0 |
+| Ostscout OTT-7J | 3 | 0 | 0 | 2 | 1 |
 | Ostsol OTL-4D | 4 | 0 | 0 | 1 | 1 |
 | Ostsol OTL-9R | 2 | 0 | 0 | 0 | 0 |
 | Ostwar OWR-3M | 2 | 0 | 0 | 0 | 0 |
@@ -340,5 +340,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 489 | 255 |
+| TOTAL | 948 | 0 | 1 | 489 | 258 |
 
