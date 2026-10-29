@@ -3,6 +3,10 @@
   "Faction": "Clan Ghost Bear",
   "Miniatures": [
     {
+      "Name": "Arctic Cheetah A",
+      "Painted": false
+    },
+    {
       "Name": "Elemental Point",
       "Painted": true
     },
@@ -21,6 +25,10 @@
     {
       "Name": "Fire Moth Prime",
       "Painted": true
+    },
+    {
+      "Name": "Grendel A",
+      "Painted": false
     },
     {
       "Name": "Grizzly",
@@ -55,8 +63,16 @@
       "Painted": true
     },
     {
+      "Name": "Nova Cat B",
+      "Painted": false
+    },
+    {
       "Name": "Nova Prime",
       "Painted": true
+    },
+    {
+      "Name": "Rime Otter Prime",
+      "Painted": false
     },
     {
       "Name": "Shadow Hawk IIC",
@@ -69,6 +85,10 @@
     {
       "Name": "Summoner Prime",
       "Painted": true
+    },
+    {
+      "Name": "Viking IIC",
+      "Painted": false
     },
     {
       "Name": "Viper Prime",

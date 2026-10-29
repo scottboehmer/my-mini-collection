@@ -71,6 +71,7 @@
 | Excalibur EXC-B2 | 1 | Com Guards |
 | Exterminator EXT-4D | 1 | Com Guards |
 | Fire Moth D | 2 | Raging Bears |
+| Fire Moth G | 1 |  |
 | Fire Moth Prime | 1 | Raging Bears |
 | Firefly FFL-4C | 2 | 1st Canopian Cuirassiers, Wolf's Dragoons |
 | Firestarter (Gothic) | 1 |  |
@@ -89,6 +90,7 @@
 | Griffin GRF-2N | 2 |  |
 | Griffin IIC | 1 | 1st Nova Cat Guards |
 | Grizzly | 1 | Fire Horse Galaxy, Raging Bears |
+| Grizzly 3 | 1 |  |
 | Gunslinger GUN-1ERD | 1 | Northwind Highlanders, Ryuken-roku |
 | Gunsmith CH11-NG | 2 |  |
 | Hammerhead | 4 | Fire Horse Galaxy, Spina Khanate |
@@ -119,6 +121,7 @@
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
 | King Crab (Gothic) | 1 |  |
 | King Crab KGC-000 | 1 | Com Guards |
+| Kingfisher C | 1 |  |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
 | Lament LMT-2R | 1 | Hastati Sentinels |
@@ -238,5 +241,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 459 | |
+| TOTAL | 462 | |
 

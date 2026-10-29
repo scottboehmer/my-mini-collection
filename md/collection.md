@@ -9,6 +9,7 @@
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
 | Archer ARC-5R | 3 | 0 | 0 | 1 | 1 |
+| Arctic Cheetah A | 1 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
 | Argus AGS-4D | 2 | 0 | 0 | 1 | 0 |
 | Assassin ASN-23 | 1 | 0 | 0 | 0 | 0 |
@@ -98,6 +99,7 @@
 | Falconer FLC-8R | 2 | 0 | 0 | 2 | 0 |
 | Fire Falcon Prime | 2 | 0 | 0 | 2 | 2 |
 | Fire Moth D | 3 | 0 | 0 | 1 | 1 |
+| Fire Moth G | 1 | 0 | 0 | 0 | 0 |
 | Fire Moth Prime | 2 | 0 | 0 | 1 | 1 |
 | Firebee FRB-2E | 1 | 0 | 0 | 1 | 0 |
 | Firefly FFL-4C | 4 | 0 | 0 | 2 | 0 |
@@ -115,12 +117,14 @@
 | Grand Dragon DRG-10K | 1 | 0 | 0 | 0 | 0 |
 | Grasshopper GHR-5H | 3 | 0 | 0 | 2 | 1 |
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
+| Grendel A | 1 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
 | Grizzly | 3 | 0 | 0 | 2 | 2 |
+| Grizzly 3 | 1 | 0 | 0 | 0 | 0 |
 | Guillotine GLT-3N | 2 | 0 | 0 | 2 | 2 |
 | Guillotine GLT-3N (jumping) | 1 | 0 | 0 | 1 | 0 |
 | Gunslinger GUN-1ERD | 3 | 0 | 0 | 2 | 1 |
@@ -166,6 +170,7 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
+| Kingfisher C | 1 | 0 | 0 | 0 | 0 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 1 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
@@ -210,6 +215,7 @@
 | Night Gyr Prime | 3 | 0 | 0 | 2 | 1 |
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
 | Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
+| Nova Cat B | 1 | 0 | 0 | 1 | 0 |
 | Nova Cat Prime | 1 | 0 | 0 | 1 | 1 |
 | Nova Prime | 9 | 0 | 0 | 4 | 3 |
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
@@ -245,6 +251,7 @@
 | Rifleman IIC | 2 | 0 | 0 | 0 | 0 |
 | Rifleman RFL-3N | 8 | 0 | 0 | 4 | 1 |
 | Rifleman RFL-3N Legend-Killer | 2 | 0 | 0 | 1 | 1 |
+| Rime Otter Prime | 1 | 0 | 0 | 1 | 0 |
 | Rokurokubi RK-4T | 1 | 0 | 0 | 1 | 0 |
 | Sagittaire SGT-8R | 2 | 0 | 0 | 1 | 1 |
 | Savage Wolf A | 2 | 0 | 0 | 2 | 0 |
@@ -268,7 +275,7 @@
 | Skulker Wheeled Scout Tank | 5 | 0 | 0 | 0 | 0 |
 | SM5 Field Commander | 1 | 0 | 0 | 1 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
-| Sojourner Prime | 1 | 0 | 1 | 1 | 1 |
+| Sojourner Prime | 1 | 0 | 0 | 1 | 1 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spector SPR-5F | 2 | 0 | 0 | 1 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
@@ -315,6 +322,7 @@
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
 | Venom SDR-9K | 1 | 0 | 0 | 1 | 0 |
 | Victor VTR-9B | 3 | 0 | 0 | 1 | 1 |
+| Viking IIC | 1 | 0 | 0 | 1 | 0 |
 | Vindicator VND-1R | 3 | 0 | 0 | 2 | 1 |
 | Viper Prime | 3 | 0 | 0 | 2 | 2 |
 | Visigoth Prime | 2 | 0 | 0 | 0 | 0 |
@@ -340,5 +348,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 948 | 0 | 1 | 489 | 258 |
+| TOTAL | 956 | 0 | 0 | 494 | 258 |
 

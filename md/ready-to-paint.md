@@ -8,6 +8,7 @@
 | Archer ARC-2R | 1 | Marik Militia |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
+| Arctic Cheetah A | 1 | Raging Bears |
 | Arctic Cheetah Prime | 1 | Ryuken-roku |
 | Argus AGS-4D | 1 | FedCom Brigade |
 | Atlas AS7-D | 1 | Marik Militia |
@@ -57,6 +58,7 @@
 | Gargoyle Prime | 2 | Dire Wolves, Wolf's Dragoons |
 | Goliath GOL-1H | 1 | Marik Militia |
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
+| Grendel A | 1 | Raging Bears |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 1 | Fox Patrol |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
@@ -105,6 +107,7 @@
 | Mongoose MON-66 | 1 | Eridani Light Horse |
 | Night Gyr Prime | 1 | Old Blood and Guts |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
+| Nova Cat B | 1 | Raging Bears |
 | Nova Prime | 1 | Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 1 | Marik Militia |
@@ -120,6 +123,7 @@
 | Raven RVN-3L | 1 | Death Commandos |
 | Rifleman C 2 | 1 | Gyrfalcon Galaxy |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
+| Rime Otter Prime | 1 | Raging Bears |
 | Rokurokubi RK-4T | 1 | Ryuken-roku |
 | Savage Wolf A | 2 | Shadow Wolves, Spina Khanate |
 | Scarabus SCB-9A | 1 | Donegal Guards |
@@ -154,6 +158,7 @@
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
 | Venom SDR-9K | 1 | Ryuken-roku |
+| Viking IIC | 1 | Raging Bears |
 | Vindicator VND-1R | 1 | Drake Hunters |
 | War Crow A | 1 | Swift Wings |
 | War Crow Prime | 1 | Swift Wings |
@@ -168,5 +173,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 231 | |
+| TOTAL | 236 | |
 

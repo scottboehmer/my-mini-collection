@@ -18,5 +18,10 @@
 - Summoner Prime
 - Viper Prime
 ## Planned Expansion
+- Arctic Cheetah A
+- Grendel A
 - Hunchback HBK-4G
+- Nova Cat B
+- Rime Otter Prime
 - Shadow Hawk IIC
+- Viking IIC
