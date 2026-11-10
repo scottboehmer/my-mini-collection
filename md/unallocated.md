@@ -17,7 +17,7 @@
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
 | Awesome AWS-9Q (IWM) | 1 |  |
-| Axman AXM-1N | 1 | FedCom Brigade |
+| Axman AXM-1N | 2 | FedCom Brigade |
 | Axman AXM-2N | 1 | Donegal Guards |
 | Banshee BNC-3S | 2 | 1st Canopian Cuirassiers, Donegal Guards, Hesperus Guards |
 | BattleAxe BKX-7K | 1 |  |
@@ -32,10 +32,10 @@
 | Blackjack BJ-3 | 2 | Tandrek Stables |
 | Blood Asp I | 2 |  |
 | Bulldog Medium Tank | 4 | Ryuken-roku, Ryuken-roku |
-| Bushwacker BSW-X1 | 2 | Donegal Guards, FedCom Brigade |
+| Bushwacker BSW-X1 | 3 | Donegal Guards, FedCom Brigade |
 | Caesar CES-3R | 2 | FedCom Brigade, Pirates |
 | Caesar CES-3R Archangel | 1 |  |
-| Cataphract CTF-1X | 2 | 4th McCarron's Armored Cavalry |
+| Cataphract CTF-1X | 3 | 4th McCarron's Armored Cavalry |
 | Catapult CPLT-C1 | 3 | 4th McCarron's Armored Cavalry, FedCom Brigade |
 | Catapult CPLT-K2K | 1 |  |
 | Centurion CN9-A | 1 | Drake Hunters, FedCom Brigade, II Legio Cataphracti |
@@ -43,10 +43,10 @@
 | Chameleon CLN-7V | 2 |  |
 | Charger CGR-1A1 | 2 |  |
 | Chimera CMA-1S | 1 |  |
-| Cicada CDA-2A | 1 | Marik Militia |
+| Cicada CDA-2A | 2 | Marik Militia |
 | Clint CLNT-2-3T | 2 | Northwind Highlanders |
 | Commando COM-2D | 2 | Donegal Guards, Eridani Light Horse, FedCom Brigade |
-| Condor Heavy Hover Tank | 6 | Tamar Jaegers, Tamar Jaegers |
+| Condor Heavy Hover Tank | 7 | Tamar Jaegers, Tamar Jaegers |
 | Conjurer | 1 | Shadow Wolves |
 | Coolant Truck 135-K | 2 |  |
 | Crockett CRK-5003-1 | 2 | Ryuken-roku |
@@ -109,10 +109,11 @@
 | Howler | 1 | Gyrfalcon Galaxy |
 | Huntsman Prime | 1 | 1st Nova Cat Guards |
 | Hybrid Rifleman | 2 |  |
+| Ice Ferret Prime | 1 | Dire Wolves, Donegal Guards, Fire Horse Galaxy, Shadow Wolves |
 | Incubus | 2 |  |
 | IS Standard Battle Armor Squad | 4 | 4th McCarron's Armored Cavalry, Donegal Guards, FedCom Brigade, Gray Death Legion, Gray Death Legion, Hesperus Guards, Hesperus Guards, Marik Militia, Ryuken-roku |
 | J-27 Ordnance Transport | 2 |  |
-| J. Edgar Light Hover Tank | 5 | Ryuken-roku, Ryuken-roku |
+| J. Edgar Light Hover Tank | 6 | Ryuken-roku, Ryuken-roku |
 | Jade Hawk JHK-03 | 2 |  |
 | Jade Phoenix A | 1 |  |
 | JagerMech JM6-S | 1 | FedCom Brigade |
@@ -147,6 +148,7 @@
 | Mobile Long Tom Artillery LT-MOB-25 | 2 |  |
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |  |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy, Old Blood and Guts |
+| Nightstar NSR-9J | 1 | Donegal Guards, FedCom Brigade |
 | Nova Prime | 5 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears, Shadow Wolves |
 | Ontos Heavy Tank | 4 | Marik Militia |
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
@@ -195,7 +197,7 @@
 | SRM Carrier | 8 |  |
 | Stalker STK-3F | 2 | Marik Militia, Wolf's Dragoons |
 | Stalker STK-8S | 2 |  |
-| Starslayer STY-3C | 1 | Donegal Guards, Jade Tigers |
+| Starslayer STY-3C | 2 | Donegal Guards, Jade Tigers |
 | Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stinger STG-3R | 1 | FedCom Brigade, Marik Militia |
 | Stone Rhino | 1 | Cloud Rangers |
@@ -233,7 +235,7 @@
 | Warhawk C | 2 | Dire Wolves |
 | Warhawk Prime | 1 | Cloud Rangers |
 | Warrior Attack Helicopter H-7 | 5 |  |
-| Wasp WSP-1A | 3 | 1st Canopian Cuirassiers, 4th McCarron's Armored Cavalry |
+| Wasp WSP-1A | 4 | 1st Canopian Cuirassiers, 4th McCarron's Armored Cavalry |
 | Wasp WSP-3W | 2 | Wolf's Dragoons |
 | Wendigo Prime | 1 | 1st Nova Cat Guards |
 | Whitworth WTH-1 | 1 | Ryuken-roku |
@@ -241,5 +243,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 462 | |
+| TOTAL | 472 | |
 

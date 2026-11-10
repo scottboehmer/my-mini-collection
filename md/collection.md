@@ -24,7 +24,7 @@
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q (IWM) | 1 | 0 | 0 | 0 | 0 |
-| Axman AXM-1N | 2 | 0 | 0 | 1 | 1 |
+| Axman AXM-1N | 3 | 0 | 0 | 1 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 2 | 0 | 0 | 2 | 1 |
 | Bane 3 | 1 | 0 | 0 | 1 | 0 |
@@ -44,11 +44,11 @@
 | Blood Asp I | 2 | 0 | 0 | 0 | 0 |
 | Blood Asp Prime | 4 | 0 | 0 | 4 | 0 |
 | Bulldog Medium Tank | 6 | 0 | 0 | 2 | 0 |
-| Bushwacker BSW-X1 | 4 | 0 | 0 | 2 | 2 |
+| Bushwacker BSW-X1 | 5 | 0 | 0 | 2 | 2 |
 | Caesar CES-3R | 4 | 0 | 0 | 2 | 0 |
 | Caesar CES-3R Archangel | 1 | 0 | 0 | 0 | 0 |
 | Carrion Crow A | 1 | 0 | 0 | 1 | 0 |
-| Cataphract CTF-1X | 3 | 0 | 0 | 1 | 1 |
+| Cataphract CTF-1X | 4 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-C1 | 5 | 0 | 0 | 2 | 2 |
 | Catapult CPLT-C3 | 1 | 0 | 0 | 1 | 1 |
 | Catapult CPLT-K2 | 1 | 0 | 0 | 1 | 1 |
@@ -59,10 +59,10 @@
 | Charger CGR-1A1 | 2 | 0 | 0 | 0 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Chimera CMA-1S | 1 | 0 | 0 | 0 | 0 |
-| Cicada CDA-2A | 2 | 0 | 0 | 1 | 0 |
+| Cicada CDA-2A | 3 | 0 | 0 | 1 | 0 |
 | Clint CLNT-2-3T | 3 | 0 | 0 | 1 | 0 |
 | Commando COM-2D | 5 | 0 | 0 | 3 | 2 |
-| Condor Heavy Hover Tank | 8 | 0 | 0 | 2 | 0 |
+| Condor Heavy Hover Tank | 9 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
 | Coolant Truck 135-K | 2 | 0 | 0 | 0 | 0 |
 | Cougar Prime | 2 | 0 | 0 | 2 | 2 |
@@ -154,12 +154,12 @@
 | Huntsman Prime | 2 | 0 | 0 | 1 | 1 |
 | Hybrid Rifleman | 2 | 0 | 0 | 0 | 0 |
 | Icarus II ICR-1S | 1 | 0 | 0 | 1 | 0 |
-| Ice Ferret Prime | 4 | 0 | 0 | 4 | 3 |
+| Ice Ferret Prime | 5 | 0 | 0 | 4 | 3 |
 | Incubus | 2 | 0 | 0 | 0 | 0 |
 | IS Standard Battle Armor Squad | 13 | 0 | 0 | 9 | 5 |
 | IS Standard Battle Armor Squad (Sqd6) | 2 | 0 | 0 | 2 | 2 |
 | J-27 Ordnance Transport | 2 | 0 | 0 | 0 | 0 |
-| J. Edgar Light Hover Tank | 7 | 0 | 0 | 2 | 2 |
+| J. Edgar Light Hover Tank | 8 | 0 | 0 | 2 | 2 |
 | Jackalope JLP-BD | 2 | 0 | 0 | 2 | 1 |
 | Jade Hawk JHK-03 | 2 | 0 | 0 | 0 | 0 |
 | Jade Phoenix A | 1 | 0 | 0 | 0 | 0 |
@@ -214,7 +214,7 @@
 | Mongoose MON-66 | 2 | 0 | 0 | 2 | 1 |
 | Night Gyr Prime | 3 | 0 | 0 | 2 | 1 |
 | Nightsky NGS-4S | 2 | 0 | 0 | 2 | 0 |
-| Nightstar NSR-9J | 2 | 0 | 0 | 2 | 2 |
+| Nightstar NSR-9J | 3 | 0 | 0 | 2 | 2 |
 | Nova Cat B | 1 | 0 | 0 | 1 | 0 |
 | Nova Cat Prime | 1 | 0 | 0 | 1 | 1 |
 | Nova Prime | 9 | 0 | 0 | 4 | 3 |
@@ -282,7 +282,7 @@
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
 | Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
 | Stalker STK-8S | 2 | 0 | 0 | 0 | 0 |
-| Starslayer STY-3C | 3 | 0 | 0 | 2 | 1 |
+| Starslayer STY-3C | 4 | 0 | 0 | 2 | 1 |
 | Starslayer STY-4C (jumping) | 2 | 0 | 0 | 1 | 0 |
 | Stinger STG-3R | 3 | 0 | 0 | 2 | 2 |
 | Stone Rhino | 2 | 0 | 0 | 1 | 0 |
@@ -337,7 +337,7 @@
 | Warhawk C | 3 | 0 | 0 | 1 | 1 |
 | Warhawk Prime | 2 | 0 | 0 | 1 | 1 |
 | Warrior Attack Helicopter H-7 | 5 | 0 | 0 | 0 | 0 |
-| Wasp WSP-1A | 5 | 0 | 0 | 2 | 2 |
+| Wasp WSP-1A | 6 | 0 | 0 | 2 | 2 |
 | Wasp WSP-3W | 3 | 0 | 0 | 1 | 0 |
 | Wendigo Prime | 2 | 0 | 0 | 1 | 0 |
 | Whitworth WTH-1 | 2 | 0 | 0 | 1 | 0 |
@@ -348,5 +348,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 956 | 0 | 0 | 494 | 258 |
+| TOTAL | 966 | 0 | 0 | 494 | 258 |
 
