@@ -19,3 +19,4 @@
 - Gargoyle C
 - Hellbringer Prime
 - Highlander IIC
+- Mad Cat Mk II

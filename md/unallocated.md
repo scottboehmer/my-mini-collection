@@ -67,7 +67,7 @@
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
 | Enforcer ENF-4R | 1 | Charming Crocodiles, FedCom Brigade |
 | Enforcer ENF-5D | 3 | Starlight Stables |
-| Eris ERS-2N | 1 | Marik Militia |
+| Eris ERS-2N | 2 | Marik Militia |
 | Excalibur EXC-B2 | 1 | Com Guards |
 | Exterminator EXT-4D | 1 | Com Guards |
 | Fire Moth D | 2 | Raging Bears |
@@ -243,5 +243,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 472 | |
+| TOTAL | 473 | |
 

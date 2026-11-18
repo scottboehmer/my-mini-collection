@@ -92,7 +92,7 @@
 | Emperor EMP-6A | 2 | 0 | 0 | 1 | 0 |
 | Enforcer ENF-4R | 3 | 0 | 0 | 2 | 2 |
 | Enforcer ENF-5D | 4 | 0 | 0 | 1 | 1 |
-| Eris ERS-2N | 2 | 0 | 0 | 1 | 1 |
+| Eris ERS-2N | 3 | 0 | 0 | 1 | 1 |
 | Excalibur EXC-B2 | 2 | 0 | 0 | 1 | 1 |
 | Executioner Prime | 4 | 0 | 0 | 4 | 4 |
 | Exterminator EXT-4D | 2 | 0 | 0 | 1 | 1 |
@@ -145,6 +145,7 @@
 | Highlander HGN-694 | 1 | 0 | 0 | 0 | 0 |
 | Highlander HGN-732 | 5 | 0 | 0 | 1 | 1 |
 | Highlander IIC | 2 | 0 | 0 | 1 | 0 |
+| Hollander BZK-F3 | 1 | 0 | 0 | 1 | 0 |
 | Hoplite HOP-4D | 3 | 0 | 0 | 2 | 0 |
 | Horned Owl | 2 | 0 | 0 | 1 | 1 |
 | Howler | 2 | 0 | 0 | 1 | 1 |
@@ -189,6 +190,8 @@
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
 | LRM Carrier | 7 | 0 | 0 | 4 | 2 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
+| Mad Cat Mk II | 1 | 0 | 0 | 1 | 0 |
+| Mad Dog Mk IV Prime | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Prime | 4 | 0 | 0 | 4 | 3 |
 | Malice MAL-XT | 2 | 0 | 0 | 1 | 0 |
 | Manticore Heavy Tank | 6 | 0 | 0 | 2 | 0 |
@@ -244,7 +247,9 @@
 | Piranha | 3 | 0 | 0 | 1 | 1 |
 | Pouncer Prime | 4 | 0 | 0 | 2 | 1 |
 | Quickdraw QKD-4G | 2 | 0 | 0 | 1 | 0 |
+| Rakshasa MDG-1A | 1 | 0 | 0 | 1 | 0 |
 | Raven RVN-3L | 3 | 0 | 0 | 3 | 2 |
+| Regent A | 1 | 0 | 0 | 1 | 0 |
 | Regent Prime | 2 | 0 | 0 | 1 | 1 |
 | Rifleman (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Rifleman C 2 | 1 | 0 | 0 | 1 | 0 |
@@ -276,6 +281,7 @@
 | SM5 Field Commander | 1 | 0 | 0 | 1 | 0 |
 | Sojourner B | 1 | 0 | 0 | 1 | 0 |
 | Sojourner Prime | 1 | 0 | 0 | 1 | 1 |
+| Solitaire | 1 | 0 | 0 | 1 | 0 |
 | Spartan SPT-N2 | 2 | 0 | 0 | 2 | 1 |
 | Spector SPR-5F | 2 | 0 | 0 | 1 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
@@ -317,6 +323,7 @@
 | UrbanMech UM-R60 (running) | 1 | 0 | 0 | 0 | 0 |
 | UrbanMech UM-R60L | 1 | 0 | 0 | 1 | 0 |
 | UrbanMech UM-R68 | 1 | 0 | 0 | 0 | 0 |
+| Uziel UZL-2S | 1 | 0 | 0 | 1 | 0 |
 | Valkyrie VLK-QA | 2 | 0 | 0 | 2 | 1 |
 | Vapor Eagle | 2 | 0 | 0 | 1 | 1 |
 | Vedette Medium Tank | 6 | 0 | 0 | 0 | 0 |
@@ -348,5 +355,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 966 | 0 | 0 | 494 | 258 |
+| TOTAL | 974 | 0 | 0 | 501 | 258 |
 

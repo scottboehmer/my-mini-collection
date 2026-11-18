@@ -72,6 +72,7 @@
 | Hellspawn HSN-7D | 1 | FedCom Brigade |
 | Hermes II HER-2S | 1 | Marik Militia |
 | Highlander IIC | 1 | Fire Horse Galaxy |
+| Hollander BZK-F3 | 1 | FedCom Brigade |
 | Hoplite HOP-4D | 2 | Kell Hounds, Wolf's Dragoons |
 | Howler 6 | 1 | Gyrfalcon Galaxy |
 | Hunchback HBK-4G | 2 | Donegal Guards, Raging Bears |
@@ -92,6 +93,8 @@
 | Locust LCT-3M | 1 | Eridani Light Horse |
 | LRM Carrier | 2 | Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
+| Mad Cat Mk II | 1 | Fire Horse Galaxy |
+| Mad Dog Mk IV Prime | 1 | Spina Khanate |
 | Mad Dog Prime | 1 | Swift Wings |
 | Malice MAL-XT | 1 | Hastati Sentinels |
 | Manticore Heavy Tank | 2 | Donegal Guards, Donegal Guards |
@@ -120,7 +123,9 @@
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
 | Pouncer Prime | 1 | Dire Wolves |
 | Quickdraw QKD-4G | 1 | Fox Patrol |
+| Rakshasa MDG-1A | 1 | FedCom Brigade |
 | Raven RVN-3L | 1 | Death Commandos |
+| Regent A | 1 | Marik Militia |
 | Rifleman C 2 | 1 | Gyrfalcon Galaxy |
 | Rifleman RFL-3N | 3 | Gray Death Legion, Tamar Jaegers, Wolf's Dragoons |
 | Rime Otter Prime | 1 | Raging Bears |
@@ -138,6 +143,7 @@
 | Shogun SHG-2F | 1 | Wolf's Dragoons |
 | SM5 Field Commander | 1 | Kell Hounds |
 | Sojourner B | 1 | Dire Wolves |
+| Solitaire | 1 | Spina Khanate |
 | Spartan SPT-N2 | 1 | Wolf's Dragoons |
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
 | Spider SDR-5V | 1 | Drake Hunters |
@@ -156,6 +162,7 @@
 | Timber Wolf Prime | 3 | Dire Wolves, Spina Khanate, Wolf's Dragoons |
 | UrbanMech UM-R27 | 1 | Kell Hounds |
 | UrbanMech UM-R60L | 1 | 4th McCarron's Armored Cavalry |
+| Uziel UZL-2S | 1 | Donegal Guards |
 | Valkyrie VLK-QA | 1 | Kell Hounds |
 | Venom SDR-9K | 1 | Ryuken-roku |
 | Viking IIC | 1 | Raging Bears |
@@ -173,5 +180,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 236 | |
+| TOTAL | 243 | |
 

@@ -543,7 +543,7 @@
     },
     {
       "Name": "Eris ERS-2N",
-      "CountInCollection": 2,
+      "CountInCollection": 3,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -860,6 +860,12 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Hollander BZK-F3",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Hoplite HOP-4D",
       "CountInCollection": 3,
       "PendingCount": 0,
@@ -1119,6 +1125,18 @@
     },
     {
       "Name": "Mackie MSK-5S",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Mad Cat Mk II",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Mad Dog Mk IV Prime",
       "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
@@ -1454,8 +1472,20 @@
       "WishlistCount": 0
     },
     {
+      "Name": "Rakshasa MDG-1A",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
       "Name": "Raven RVN-3L",
       "CountInCollection": 3,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Regent A",
+      "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
     },
@@ -1641,6 +1671,12 @@
     },
     {
       "Name": "Sojourner Prime",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Solitaire",
       "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0
@@ -1887,6 +1923,12 @@
     },
     {
       "Name": "UrbanMech UM-R68",
+      "CountInCollection": 1,
+      "PendingCount": 0,
+      "WishlistCount": 0
+    },
+    {
+      "Name": "Uziel UZL-2S",
       "CountInCollection": 1,
       "PendingCount": 0,
       "WishlistCount": 0

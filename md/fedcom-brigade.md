@@ -31,9 +31,11 @@
 - Dervish DV-6M
 - Falconer FLC-8R
 - Hellspawn HSN-7D
+- Hollander BZK-F3
 - Javelin JVN-10N
 - Mobile Headquarters
 - Patton Tank
 - Patton Tank
+- Rakshasa MDG-1A
 - Schrek PPC Carrier
 - Schrek PPC Carrier

@@ -31,4 +31,5 @@
 - Starslayer STY-3C
 - Sturmfeur Heavy Tank
 - Sturmfeur Heavy Tank
+- Uziel UZL-2S
 - Ymir BWP-2B
