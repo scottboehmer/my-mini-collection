@@ -27,6 +27,10 @@
       "Painted": true
     },
     {
+      "Name": "Kingfisher C",
+      "Painted": false
+    },
+    {
       "Name": "Mist Lynx Prime",
       "Painted": true
     },
@@ -35,8 +39,16 @@
       "Painted": true
     },
     {
+      "Name": "Nova Prime",
+      "Painted": false
+    },
+    {
       "Name": "Shadow Cat Prime",
       "Painted": true
+    },
+    {
+      "Name": "Summoner Prime",
+      "Painted": false
     },
     {
       "Name": "Supernova",

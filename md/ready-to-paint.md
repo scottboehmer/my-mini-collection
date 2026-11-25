@@ -83,6 +83,7 @@
 | Jackalope JLP-BD | 1 | Hastati Sentinels |
 | Javelin JVN-10N | 1 | FedCom Brigade |
 | Jenner JR7-D | 1 | Eridani Light Horse |
+| Kingfisher C | 1 | 1st Nova Cat Guards |
 | Kit Fox Prime | 1 | Fox Patrol |
 | Kontio | 1 | Death Commandos |
 | Legionnaire LGN-2K | 1 | Hastati Sentinels |
@@ -111,7 +112,7 @@
 | Night Gyr Prime | 1 | Old Blood and Guts |
 | Nightsky NGS-4S | 2 | Donegal Guards, Kell Hounds |
 | Nova Cat B | 1 | Raging Bears |
-| Nova Prime | 1 | Old Blood and Guts |
+| Nova Prime | 2 | 1st Nova Cat Guards, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 1 | Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
@@ -154,6 +155,7 @@
 | Stormcrow Prime | 3 | Cloud Rangers, Shadow Wolves, Swift Wings |
 | Sturmfeur Heavy Tank | 3 | Donegal Guards, Donegal Guards, Hesperus Guards |
 | Summoner H | 1 | Gyrfalcon Galaxy |
+| Summoner Prime | 1 | 1st Nova Cat Guards |
 | Thanatos TNS-4S | 1 | Hastati Sentinels |
 | Thunderbolt IIC | 1 | Gyrfalcon Galaxy |
 | Thunderbolt TDR-5S | 2 | II Legio Cataphracti, Kell Hounds |
@@ -180,5 +182,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 243 | |
+| TOTAL | 246 | |
 

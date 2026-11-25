@@ -171,7 +171,7 @@
 | Jenner JR7-D | 5 | 0 | 0 | 2 | 1 |
 | King Crab (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | King Crab KGC-000 | 2 | 0 | 0 | 1 | 1 |
-| Kingfisher C | 1 | 0 | 0 | 0 | 0 |
+| Kingfisher C | 1 | 0 | 0 | 1 | 0 |
 | Kingfisher Prime | 2 | 0 | 0 | 2 | 2 |
 | Kintaro KTO-20 | 2 | 0 | 0 | 1 | 1 |
 | Kit Fox Prime | 3 | 0 | 0 | 3 | 2 |
@@ -220,7 +220,7 @@
 | Nightstar NSR-9J | 3 | 0 | 0 | 2 | 2 |
 | Nova Cat B | 1 | 0 | 0 | 1 | 0 |
 | Nova Cat Prime | 1 | 0 | 0 | 1 | 1 |
-| Nova Prime | 9 | 0 | 0 | 4 | 3 |
+| Nova Prime | 9 | 0 | 0 | 5 | 3 |
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
 | Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
@@ -296,7 +296,7 @@
 | Stormwolf Prime | 1 | 0 | 0 | 1 | 1 |
 | Sturmfeur Heavy Tank | 5 | 0 | 0 | 3 | 0 |
 | Summoner H | 1 | 0 | 0 | 1 | 0 |
-| Summoner Prime | 7 | 0 | 0 | 3 | 3 |
+| Summoner Prime | 7 | 0 | 0 | 4 | 3 |
 | Supernova | 2 | 0 | 0 | 1 | 1 |
 | Templar TLR1-O | 2 | 0 | 0 | 1 | 1 |
 | Thanatos TNS-4S | 2 | 0 | 0 | 1 | 0 |
@@ -355,5 +355,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 974 | 0 | 0 | 501 | 258 |
+| TOTAL | 974 | 0 | 0 | 504 | 258 |
 

@@ -122,7 +122,6 @@
 | Jenner JR7-D | 3 | Eridani Light Horse, Ryuken-roku |
 | King Crab (Gothic) | 1 |  |
 | King Crab KGC-000 | 1 | Com Guards |
-| Kingfisher C | 1 |  |
 | Kintaro KTO-20 | 1 | Com Guards |
 | Kodiak | 1 | Raging Bears |
 | Lament LMT-2R | 1 | Hastati Sentinels |
@@ -149,7 +148,7 @@
 | Mobile Long Tom Artillery LT-MOB-25 Support Carriage | 2 |  |
 | Night Gyr Prime | 1 | Gyrfalcon Galaxy, Old Blood and Guts |
 | Nightstar NSR-9J | 1 | Donegal Guards, FedCom Brigade |
-| Nova Prime | 5 | Fire Horse Galaxy, Old Blood and Guts, Raging Bears, Shadow Wolves |
+| Nova Prime | 4 | 1st Nova Cat Guards, Fire Horse Galaxy, Old Blood and Guts, Raging Bears, Shadow Wolves |
 | Ontos Heavy Tank | 4 | Marik Militia |
 | Orion ON1-K | 1 | Knights of the Inner Sphere, Marik Militia, Ryuken-roku, Shadow Wolves |
 | Ostroc OSR-3M | 2 |  |
@@ -202,7 +201,7 @@
 | Stinger STG-3R | 1 | FedCom Brigade, Marik Militia |
 | Stone Rhino | 1 | Cloud Rangers |
 | Sturmfeur Heavy Tank | 2 | Donegal Guards, Donegal Guards, Hesperus Guards |
-| Summoner Prime | 4 | Gyrfalcon Galaxy, Raging Bears, Spina Khanate |
+| Summoner Prime | 3 | 1st Nova Cat Guards, Gyrfalcon Galaxy, Raging Bears, Spina Khanate |
 | Supernova | 1 | 1st Nova Cat Guards |
 | Templar TLR1-O | 1 | FedCom Brigade |
 | Thanatos TNS-4S | 1 | Hastati Sentinels |
@@ -243,5 +242,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 473 | |
+| TOTAL | 470 | |
 

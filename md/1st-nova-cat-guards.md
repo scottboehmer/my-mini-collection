@@ -14,4 +14,7 @@
 - Timber Wolf Prime
 - Turkina Prime
 ## Planned Expansion
+- Kingfisher C
+- Nova Prime
+- Summoner Prime
 - Wendigo Prime
