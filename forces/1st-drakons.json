@@ -1,0 +1,54 @@
+{
+  "Name": "1st Drakons",
+  "Faction": "Free Rasalhague Republic",
+  "Miniatures": [
+    {
+      "Name": "Archer ARC-5R",
+      "Painted": false
+    },
+    {
+      "Name": "Axman AXM-1N",
+      "Painted": false
+    },
+    {
+      "Name": "Charger CGR-1A1",
+      "Painted": false
+    },
+    {
+      "Name": "Commando COM-2D",
+      "Painted": false
+    },
+    {
+      "Name": "Dragon DRG-1N",
+      "Painted": false
+    },
+    {
+      "Name": "Griffin GRF-1N",
+      "Painted": false
+    },
+    {
+      "Name": "LRM Carrier",
+      "Painted": false
+    },
+    {
+      "Name": "LRM Carrier",
+      "Painted": false
+    },
+    {
+      "Name": "Panther PNT-9R",
+      "Painted": false
+    },
+    {
+      "Name": "Patton Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Patton Tank",
+      "Painted": false
+    },
+    {
+      "Name": "Stalker STK-3F",
+      "Painted": false
+    }
+  ]
+}

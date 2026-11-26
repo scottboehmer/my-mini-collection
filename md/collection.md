@@ -8,7 +8,7 @@
 | Archer ARC-2R | 3 | 0 | 0 | 3 | 2 |
 | Archer ARC-2R Kell | 2 | 0 | 0 | 1 | 0 |
 | Archer ARC-2W | 3 | 0 | 0 | 1 | 0 |
-| Archer ARC-5R | 3 | 0 | 0 | 1 | 1 |
+| Archer ARC-5R | 3 | 0 | 0 | 2 | 1 |
 | Arctic Cheetah A | 1 | 0 | 0 | 1 | 0 |
 | Arctic Cheetah Prime | 3 | 0 | 0 | 3 | 2 |
 | Argus AGS-4D | 2 | 0 | 0 | 1 | 0 |
@@ -24,7 +24,7 @@
 | Awesome AWS-8R | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q | 2 | 0 | 0 | 0 | 0 |
 | Awesome AWS-9Q (IWM) | 1 | 0 | 0 | 0 | 0 |
-| Axman AXM-1N | 3 | 0 | 0 | 1 | 1 |
+| Axman AXM-1N | 3 | 0 | 0 | 2 | 1 |
 | Axman AXM-2N | 2 | 0 | 0 | 1 | 0 |
 | Bane | 2 | 0 | 0 | 2 | 1 |
 | Bane 3 | 1 | 0 | 0 | 1 | 0 |
@@ -56,12 +56,12 @@
 | Centurion CN9-A | 4 | 0 | 0 | 3 | 2 |
 | Centurion CN9-YLW Yen-Lo-Wang | 2 | 0 | 0 | 1 | 1 |
 | Chameleon CLN-7V | 2 | 0 | 0 | 0 | 0 |
-| Charger CGR-1A1 | 2 | 0 | 0 | 0 | 0 |
+| Charger CGR-1A1 | 2 | 0 | 0 | 1 | 0 |
 | Charger CGR-3K | 1 | 0 | 0 | 1 | 0 |
 | Chimera CMA-1S | 1 | 0 | 0 | 0 | 0 |
 | Cicada CDA-2A | 3 | 0 | 0 | 1 | 0 |
 | Clint CLNT-2-3T | 3 | 0 | 0 | 1 | 0 |
-| Commando COM-2D | 5 | 0 | 0 | 3 | 2 |
+| Commando COM-2D | 5 | 0 | 0 | 4 | 2 |
 | Condor Heavy Hover Tank | 9 | 0 | 0 | 2 | 0 |
 | Conjurer | 2 | 0 | 0 | 1 | 1 |
 | Coolant Truck 135-K | 2 | 0 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@
 | Dire Wolf Prometheus | 2 | 0 | 0 | 0 | 0 |
 | Dire Wolf Widowmaker | 1 | 0 | 0 | 1 | 0 |
 | Dominator | 1 | 0 | 0 | 1 | 1 |
-| Dragon DRG-1N | 3 | 0 | 0 | 1 | 1 |
+| Dragon DRG-1N | 3 | 0 | 0 | 2 | 1 |
 | Dragon Fire DRG-3F | 1 | 0 | 0 | 1 | 0 |
 | Dragon Fire DRG-9D | 1 | 0 | 0 | 0 | 0 |
 | Drillson Heavy Hover Tank | 7 | 0 | 0 | 2 | 2 |
@@ -119,7 +119,7 @@
 | Grasshopper GHR-5J | 3 | 0 | 0 | 1 | 1 |
 | Grendel A | 1 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
-| Griffin GRF-1N | 6 | 0 | 0 | 5 | 4 |
+| Griffin GRF-1N | 6 | 0 | 0 | 6 | 4 |
 | Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
@@ -188,7 +188,7 @@
 | Locust LCT-1V | 5 | 0 | 0 | 4 | 1 |
 | Locust LCT-3M | 3 | 0 | 0 | 1 | 0 |
 | Longbow LGB-7Q | 2 | 0 | 0 | 2 | 2 |
-| LRM Carrier | 7 | 0 | 0 | 4 | 2 |
+| LRM Carrier | 7 | 0 | 0 | 6 | 2 |
 | Mackie MSK-5S | 1 | 0 | 0 | 1 | 0 |
 | Mad Cat Mk II | 1 | 0 | 0 | 1 | 0 |
 | Mad Dog Mk IV Prime | 1 | 0 | 0 | 1 | 0 |
@@ -231,8 +231,8 @@
 | Ostsol OTL-9R | 2 | 0 | 0 | 0 | 0 |
 | Ostwar OWR-3M | 2 | 0 | 0 | 0 | 0 |
 | Pack Hunter | 2 | 0 | 0 | 2 | 0 |
-| Panther PNT-9R | 4 | 0 | 0 | 2 | 2 |
-| Patton Tank | 7 | 0 | 0 | 3 | 0 |
+| Panther PNT-9R | 4 | 0 | 0 | 3 | 2 |
+| Patton Tank | 7 | 0 | 0 | 5 | 0 |
 | Peacekeeper PKP-1A | 2 | 0 | 0 | 2 | 0 |
 | Pegasus Scout Hover Tank | 6 | 0 | 0 | 0 | 0 |
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
@@ -286,7 +286,7 @@
 | Spector SPR-5F | 2 | 0 | 0 | 1 | 0 |
 | Spider SDR-5V | 2 | 0 | 0 | 2 | 1 |
 | SRM Carrier | 8 | 0 | 0 | 0 | 0 |
-| Stalker STK-3F | 4 | 0 | 0 | 2 | 1 |
+| Stalker STK-3F | 4 | 0 | 0 | 3 | 1 |
 | Stalker STK-8S | 2 | 0 | 0 | 0 | 0 |
 | Starslayer STY-3C | 4 | 0 | 0 | 2 | 1 |
 | Starslayer STY-4C (jumping) | 2 | 0 | 0 | 1 | 0 |
@@ -355,5 +355,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 974 | 0 | 0 | 504 | 258 |
+| TOTAL | 974 | 0 | 0 | 516 | 258 |
 

@@ -8,6 +8,7 @@
 | Archer ARC-2R | 1 | Marik Militia |
 | Archer ARC-2R Kell | 1 | Kell Hounds |
 | Archer ARC-2W | 1 | Wolf's Dragoons |
+| Archer ARC-5R | 1 | 1st Drakons |
 | Arctic Cheetah A | 1 | Raging Bears |
 | Arctic Cheetah Prime | 1 | Ryuken-roku |
 | Argus AGS-4D | 1 | FedCom Brigade |
@@ -16,6 +17,7 @@
 | Atlas II AS7-D-H | 1 | Hastati Sentinels |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
+| Axman AXM-1N | 1 | 1st Drakons |
 | Axman AXM-2N | 1 | Donegal Guards |
 | Bane | 1 | Swift Wings |
 | Bane 3 | 1 | Gyrfalcon Galaxy |
@@ -32,10 +34,11 @@
 | Caesar CES-3R | 2 | FedCom Brigade, Pirates |
 | Carrion Crow A | 1 | Swift Wings |
 | Centurion CN9-A | 1 | II Legio Cataphracti |
+| Charger CGR-1A1 | 1 | 1st Drakons |
 | Charger CGR-3K | 1 | Ryuken-roku |
 | Cicada CDA-2A | 1 | Marik Militia |
 | Clint CLNT-2-3T | 1 | Northwind Highlanders |
-| Commando COM-2D | 1 | Eridani Light Horse |
+| Commando COM-2D | 2 | 1st Drakons, Eridani Light Horse |
 | Condor Heavy Hover Tank | 2 | Tamar Jaegers, Tamar Jaegers |
 | Crusader CRD-3R | 1 | Tamar Jaegers |
 | Crusader CRD-5M | 2 | Kell Hounds, Knights of the Inner Sphere |
@@ -45,6 +48,7 @@
 | Dervish DV-6M | 1 | FedCom Brigade |
 | Devastator DVS-2 | 1 | Donegal Guards |
 | Dire Wolf Widowmaker | 1 | Wolf's Dragoons |
+| Dragon DRG-1N | 1 | 1st Drakons |
 | Dragon Fire DRG-3F | 1 | Ryuken-roku |
 | Elemental Point | 3 | Cloud Rangers, Fire Horse Galaxy, Wolf's Dragoons |
 | Emperor EMP-6A | 1 | 4th McCarron's Armored Cavalry |
@@ -60,7 +64,7 @@
 | Grasshopper GHR-5H | 1 | Ryuken-roku |
 | Grendel A | 1 | Raging Bears |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
-| Griffin GRF-1N | 1 | Fox Patrol |
+| Griffin GRF-1N | 2 | 1st Drakons, Fox Patrol |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
@@ -92,7 +96,7 @@
 | Locust IIC 4 | 1 | Gyrfalcon Galaxy |
 | Locust LCT-1V | 3 | Drake Hunters, Fox Patrol, Gray Death Legion |
 | Locust LCT-3M | 1 | Eridani Light Horse |
-| LRM Carrier | 2 | Marik Militia, Marik Militia |
+| LRM Carrier | 4 | 1st Drakons, 1st Drakons, Marik Militia, Marik Militia |
 | Mackie MSK-5S | 1 | Hegemony Armed Forces |
 | Mad Cat Mk II | 1 | Fire Horse Galaxy |
 | Mad Dog Mk IV Prime | 1 | Spina Khanate |
@@ -116,7 +120,8 @@
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
 | Ostscout OTT-7J | 1 | Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
-| Patton Tank | 3 | FedCom Brigade, FedCom Brigade, Hesperus Guards |
+| Panther PNT-9R | 1 | 1st Drakons |
+| Patton Tank | 5 | 1st Drakons, 1st Drakons, FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Peacekeeper PKP-1A | 2 | Hastati Sentinels, Ryuken-roku |
 | Phoenix Hawk IIC | 1 | Jade Tigers |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
@@ -148,7 +153,7 @@
 | Spartan SPT-N2 | 1 | Wolf's Dragoons |
 | Spector SPR-5F | 1 | 4th McCarron's Armored Cavalry |
 | Spider SDR-5V | 1 | Drake Hunters |
-| Stalker STK-3F | 1 | Wolf's Dragoons |
+| Stalker STK-3F | 2 | 1st Drakons, Wolf's Dragoons |
 | Starslayer STY-3C | 1 | Donegal Guards |
 | Starslayer STY-4C (jumping) | 1 | 4th McCarron's Armored Cavalry |
 | Stone Rhino | 1 | Cloud Rangers |
@@ -182,5 +187,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 246 | |
+| TOTAL | 258 | |
 
