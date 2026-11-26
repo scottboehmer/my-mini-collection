@@ -37,6 +37,8 @@ The simple command line tool I use for managing this repo is in [`scottboehmer/m
   - [Ryuken-roku](md/ryuken-roku.md)
 - Federated Suns
   - [FedCom Brigade](md/fedcom-brigade.md)
+- Free Rasalhague Republic
+  - [1st Drakons](md/1st-drakons.md)
 - Free Worlds League
   - [Knights of the Inner Sphere](md/knights-of-the-inner-sphere.md)
   - [Marik Militia](md/marik-militia.md)
