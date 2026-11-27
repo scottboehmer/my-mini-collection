@@ -17,7 +17,7 @@
 | Atlas AS7-D | 6 | 0 | 0 | 5 | 4 |
 | Atlas AS7-D (damaged) | 1 | 0 | 0 | 0 | 0 |
 | Atlas AS7-S | 3 | 0 | 0 | 2 | 1 |
-| Atlas II AS7-D-H | 3 | 0 | 0 | 2 | 1 |
+| Atlas II AS7-D-H | 3 | 0 | 0 | 3 | 1 |
 | Atlas II AS7-D-H Devlin | 1 | 0 | 0 | 1 | 0 |
 | Avatar AV1-O | 1 | 0 | 0 | 0 | 0 |
 | Awesome AWS-8Q | 5 | 0 | 0 | 5 | 4 |
@@ -120,7 +120,7 @@
 | Grendel A | 1 | 0 | 0 | 1 | 0 |
 | Grendel Prime | 4 | 0 | 0 | 3 | 1 |
 | Griffin GRF-1N | 6 | 0 | 0 | 6 | 4 |
-| Griffin GRF-2N | 2 | 0 | 0 | 0 | 0 |
+| Griffin GRF-2N | 2 | 0 | 0 | 1 | 0 |
 | Griffin GRF-3M | 2 | 0 | 0 | 2 | 0 |
 | Griffin IIC | 2 | 0 | 0 | 1 | 1 |
 | Grizzly | 3 | 0 | 0 | 2 | 2 |
@@ -223,7 +223,7 @@
 | Nova Prime | 9 | 0 | 0 | 5 | 3 |
 | Ontos Heavy Tank | 5 | 0 | 0 | 1 | 1 |
 | Orion ON1-K | 5 | 0 | 0 | 4 | 3 |
-| Orion ON1-Kb | 1 | 0 | 0 | 1 | 1 |
+| Orion ON1-Kb | 1 | 0 | 0 | 1 | 0 |
 | Ostroc OSR-3M | 2 | 0 | 0 | 0 | 0 |
 | Ostroc OSR-6R | 1 | 0 | 0 | 0 | 0 |
 | Ostscout OTT-7J | 3 | 0 | 0 | 2 | 1 |
@@ -238,7 +238,7 @@
 | Penetrator PTR-4D | 2 | 0 | 0 | 1 | 1 |
 | Phoenix Hawk (Gothic) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk IIC | 3 | 0 | 0 | 2 | 1 |
-| Phoenix Hawk PHX-1b | 1 | 0 | 0 | 0 | 0 |
+| Phoenix Hawk PXH-1b | 1 | 0 | 0 | 1 | 0 |
 | Phoenix Hawk PXH-1 | 7 | 0 | 0 | 7 | 4 |
 | Phoenix Hawk PXH-1 (premium) | 1 | 0 | 0 | 0 | 0 |
 | Phoenix Hawk PXH-3M (kitbash) | 1 | 0 | 0 | 1 | 1 |
@@ -355,5 +355,5 @@
 | Wraith TR1 | 3 | 0 | 0 | 2 | 1 |
 | Ymir BWP-2B | 1 | 0 | 0 | 1 | 0 |
 | Zeus ZEU-6S | 2 | 0 | 0 | 2 | 1 |
-| TOTAL | 974 | 0 | 0 | 516 | 258 |
+| TOTAL | 974 | 0 | 0 | 519 | 257 |
 

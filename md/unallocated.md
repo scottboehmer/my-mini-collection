@@ -12,7 +12,6 @@
 | Atlas AS7-D | 1 | 1st Canopian Cuirassiers, Com Guards, FedCom Brigade, Marik Militia, Ryuken-roku |
 | Atlas AS7-D (damaged) | 1 |  |
 | Atlas AS7-S | 1 | Donegal Guards, Hesperus Guards |
-| Atlas II AS7-D-H | 1 | Donegal Guards, Hastati Sentinels |
 | Avatar AV1-O | 1 |  |
 | Awesome AWS-8R | 1 |  |
 | Awesome AWS-9Q | 2 |  |
@@ -86,7 +85,7 @@
 | Grasshopper GHR-5H | 1 | 1st Canopian Cuirassiers, Ryuken-roku |
 | Grasshopper GHR-5J | 2 | Northwind Highlanders |
 | Grendel Prime | 1 | Cloud Rangers, Old Blood and Guts, Spina Khanate |
-| Griffin GRF-2N | 2 |  |
+| Griffin GRF-2N | 1 | SLDF |
 | Griffin IIC | 1 | 1st Nova Cat Guards |
 | Grizzly | 1 | Fire Horse Galaxy, Raging Bears |
 | Grizzly 3 | 1 |  |
@@ -162,7 +161,6 @@
 | Penetrator PTR-4D | 1 | FedCom Brigade |
 | Phoenix Hawk (Gothic) | 1 |  |
 | Phoenix Hawk IIC | 1 | Fire Horse Galaxy, Jade Tigers |
-| Phoenix Hawk PHX-1b | 1 |  |
 | Phoenix Hawk PXH-1 (premium) | 1 |  |
 | Pike Support Vehicle | 3 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
@@ -241,5 +239,5 @@
 | Wolfhound WLF-2 (kneeling) | 1 | Kell Hounds |
 | Wolverine WVR-6R | 4 | Gray Death Legion, Kell Hounds, Marik Militia, Ryuken-roku |
 | Wraith TR1 | 1 | Death Commandos, Marik Militia |
-| TOTAL | 458 | |
+| TOTAL | 455 | |
 

@@ -14,7 +14,7 @@
 | Argus AGS-4D | 1 | FedCom Brigade |
 | Atlas AS7-D | 1 | Marik Militia |
 | Atlas AS7-S | 1 | Hesperus Guards |
-| Atlas II AS7-D-H | 1 | Hastati Sentinels |
+| Atlas II AS7-D-H | 2 | Hastati Sentinels, SLDF |
 | Atlas II AS7-D-H Devlin | 1 | Stone's Lament |
 | Awesome AWS-8Q | 1 | Hastati Sentinels |
 | Axman AXM-1N | 1 | 1st Drakons |
@@ -65,6 +65,7 @@
 | Grendel A | 1 | Raging Bears |
 | Grendel Prime | 2 | Cloud Rangers, Old Blood and Guts |
 | Griffin GRF-1N | 2 | 1st Drakons, Fox Patrol |
+| Griffin GRF-2N | 1 | SLDF |
 | Griffin GRF-3M | 2 | Hesperus Guards, Kell Hounds |
 | Guillotine GLT-3N (jumping) | 1 | Knights of the Inner Sphere |
 | Gunslinger GUN-1ERD | 1 | Ryuken-roku |
@@ -118,12 +119,14 @@
 | Nova Cat B | 1 | Raging Bears |
 | Nova Prime | 2 | 1st Nova Cat Guards, Old Blood and Guts |
 | Orion ON1-K | 1 | Knights of the Inner Sphere |
+| Orion ON1-Kb | 1 | SLDF |
 | Ostscout OTT-7J | 1 | Marik Militia |
 | Pack Hunter | 2 | Dire Wolves, Dire Wolves |
 | Panther PNT-9R | 1 | 1st Drakons |
 | Patton Tank | 5 | 1st Drakons, 1st Drakons, FedCom Brigade, FedCom Brigade, Hesperus Guards |
 | Peacekeeper PKP-1A | 2 | Hastati Sentinels, Ryuken-roku |
 | Phoenix Hawk IIC | 1 | Jade Tigers |
+| Phoenix Hawk PXH-1b | 1 | SLDF |
 | Phoenix Hawk PXH-1 | 3 | Eridani Light Horse, Knights of the Inner Sphere, Ryuken-roku |
 | Pike Support Vehicle | 4 | 1st Canopian Cuirassiers, 1st Canopian Cuirassiers, Com Guards, Com Guards |
 | Pillager PLG-3Z | 1 | 4th McCarron's Armored Cavalry |
@@ -187,5 +190,5 @@
 | Wraith TR1 | 1 | Death Commandos |
 | Ymir BWP-2B | 1 | Donegal Guards |
 | Zeus ZEU-6S | 1 | Hesperus Guards |
-| TOTAL | 258 | |
+| TOTAL | 262 | |
 
